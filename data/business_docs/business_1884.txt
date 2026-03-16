@@ -1,0 +1,2 @@
+Given a sentence, find its main idea.
+The main idea of the sentence is that the company is planning to launch new products in the upcoming quarter.

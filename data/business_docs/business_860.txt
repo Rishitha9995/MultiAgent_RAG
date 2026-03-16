@@ -1,0 +1,8 @@
+Generate a list of three potential investments for a client.
+Here are three potential investment ideas for a client with an average risk profile:
+
+1. **Index Funds or ETFs**: Index funds or ETFs that track a broad market index such as the S&P 500 are generally considered to have moderate risk. They offer diversification and lower costs making them suitable for investors willing to take on average risk.
+
+2. **Dividend Stocks**: Blue-chip companies that have a long history of paying dividends may be a suitable investment for someone with an average risk profile. These companies are usually financially stable, well-managed and could provide a steady income stream over the long term.
+
+3. **Real Estate Investment Trusts (REIT)**: An investment in a well-managed real estate investment trust may offer a good balance between risk and reward for an investor. REITs invest in commercial real estate and are required to pay out 90% of their taxable income as dividends, so they can provide a stable source of income while still offering the potential for capital appreciation.

@@ -1,0 +1,13 @@
+Given the following customer feedback, write a response in a professional manner.
+Dear Customer,
+
+Thank you for taking the time to provide us with your feedback. We're deeply sorry to hear that our product did not meet your expectations, and we apologize for any inconvenience this may have caused.
+
+Your feedback is highly valuable to us, and we would appreciate the opportunity to learn more about the issues you experienced with the product. Could you please share with us more details about the specific problem, including any error messages you may have received or steps that led you to conclude that the product is not working as advertised?
+
+Once again, we apologize for any disappointment caused and assure you that we take all feedback seriously, using it to constantly improve our products and services.
+
+Thank you for giving us the chance to make it right.
+
+Best regards,
+[Your Company]

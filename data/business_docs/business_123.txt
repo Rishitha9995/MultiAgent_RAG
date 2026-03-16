@@ -1,0 +1,12 @@
+How does unsupervised learning work?
+Unsupervised learning is a type of machine learning that involves finding structures and patterns in data without having pre-defined outcomes or labels. It relies on algorithms to identify correlations and clustering of data by exploring the underlying structure of the data to organize it in a meaningful way.
+
+In unsupervised learning, the system is provided with a large dataset and left to find patterns and relationships by itself. The most common unsupervised learning techniques are clustering, dimensionality reduction, and association rule mining.
+
+In clustering, the data is organized into groups, or clusters, based on the similarities between the data points. The algorithm tries to minimize the differences within clusters while maximizing the differences between clusters. Popular clustering algorithms include K-Means, Hierarchical clustering, and DBSCAN.
+
+Dimensionality reduction is used to reduce the number of variables in a dataset while retaining as much information as possible. This is helpful to visualize data in lower dimensions or to handle datasets that have a large number of features. Principal Component Analysis (PCA) and t-distributed Stochastic Neighbor Embedding (t-SNE) are popular techniques for dimensionality reduction.
+
+Association rule mining is used to find relationships between variables in large databases. It is frequently used in market basket analysis to find items that are frequently bought together.
+
+In conclusion, unsupervised learning works by analyzing and organizing data based on the inherent relationships within it, without any prior knowledge of the outcomes.

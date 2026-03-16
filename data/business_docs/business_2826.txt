@@ -1,0 +1,6 @@
+Name five jobs that use technology.
+1. Software Engineer: writes, builds and tests software applications.
+2. Network Engineer: maintains, troubleshoot and optimize computer networks.
+3. Data Analyst: uses various technology to collect, process and analyze data that can be used to inform business decisions.
+4. Cybersecurity Analyst: protects computer networks and systems from unauthorized access or attacks using various tools and technologies.
+5. Technical Support Specialist: assists and troubleshoots customers' technical problems with software or computer hardware, often using remote access technology.

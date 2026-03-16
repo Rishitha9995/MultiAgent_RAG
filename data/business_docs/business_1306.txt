@@ -1,0 +1,19 @@
+Construct a database table to store details about prior visitors at a hotel.
+Here is an example of a database table that can be used to store details about prior visitors at a hotel:
+
+**Table Name: Prior_Visitors**
+
+| Column Name | Data Type | Description | 
+|-------------|-----------|-------------|
+| VisitorID | Integer | Unique identifier for each visitor | 
+| FirstName | Text | The first name of the visitor|
+| LastName | Text | The last name of the visitor|
+| Email | Text | The email address of the visitor |
+| PhoneNumber | Text | The phone number of the visitor |
+| Address | Text | The home address of the visitor |
+| CheckInDate | Date | The date the visitor checked in |
+| CheckOutDate | Date | The date the visitor checked out |
+| RoomNumber | Integer | The room number the visitor stayed in |
+| TotalBill | Currency | The total bill amount for the visit|
+
+Each row in the table would represent a prior visitor at the hotel, and their information would be stored in the columns. This table can be used to track and manage information about prior visitors, and it can be useful for marketing and communication purposes.

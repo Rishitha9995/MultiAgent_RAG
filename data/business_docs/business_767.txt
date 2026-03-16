@@ -1,0 +1,2 @@
+Given a piece of news, rewrite it in a sarcastic tone.
+Oh great, just what small businesses needed in their lives, another "Business Suite" brought to us by the almighty Google. How thoughtful of them.

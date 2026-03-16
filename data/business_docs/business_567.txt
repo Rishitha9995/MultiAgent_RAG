@@ -1,0 +1,6 @@
+Given an article, summarize the main points in 5 sentences.
+1. AI chatbots are computer programs designed to mimic human conversation using NLP, AI, and ML technologies. 
+2. They have become increasingly popular in customer service, providing quick answers and advice. 
+3. They can guide customers through complex procedures and automate repetitive tasks. 
+4. This automation can save businesses time and money. 
+5. AI chatbots can help reduce customer service costs by streamlining customer interactions.

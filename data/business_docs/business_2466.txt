@@ -1,0 +1,6 @@
+Name three champions in the field of Artificial Intelligence.
+1. Dr. Geoffrey Hinton - He is a world-renowned computer scientist, cognitive psychologist, and a significant developer of Deep Learning techniques. Hinton is a professor at the University of Toronto and a researcher at Google Brain.
+
+2. Dr. Yann LeCun – He is a computer scientist and pioneer in the field of neural networks, with significant contributions to the development of convolutional neural networks. LeCun is currently a professor at New York University and the Chief AI Scientist at Facebook.
+
+3. Dr. Demis Hassabis - He is a computer scientist, neuroscientist, and co-founder and CEO of DeepMind, a leading AI research company. Hassabis has made significant contributions to the field of artificial general intelligence and has developed several groundbreaking AI programs, including AlphaGo, a program that defeated the world champion in the game of Go.

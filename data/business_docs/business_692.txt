@@ -1,0 +1,6 @@
+Explain the concept of limited liability in business.
+Limited liability is a legal concept that refers to the financial responsibility of business owners and shareholders. It means that their personal liability for the debts and actions of the company is limited to the amount they have invested in the business. In other words, their personal assets are protected from business debts, losses, or legal claims. This concept applies to corporations and limited liability companies (LLCs), where the shareholders or members are only liable for the amount they have invested in the company.
+
+This concept is intended to encourage entrepreneurship and risk-taking by providing a level of protection for investors. It allows business owners to focus on growing their company without the fear that personal bankruptcy or financial ruin would result from business failure or legal action against the company.
+
+However, limited liability does not provide absolute protection. In some cases, such as fraud or illegal activities, the corporate veil can be pierced, and business owners and shareholders can be held personally accountable. Business owners are also still liable for personal guarantees that they may have given to secure business loans or credit.

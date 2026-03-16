@@ -1,0 +1,4 @@
+Name 3 applications for artificial intelligence
+1. Healthcare: AI can be used in the field of medicine to help with diagnosis, treatment planning, drug discovery, and personalized patient treatment options.
+2. Finance: AI can be used in the banking and finance industries to analyze data and help with fraud detection, credit scoring, and investment strategies.
+3. Customer Service: AI-powered virtual assistants and chatbots can be used to provide 24/7 customer support, automate responses to common questions, and personalize customer interactions.

@@ -1,0 +1,6 @@
+Name three pieces of software used for business accounting.
+1. QuickBooks: This software is widely used by small and medium-sized businesses for managing their financial operations. It offers features such as invoicing, expense tracking, and reporting.
+
+2. Sage: Sage is another popular accounting software that provides solutions for businesses of different sizes. It helps you keep track of your cash flow, manage your inventory, and generate reports. 
+
+3. Xero: Xero is a cloud-based software used by small businesses to manage their finances. It offers features such as bank reconciliation, invoicing, inventory tracking, and payroll integration.

@@ -1,0 +1,16 @@
+Write a script for a 30-second advertisement about a new product
+Announcer Voice-over starts:
+Are you tired of messy stovetops and hard-to-clean cookware? Introducing, the new "EasyClean Cooktop"! 
+
+Image of the cooktop is shown:
+Our state-of-the-art technology ensures seamless and spill-proof cooking, while its design allows for super-easy cleaning. 
+
+Video of food being cooked on the cooktop:
+Say goodbye to stuck-on food and hello to a clean and pristine cooking surface! 
+
+Image of the cooktop being easily cleaned:
+Even the toughest of spills are eliminated in a snap, so you can focus more on cooking and less on cleaning. 
+
+Announcer Voice-over ends:
+Upgrade your kitchen with "EasyClean Cooktop" today! 
+End with company logo, slogan, and availability.

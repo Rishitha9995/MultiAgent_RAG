@@ -1,0 +1,6 @@
+Name three artificial intelligence applications
+1. Virtual Assistants: AI-powered virtual assistants such as Siri, Amazon Alexa and Google Assistant can interact with users and fulfil their requests by accessing the internet or the device settings, playing a song or making a reservation, adding items to a shopping list, among other things.
+
+2. Chatbots: AI-powered chatbots are used by many businesses to enhance customer interaction and provide prompt answers to queries. Machine learning algorithms and natural language processing technologies allow chatbots to accurately interpret human language and provide personalized and specific answers.
+
+3. Healthcare: AI has been making a big impact in the healthcare industry. It can help in diagnosis, identifying diseases and abnormalities in scans, recommending treatments, drug development and assisting with patient care. AI apps for mental health and wellness, such as Woebot or Wysa, are also gaining popularity.

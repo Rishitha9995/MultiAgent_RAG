@@ -1,0 +1,24 @@
+Create a script for a customer service representative that deals with a complaint from a customer.
+**Customer Service Representative:** Good morning/afternoon, thank you for calling our customer service line. How may I help you today?
+
+**Customer:** I have a complaint to make. I recently purchased a product from your company and it has not met my expectations.
+
+**Customer Service Representative:** I am sorry to hear that. Can you please provide me with more information about the issue?
+
+**Customer:** I bought [product] and it is not working properly/it arrived damaged/it’s not what I expected.
+
+**Customer Service Representative:** I apologize for the inconvenience. That is certainly not up to our standards. Can you please provide me with your order number, so I can look into the matter more closely?
+
+**Customer:** Sure, here it is: [order number].
+
+**Customer Service Representative:** Thank you. Alright, I have located your order in our system. On behalf of the company, I would like to express my sincerest apologies for the trouble you've experienced. 
+
+In order to make things right, we can offer you a full refund, exchange the product for a new one, or offer you store credit for the value of the purchase. What option would you prefer?
+
+**Customer:** I would like [refund/exchange/store credit].
+
+**Customer Service Representative:** No problem. I will process your request for [refund/exchange/store credit] right away. Is there anything else I can assist you with today?
+
+**Customer:** No, that's all, thank you.
+
+**Customer Service Representative:** You’re welcome. Once again, I apologize for any inconvenience this may have caused. Thank you for bringing this matter to our attention and giving us the opportunity to make things right. Thank you for choosing our company, have a great day!

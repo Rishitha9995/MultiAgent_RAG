@@ -1,0 +1,2 @@
+Describe the type of database in the following statement.
+The type of database described in the statement is a Relational Database Management System (RDBMS) that uses Structured Query Language (SQL) to manage and organize data. It stores data in tables, which are organized into rows and columns, and the relationships between these tables are defined by specific relational rules and constraints.

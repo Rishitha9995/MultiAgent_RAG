@@ -1,0 +1,10 @@
+Speculate how the world would be different if computers were never invented.
+If computers were never invented, the world would be vastly different from what it is today. Without computers, we would not have the internet or any of the numerous technological advancements that have stemmed from computer technology. Information sharing among people and organization may have still been limited, slow and largely dependent on physical mediums.
+
+Many of the daily tasks that we perform using computers, such as writing and sending email, online shopping, banking, and research, would have to be done manually. This would likely result in slower communication, reduced productivity, and limited access to information.
+
+In terms of business and the economy, the lack of computers would have a profound impact. Many industries, such as finance, healthcare, and transportation, rely heavily on computer technology for data analysis, record keeping, and automation. Without computers, these industries would be less efficient, and the speed of innovation and growth would be significantly reduced.
+
+Moreover, fields like Artificial Intelligence, Machine Learning, and Data Science would be non-existent. This means much of the automation, prediction, and decision-making humans get through these fields would still have been performed manually.
+
+In summary, if computers were never invented, the world would be a much slower, less connected and less efficient place, with limited access to information, reduced productivity, and slower progress in many industries.

@@ -1,0 +1,20 @@
+At the Hardey Fitness Center, the management did a survey of their membership. The average age of the female members was 40 years old. The average age of the male members was 25 years old. The average age of the entire membership was 30 years old. What is the ratio of the female to male members? Express your answer as a common fraction.
+At the Hardey Fitness Center, the average age of the female members is 40 years old and the average age of the male members is 25 years old. The average age of the entire membership is 30 years old. What is the ratio of female to male members?
+
+To solve this problem, we can use the following formula:
+
+(40f + 25m) / (f + m) = 30
+
+where f is the number of female members and m is the number of male members. We want to find the ratio of f to m, which can be expressed as f/m.
+
+To begin, let's simplify the formula:
+
+40f + 25m = 30(f + m)
+
+Simplifying further, we get:
+
+f = 1/2 m
+
+Therefore, the ratio of female to male members is:
+
+f/m = 1/2

@@ -1,0 +1,6 @@
+Divide this text into two subsections.
+#### Subsection 1: The Use of Data in Decision Making
+We live in a world where data is increasingly being used to inform decisions, from healthcare to finance.
+
+#### Subsection 2: The Transformational Impact of Big Data
+Big data is transforming our lives in ways that were unimaginable before, and it is having an ever-growing impact on our lives.

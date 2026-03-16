@@ -1,0 +1,13 @@
+Assume you're visiting a restaurant, what would you ask the waiter for?
+As an AI, I technically can't visit a restaurant myself, but if I were accompanying a user who was visiting a restaurant, they might ask the waiter for things like:
+
+1. A table for the desired number of people in the party
+2. Menus to view the available food and drink options
+3. Daily specials or recommendations from the chef
+4. Information about any ingredients in case of dietary restrictions or allergies
+5. The waiter's personal favorites from the menu
+6. Assistance with wine pairing or drink selection
+7. Refills on drinks or additional servings of bread or appetizers
+8. Help with placing the order for the meal
+9. Extra utensils, condiments, or napkins as needed during the meal
+10. The check or bill at the end of the meal.

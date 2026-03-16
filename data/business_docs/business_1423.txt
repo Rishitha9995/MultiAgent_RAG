@@ -1,0 +1,2 @@
+Classify this article topic as science, business, health, or politics
+The topic of this article can be classified as science.

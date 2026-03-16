@@ -1,0 +1,2 @@
+Identify a tool that can be used to calculate risk.
+One tool that can be used to calculate risk is a risk assessment matrix. This is a visual representation that organizes potential risks based on their likelihood of occurrence and the magnitude of their impact. It is commonly used in project management, safety assessments, and business planning to help decision-makers identify and prioritize potential risks and implement appropriate mitigation strategies.

@@ -1,0 +1,13 @@
+Analyze the given ethical dilemma and explain the potential consequences of each available decision.
+As a manager of a fast food restaurant facing a mouse infestation in the kitchen, there are several potential consequences to consider depending on the decision taken.
+
+Option 1: Inform Customers
+By informing customers about the problem, you are being transparent and honest about the situation. This could help to build trust with customers in the long run, since they will appreciate your honesty and willingness to address the problem. However, in the short term, this could lead to loss of business as customers may be hesitant to eat at the restaurant until the problem is resolved. Additionally, the reputation of the restaurant could be affected if the news of the infestation spreads to the wider community.
+
+Option 2: Ignore the situation
+If you choose to ignore the situation, you are putting the health and safety of customers at risk. The presence of mice in the kitchen could potentially lead to contamination of food, causing foodborne illnesses. This could result in legal action and financial loss, not only from lawsuits, but also from loss of business as customers lose trust in the restaurant’s ability to maintain proper hygiene standards. Furthermore, this could ultimately lead to the shutdown of the restaurant by the health department.
+
+Option 3: Lie about the problem
+If you choose to lie about the problem, you are not only misleading customers, but you are also potentially putting their health and safety at risk. If the infestation is not addressed promptly, it could lead to the same negative consequences as ignoring the situation, such as contamination of food, legal action, financial loss and damage to the restaurant’s reputation. Additionally, if customers find out that you were lying about the problem, trust in the restaurant will be severely undermined and could result in even greater long-term damage to the restaurant’s reputation and business.
+
+In conclusion, while informing customers about the situation may lead to short-term loss of business, it is the most ethical decision as it prioritizes the health and safety of customers and could ultimately help to build trust with customers in the long run. Ignoring the situation or lying about the problem could result in far more negative consequences for both the restaurant and its customers.

@@ -1,0 +1,11 @@
+Compose an email to your customer regarding the status of their customer order.
+Dear Valued Customer,
+
+Thank you for shopping with us. We are writing to provide you with an update on the status of your order for the XYZ product. We are pleased to inform you that your order has been processed and has now been shipped from our warehouse.
+
+You can expect your package to arrive within the next two days. We understand that you might have some questions or concerns, so please do not hesitate to contact us if you have any further queries.
+
+Once again, we thank you for choosing us and we hope you enjoy your purchase. We look forward to serving you again in the near future.
+
+With warm regards,
+[Your Company]

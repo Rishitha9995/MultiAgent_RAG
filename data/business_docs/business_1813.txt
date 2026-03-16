@@ -1,0 +1,17 @@
+Generate an timeline of the major events in the history of photography.
+1. **1727** - Johann Heinrich Schulze, a German physicist, discovered that silver nitrate darkened upon exposure to light, leading to the development of photosensitive materials.
+2. **1826/1827** - The first permanent photograph was captured by French inventor Nicéphore Niépce, titled as "View from the Window at Le Gras." It was, however exposed for 8 hours.
+3. **1839** - Louis Daguerre publicly introduced the daguerreotype, the first practical photographic process. 
+4. **1841** - William Henry Fox Talbot patented the calotype process, a negative-positive process which allowed for multiple reproductions of a single image.
+5. **1851** - Frederick Scott Archer introduced the wet collodion process, which significantly reduced exposure time and allowed for more detailed images.
+6. **1871** - Richard Maddox invented the dry plate process, which eliminated the need for the cumbersome wet collodion process.
+7. **1888** - George Eastman introduced the Kodak Camera which used film rolls instead of plates, making photography more accessible to the general public.
+8. **1900** - The introduction of the Brownie camera by the Eastman Kodak Company made it possible for amateur photographers to take photographs at a relatively low cost.
+9. **1925** - The first 35mm film camera, the Leica, was introduced by the German company Ernst Leitz. 
+10. **1936** - The Single Lens Reflex (SLR) camera was first commercially introduced by Kine Exakta, this type of camera allowed photographers to see exactly what they were photographing through the lens.
+11. **1948** - Edwin Land introduced the first instant camera, the Polaroid Land Camera Model 95.
+12. **1963** - Polaroid introduced the first colored instant film.
+13. **1975** - Steven Sasson at Eastman Kodak invented the first digital camera, which recorded a 0.01-megapixel image onto a cassette tape.
+14. **1986** - Kodak developed the first megapixel sensor, capable of recording 1.4 million pixels and producing a photo-quality print of 5x7 inches.
+15. **1991** - Kodak introduced the first professional digital camera system (DCS), targeted at photojournalists.
+16. **1995** - The first consumer

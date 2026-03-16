@@ -1,0 +1,8 @@
+Make a list of the five most common types of investments.
+Here is a list of five common types of investments:
+
+1. Savings accounts - a low risk investment often offered by banks and credit unions, where you deposit money to earn interest over time.
+2. Stocks - shares in a publicly traded company that can be bought and sold through stock exchanges. Investing in stocks can provide potential for high returns, but it also comes with risk.
+3. Bonds - a fixed income investment where an investor loans money to a government or corporation and receives interest payments over time. Bonds are generally considered lower risk than stocks.
+4. Mutual funds - a type of investment vehicle that pools money from multiple investors to invest in a diversified portfolio of stocks, bonds and other assets.
+5. Real estate - investing in property, either through direct ownership or through a real estate investment trust (REIT), can provide potential for growth and income from rent. Real estate investments can come with higher risk and costs than other investment types.

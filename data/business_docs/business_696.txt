@@ -1,0 +1,2 @@
+Write the most accurate summary of the passage in less than 100 words.
+Intelligent agents are systems designed with machine learning and deep learning capabilities that can extract vital information from large datasets. They learn to detect patterns and make informed decisions without human input. These systems are implemented in various domains such as healthcare, finance, manufacturing, and transportation.

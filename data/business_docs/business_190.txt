@@ -1,0 +1,8 @@
+Compare and contrast email and text messaging.
+Email and text messaging are both forms of electronic communication that allow users to exchange messages with one another quickly and efficiently. However, there are some notable differences between the two methods.
+
+Email, short for electronic mail, is a method of exchanging digital messages between users over the internet. It's a more formal means of communication, and is commonly used for both personal and business communication. Email is particularly useful when sending longer or more detailed messages, as there is no limit on character length. It also allows users to attach files such as videos, documents, and images. Emails can also be organized into folders for easy reference, and users can send the same email to multiple recipients at once.
+
+Text messaging, on the other hand, is a more informal mode of communication. It allows users to send and receive short messages (usually limited to 160 characters) from their mobile devices. Text messaging is convenient for quick, spontaneous conversations, and is typically used for more casual communication, such as chatting with friends or family. Unlike email, text messages cannot include file attachments, and organizing past conversations can be more difficult.
+
+In summary, email is a more formal means of electronic communication, and is often used for longer or more detailed messages, while text messaging is more informal and convenient for quick, on-the-go conversations. Both methods have their advantages and can be extremely useful for facilitating communication between users.

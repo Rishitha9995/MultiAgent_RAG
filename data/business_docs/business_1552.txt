@@ -1,0 +1,8 @@
+Name three sciences related to computing.
+The three sciences related to computing are:
+
+1. Computer science: This is the study of principles and techniques used in designing computer systems. It covers topics such as algorithms, programming languages, computer architecture, and software development.
+
+2. Information science: This branch of science deals with the collection, classification, storage, retrieval, and dissemination of information. It covers topics such as database management systems, information retrieval systems, and data mining.
+
+3. Data science: Data science is an interdisciplinary field that blends various techniques from statistics, mathematics, and computer science to extract insights and knowledge from structured and unstructured data. It covers topics such as machine learning, data analysis, and predictive modeling.

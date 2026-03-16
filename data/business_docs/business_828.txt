@@ -1,0 +1,14 @@
+Explain the OODA loop.
+The OODA Loop is a decision-making model originally created by US Air Force Colonel John Boyd for use in military strategy. OODA is an acronym for the four stages of the loop: Observe, Orient, Decide, and Act.
+
+The first stage, Observe, involves gathering information from various sources about the current situation, including the environment and the actions of other actors in the situation. This stage is about obtaining the relevant data needed for decision-making.
+
+The second stage, Orient, involves interpreting and analyzing the data gathered. This stage is about understanding and making sense of the information, and placing it into context. One's background, experiences, and understanding of the situation all play a role in how the data is processed and interpreted.
+
+The third stage, Decide, involves selecting a course of action based on the interpretation of the data. This stage involves weighing the options and making a decision on the best course of action based on the goals and desired outcomes.
+
+The final stage, Act, involves carrying out the selected course of action. It's the implementation stage where decisions are put into action.
+
+The OODA loop is an iterative process, with the output of one stage feeding into the input of the next stage. After acting, one begins the loop again by observing the results and consequences of the action, and re-evaluating the situation. This allows for continuous adaptation to changes in the environment and the ability to respond quickly to new information.
+
+The OODA loop is not limited to military use and can be applicable to a wide range of situations where decision-making is required, including in business, sports, and daily life.

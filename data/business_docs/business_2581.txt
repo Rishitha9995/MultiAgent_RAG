@@ -1,0 +1,14 @@
+Given the following hypothesis, create a set of experiments to evaluate the hypothesis.
+To evaluate the hypothesis that "people skills are becoming more important in the workplace," the following experiments could be performed:
+
+1. Comparing job descriptions: Conduct a study that compares job descriptions from a decade ago to those of present day, and analyze the frequency and importance placed on people skills in the requirements.
+
+2. Surveying hiring managers: Develop a survey that asks hiring managers how much weight they put on people skills when making hiring decisions, and compare the results to similar surveys conducted in the past.
+
+3. Tracking employee performance: Monitor the performance of employees within an organization and see how those with stronger people skills tend to perform, in terms of promotions, bonuses, and other indicators of success, compared to those with weaker people skills.
+
+4. Analyzing company culture: Analyze the company culture of successful organizations and see if there is a correlation between a strong emphasis on people skills and overall company success.
+
+5. Assessing conflict resolution: Conduct a study that measures how effectively employees with strong people skills are able to resolve workplace conflicts, and compare their performance to employees with weaker people skills.
+
+6. Analyzing training programs: Review corporate training programs and note if there has been an increase in the emphasis on developing people skills in recent years.

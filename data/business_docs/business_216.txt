@@ -1,0 +1,14 @@
+Describe the philosophy behind the given methodology.
+Agile methodology is a popular project management approach widely used in software development, but also implemented in other industries. At its core, the philosophy behind agile methodology is to promote collaboration, flexibility, and continuous improvement. Agile is centered on delivering value to customers early and often, adapting to change, and working iteratively.
+
+The methodology is guided by the Agile Manifesto, which outlines four fundamental values:
+
+1. Individuals and interactions over processes and tools. This value highlights the importance of communication and collaboration between team members, and with customers.
+
+2. Working software over comprehensive documentation. In an agile approach, the focus is on delivering working software or a functional product as early and often as possible, rather than on creating extensive documentation.
+
+3. Customer collaboration over contract negotiation. Agile methodology puts emphasis on working closely with customers to understand their needs and requirements, and incorporating their feedback throughout the development process. 
+
+4. Responding to change over following a plan. An agile approach recognizes that requirements and priorities can change over time, and it prioritizes flexibility and adaptability in responding to changes.
+
+Overall, the philosophy behind agile methodology is to foster a collaborative, flexible, and customer-focused approach to development, where the goal is to deliver value quickly and continuously improve.

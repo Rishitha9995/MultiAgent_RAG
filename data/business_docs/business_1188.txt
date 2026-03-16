@@ -1,0 +1,47 @@
+Design an airplane seating chart.
+Here is an example of an airplane seating chart for a Boeing 737-800 aircraft:
+
+``` 
+Rows   Left Side (A - F)   Right Side (G - K)
+
+1         A  C  D  E                G  H - J  K  (Business class)
+
+2         A  C  D  E                G  H - J  K  (Business class)
+
+3         A  C  D  E                G  H - J  K  (Business class)
+
+4        - - - - - - - - - - - - - - -  (Exit row)
+
+5         A  C  D  E                G  H - J  K  (Economy class)
+
+6         A  C  D  E                G  H - J  K  (Economy class)
+
+7         A  C  D  E                G  H - J  K  (Economy class)
+
+8         A  C  D  E                G  H - J  K  (Economy class)
+
+9         A  C  D  F                G  H - J  K  (Economy class)
+
+10        A  C  D  F                G  H - J  K  (Economy class)
+
+11        A  C  D  F                G  H - J  K  (Economy class)
+
+12        A  C  D  F                G  H - J  K  (Economy class)
+
+13        A  C  D  F                G  H - J  K  (Economy class)
+
+14        A  C  D  F                G  H - J  K  (Economy class)
+
+15        A  C  D  F                G  H - J  K  (Economy class)
+
+16       - - - - - - - - - - - - - - -  (Exit row)
+
+17        A  C  D  F                G  H - J  K  (Economy class)
+
+18        A  C  D  F                G  H - J  K  (Economy class)
+
+19        A  C  D  F                G  H - J  K  (Economy class)
+
+20        A  C  D  F                G  H - J  K  (Economy class)
+
+21        A  C  D

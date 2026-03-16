@@ -1,0 +1,2 @@
+Classification. Classify the given article into either "Business" or "Politics"
+Politics.

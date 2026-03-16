@@ -1,0 +1,8 @@
+Explain the difference between a double and a single entry bookkeeping system.
+Single-entry and double-entry bookkeeping systems are two methods of recording financial transactions. The big difference between the two systems comes from how they handle debits and credits.
+
+Single-entry bookkeeping is much like keeping a checkbook register. Under this system, transactions are recorded with only one entry, either as an expense or as income. This method is simple and straightforward, but it only provides a partial view of your financial situation. The single-entry system is best suited for small businesses or self-employed individuals with minimal and uncomplicated transactions.
+
+On the other hand, double-entry bookkeeping is a more complex and complete method of keeping financial records. In this system, every financial transaction is recorded in at least two accounts: a debit and a corresponding credit. This ensures that the accounting equation of Assets = Liabilities + Equity is always balanced. Double-entry bookkeeping is much more effective at highlighting errors or discrepancies in financial transactions and is the preferred method for larger businesses.
+
+Overall, the main difference between single-entry and double-entry bookkeeping is the level of detail and accuracy each system provides when recording financial transactions.

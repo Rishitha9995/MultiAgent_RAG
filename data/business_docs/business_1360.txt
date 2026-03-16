@@ -1,0 +1,7 @@
+Classify the following news article according to 6 different labels.
+1. Business news
+2. Technology news
+3. Product announcement
+4. Software news
+5. Company news
+6. Consumer news

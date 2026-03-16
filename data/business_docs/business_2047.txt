@@ -1,0 +1,11 @@
+Generate a list of 10 relevant keywords for the writing prompt "ways to reduce stress".
+1. Relaxation techniques
+2. Mindfulness
+3. Exercise
+4. Healthy diet
+5. Sleep
+6. Time management
+7. Support system
+8. Mental health
+9. Coping mechanisms
+10. Self-care

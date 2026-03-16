@@ -1,0 +1,8 @@
+Explain how neural networks can be used to predict stock prices.
+Neural Networks are a type of machine learning algorithm that try to approximate the underlying function that maps inputs to outputs by using a series of interconnected "neurons" organized in layers. These neurons learn to recognize patterns in data by adjusting their internal weights based on the difference between predicted and actual results.
+
+In the context of predicting stock prices, a neural network can be trained on historical data of a stock, such as price, volume, and various technical indicators as inputs, to estimate the future price of that stock. The network would learn to find patterns and relationships between input variables and the stock’s price, predicting future price changes based on these patterns.
+
+The network is typically trained by feeding the model a large amount of historical data, allowing it to find relationships and make predictions. After training, the neural network can then be used to predict stock prices by taking in new data as it becomes available and outputting a prediction based on the learned relationships.
+
+It's important to note that stock prices are influenced by many factors including market trends, news events, and global economics, all of which can be difficult to predict. Therefore, while neural networks can make accurate predictions, they are not foolproof and should be used in conjunction with other analysis techniques.

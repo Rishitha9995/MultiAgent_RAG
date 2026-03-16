@@ -1,0 +1,28 @@
+Design an app to help people find a job.
+The job search app that we could design would aim to make the process of finding a job easier and more efficient for its users. Below is the plan of the app and its features:
+
+**Interface:**
+- The app will have a user-friendly interface, easy to navigate, and aesthetically pleasing.
+- The homepage will allow you to log in or register for a new account.
+- Once registered and logged in, users can create and edit their profiles, upload resumes, set job preferences, track applications, and search for jobs.
+
+**Search Functionality:**
+- Users can search for jobs by title, location, or keywords.
+- Advanced search options will allow users to filter by salary, company, experience level, contract type, and other criteria.
+- The app will also suggest job listings that match users’ profiles, skills, and preferences.
+
+**Ease of Use:**
+- Users can apply for jobs directly through the app with just a few taps.
+- The app will save users’ application history and allow them to track the status of their applications.
+- Users can also save job listings they are interested in to apply later.
+
+**Networking:**
+- Users can connect with other professionals to expand their network and get referrals.
+- The app will also allow users to follow companies and get updates on their job openings.
+
+**Additional Features:**
+- A blog section will provide career advice, job search tips, and industry updates.
+- Users can also opt-in for job alerts and get notified when a job matching their preferences is posted.
+- An in-app messenger will allow users to communicate with potential employers.
+
+Overall, the job search app will provide a seamless experience to its users, helping them find and apply to their dream jobs with ease.

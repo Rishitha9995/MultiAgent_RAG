@@ -1,0 +1,20 @@
+Generate an example to illustrate how sentiment analysis works.
+Sentiment analysis is the process of using computer algorithms and natural language processing to identify, extract, and classify the emotions conveyed by a piece of text such as opinions, feelings, and attitudes.
+
+To illustrate how sentiment analysis works, let's consider the example of a hotel review left by a customer.
+
+Review: "The hotel was in a great location, very clean and the staff were amazing, but the bed was uncomfortable and the towels were not soft at all."
+
+In this example, the sentiment analysis algorithm breaks the text down into its constituent parts, examining each sentence and phrase to identify the emotional content. It then uses machine learning techniques to classify each sentiment as positive, neutral or negative.
+
+The results of the sentiment analysis might look something like this:
+
+"The hotel was in a great location," - Positive
+"very clean" - Positive
+"and the staff were amazing," - Positive
+"but the bed was uncomfortable" - Negative
+"and the towels were not soft at all." - Negative
+
+Overall, the review contains three positive sentiments and two negative sentiments. These results can be used to calculate a sentiment score for the review, which in this case might be +1 (3 positive sentiments - 2 negative sentiments). This score can then be used to determine the overall sentiment of the review, which in this case is mildly positive.
+
+By analyzing and classifying the emotions expressed in the review, sentiment analysis provides valuable insights into how the customer feels about their experience, allowing businesses to identify areas where they can improve their products and services.

@@ -1,0 +1,6 @@
+Name five types of Internet of Things devices.
+1. Smart home devices: Smart devices that are used in homes to automate and control home appliances, lighting, heating, and security, such as smart thermostats, smart locks, or smart speakers like Amazon Echo and Google Home.
+2. Wearable devices: These include devices like smartwatches, fitness trackers, smart glasses, and other wearable technology.
+3. Smart grids: These refer to internet-connected grid systems that manage electricity distribution and usage, providing more efficient energy management.
+4. Connected vehicles: Internet of Things technology is being used to develop vehicles that can communicate with each other, their surroundings, and the road infrastructure; this includes vehicles equipped with sensors, GPS, internet connectivity, and more.
+5. Industrial Internet of Things (IIoT) devices: IIoT refers to the use of IoT technology in industrial applications such as machine-to-machine (M2M) communication, real-time data analysis, and the management of manufacturing processes, machinery, and supply chains.

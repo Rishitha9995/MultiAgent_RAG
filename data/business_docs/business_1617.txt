@@ -1,0 +1,10 @@
+Create an example of a conversation between two friends
+Friend 1: Hey, what’s up? How did your job interview go?
+Friend 2: Hey! It was good, thanks for asking. I think I did well and I hope to hear from them soon.
+Friend 1: That’s awesome, I’m rooting for you! What’s the job for?
+Friend 2: It's for a marketing position at a tech company. I’m really excited about it because it’s a growing industry and I have always been interested in tech.
+Friend 1: That sounds perfect for you! Do you know when you’ll hear back from them?
+Friend 2: They said they’ll give me an update within a week, so I’m trying to be patient but it’s hard.
+Friend 1: I know how that feels, waiting can be the hardest part. But don’t worry, I’m sure you did great and you’ll hear back from them soon with good news.
+Friend 2: Thanks for the support, that means a lot.
+Friend 1: Anytime, my friend. Let's catch up soon and celebrate when you get the job.

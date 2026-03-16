@@ -1,0 +1,11 @@
+Generate a job promotion announcement for the following candidate.
+Dear ABC Corp Employees, 
+
+We are delighted to announce the promotion of Elizabeth King to the position of Sales Manager. Elizabeth has been a dedicated and valuable member of our team, consistently demonstrating the drive and determination needed to excel in our highly competitive industry. 
+
+In her new role, Elizabeth will lead our Sales department, working closely with her team to develop and implement strategies that drive growth and maximize profitability. Her expertise, skills, and commitment to success will be critical as we continue to grow and expand our business. 
+
+Please join us in congratulating Elizabeth on her well-deserved promotion. We look forward to the positive impact she will bring to her new position and to the entire company.
+
+Sincerely, 
+The ABC Corp Leadership Team.

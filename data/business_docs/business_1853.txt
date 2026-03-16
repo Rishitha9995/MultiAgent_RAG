@@ -1,0 +1,6 @@
+Describe the unified modeling language (UML).
+The Unified Modeling Language, commonly abbreviated as UML, is a general-purpose, developmental, modeling language in the field of software engineering that is intended to provide a standard way to visualize the design of a system. It is a widely used visual notation for describing and documenting software systems and business processes. 
+
+UML is based on object-oriented concepts and is composed of several types of diagrams, including class diagrams, use case diagrams, sequence diagrams, activity diagrams, and more. These diagrams help to represent the static structure, behavior, and interaction of the various components of the system. 
+
+The UML has been developed and is managed by the Object Management Group (OMG) and is currently on its 2.5 version. It is widely used in software development and is supported by a range of software development tools. In summary, UML provides a standardized way to model and document a system, enabling effective communication among stakeholders and aiding in the design, development, and maintenance of software systems.

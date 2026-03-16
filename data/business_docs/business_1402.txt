@@ -1,0 +1,6 @@
+Name three services provided by Google for businesses.
+1. Google Ads: This service allows businesses to create and run advertisements that will appear in Google's search results and on their partner websites. It enables businesses to effectively reach their target audience through targeted advertising campaigns.
+
+2. Google Workspace: It's a suite of productivity and collaboration tools, including Gmail, Docs, Drive, and Calendar, designed for businesses. It allows team members to work together seamlessly and efficiently, regardless of their location.
+
+3. Google My Business: This service enables businesses to manage their online presence across Google, including in search and on maps. Businesses can create a profile and provide key information such as their address, phone number, hours of operation, and website, making it easier for customers to find and connect with them.

@@ -1,0 +1,8 @@
+Generate a list of 3 key provisions for a business contract.
+When drafting a business contract, it is important to ensure that it contains all of the necessary provisions to protect the interests of both parties involved. Here are three key provisions that should be included in a business contract:
+
+1. Payment terms: This provision outlines the terms and conditions under which payments will be made, including the amount of payment, due dates, and any penalties for late payments. It is important to be specific about payment terms to avoid any misunderstandings or disputes.
+
+2. Termination clause: A termination clause specifies the conditions under which either party may terminate the contract before its expiration date. This could include failure to meet obligations, bankruptcy, or mutual agreement. It is important to have a clear termination clause to prevent legal disputes in the event that the contract is terminated.
+
+3. Confidentiality: A confidentiality provision prohibits either party from disclosing any confidential information obtained during the course of the contract. This is important to protect trade secrets, financial information, and other sensitive information that may be shared during the course of business.

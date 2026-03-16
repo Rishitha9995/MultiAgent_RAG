@@ -1,0 +1,16 @@
+Identify the risk factors associated with online banking.
+Online banking has become a convenient way for consumers to manage their finances, but it does come with certain risks. Here are some of the risk factors associated with online banking:
+
+1. Phishing Scams: One of the most common risks associated with online banking is the threat of phishing scams, where fraudsters use fake emails, websites and text messages to trick users into providing personal and financial information.
+
+2. Malware: Malicious software can also pose a threat to online banking users. Malware such as viruses, Trojans, and spyware can be installed on a user's computer or mobile device, and can be used to steal personal information or make unauthorized transactions.
+
+3. Weak Passwords: A weak password is another risk factor for online banking. If a user's password is easily guessable, an attacker may be able to access their bank account and make unauthorized transactions.
+
+4. Unsecured Networks: Using online banking on an unsecured network, such as public Wi-Fi, can pose a risk to users' information. Attackers may be able to intercept data transmitted over unsecured networks, which could include sensitive information like usernames, passwords, and account numbers.
+
+5. Outdated Software: Failing to update software on a computer or mobile device can also pose a risk to online banking users. Outdated software may have vulnerabilities that can be exploited by attackers to steal personal information or make unauthorized transactions.
+
+6. Social Engineering: Social engineering attacks, such as pretexting and baiting, can also pose a risk to online banking users. These attacks involve manipulating users into providing personal information or making unwise security-related decisions.
+
+Overall, consumers can reduce these risks by being aware of the potential threats and taking steps to protect their information, such as using strong passwords, updating software, and avoiding unsecured networks.

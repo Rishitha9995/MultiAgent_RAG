@@ -1,0 +1,26 @@
+Describe the process of creating a new virtual machine instance in AWS.
+To create a new virtual machine instance in AWS, you can follow these steps:
+
+1. First, you need to have an Amazon Web Services (AWS) account. So, if you don’t have an account, sign up for one.
+
+2. Next, open the Amazon Elastic Compute Cloud (EC2) service from the AWS Management Console.
+
+3. In the EC2 dashboard, click on the “Launch Instance” button.
+
+4. Choose an Amazon Machine Image (AMI) based on the operating system you want the virtual machine to have.
+
+5. Next, you will need to select the instance type. This will determine the hardware resources allocated to the virtual machine such as CPU, memory and storage. Choose the instance type depending on the resources you need.
+
+6. Configure the instance details such as the number of instances, network, subnet, and other settings.
+
+7. Next, you will need to add storage to the instance. You can specify the size of the volume you want to add.
+
+8. Add tags to the instance. Tags are metadata that can help you organize and manage your instances.
+
+9. Configure the security group. This is a virtual firewall that controls the traffic to your instance. You can add rules to allow specific types of traffics such as HTTP, SSH, etc.
+
+10. Review the information and click on the “Launch” button.
+
+11. Finally, you will need to choose, create or select an already existing key pair that will allow you to connect to the instance securely.
+
+After completing these steps, you will have a new virtual machine instance running on the Amazon Elastic Compute Cloud (EC2) service, which can be accessed and managed from the EC2 dashboard.

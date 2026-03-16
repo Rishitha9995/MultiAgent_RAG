@@ -1,0 +1,11 @@
+Given a table of employee salaries with columns EmployeeID, Salary, StartDate, and EndDate, write a SQL query to find the average salary of employees who have worked at least 6 months and have left the company within the past year.
+Here is an example SQL query to solve the problem:
+
+```
+SELECT AVG(Salary) AS AverageSalary
+FROM EmployeeSalaries
+WHERE EndDate >= DATEADD(year, -1, GETDATE()) 
+AND DATEDIFF(month, StartDate, EndDate) >= 6;
+```
+
+This query selects the average salary in the `EmployeeSalaries` table, where the `EndDate` is within the last year and the duration between `StartDate` and `EndDate` is at least 6 months. The `DATEADD` function is used to subtract 1 year from the current date (`GETDATE()`). The result is returned as a single column with an alias `AverageSalary`.

@@ -1,0 +1,2 @@
+Given a job title, provide a short description of the role.
+A data scientist is a professional who uses a combination of analytical, statistical, and programming skills to collect, analyze, and interpret large sets of data. They use their expertise to help businesses make data-driven decisions, find patterns, and draw insights from complex data sets. A data scientist also needs to be skilled in data visualization techniques and able to communicate their findings clearly and effectively to stakeholders.

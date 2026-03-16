@@ -1,0 +1,14 @@
+Compose an email to the marketing team telling them about a new feature that has been added to the product.
+Dear Marketing Team,
+
+I am reaching out to you today to inform you about an exciting new feature that has been added to our product. Our development team has been working tirelessly to enhance the functionality of our product, and we are thrilled to announce that this new feature is now available for our customers to use.
+
+The new feature is designed to improve user experience and provide additional value to our customers. We are confident that it will be well received by our users and will help to differentiate our product from our competitors.
+
+We kindly request that you begin to incorporate this new feature into your marketing efforts. Please highlight its benefits and emphasize how it can make a difference in the lives of our users. We will provide you with any necessary materials and collateral to support your promotion of this new feature.
+
+Thank you for your unwavering dedication to our product and for your efforts in promoting its many benefits. We look forward to seeing the positive impact this new feature will have on our customers.
+
+Kind regards,
+[Your Name]
+[Your Company]

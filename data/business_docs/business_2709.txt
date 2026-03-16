@@ -1,0 +1,8 @@
+Generate a mad lib using the words provided.
+Once upon a time, in a faraway land, a **horse** and a **turkey** became unlikely friends. One day, they decided to go on an adventure together.
+
+They wandered through fields and forests until they came upon a **sailboat**. They climbed aboard and set off onto the open sea, with the horse as the captain and the turkey as the navigator.
+
+As they sailed along, they laughed and sang, enjoying the sunshine and each other's company. They discovered new lands and met many new friends along the way.
+
+And so, the horse and the turkey had the adventure of a lifetime, all thanks to a sailboat and their unbreakable friendship.

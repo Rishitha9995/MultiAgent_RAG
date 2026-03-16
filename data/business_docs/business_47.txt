@@ -1,0 +1,50 @@
+Construct a timeline for the coronavirus outbreak.
+Here's a timeline of major events during the coronavirus outbreak:
+
+December 31, 2019 - China alerts the World Health Organization (WHO) of several flu-like cases with an unknown cause in Wuhan, Hubei Province.
+
+January 7, 2020 - Chinese authorities identify the new virus as belonging to the coronavirus family.
+
+January 11, 2020 - China reports its first death from the virus.
+
+January 13, 2020 - Thailand reports the first case outside China.
+
+January 20, 2020 - The first cases are reported outside of Asia, in the United States and Australia.
+
+January 23, 2020 - Wuhan is placed under quarantine, halting all travel in and out of the city.
+
+January 30, 2020 - WHO declares the outbreak a global emergency.
+
+February 2, 2020 - The first death outside China is reported in the Philippines.
+
+February 11, 2020 - The virus is officially named COVID-19.
+
+March 11, 2020 - WHO declares COVID-19 a pandemic.
+
+March 13, 2020 - Many countries begin implementing travel restrictions, quarantines, and lockdowns.
+
+March 16, 2020 - Global stock markets suffer significant losses.
+
+March 24, 2020 - The 2020 Olympics scheduled to take place in Tokyo are postponed until 2021.
+
+April 2, 2020 - The global number of confirmed cases surpassed 1 million.
+
+April 7, 2020 - The global death toll reached 100,000.
+
+June 2020 - The number of COVID-19 cases in India and Brazil begins to spike.
+
+July 2020 - The United States becomes the first country to reach 3 million cases.
+
+August 2020 - Russia announces it has developed the first vaccine for COVID-19.
+
+December 8, 2020 - The UK begins its vaccination program.
+
+December 11, 2020 - The Pfizer/BioNTech COVID-19 vaccine is authorized for emergency use in the US.
+
+January 6, 2021 - The global death toll reaches 2 million.
+
+February 17, 2021 - The Johnson & Johnson COVID-19 vaccine is authorized for emergency use by the US.
+
+March 11, 2021 - The WHO reports that more than 300 million vaccine doses have been administered worldwide.
+
+April 2021 - India experiences a devastating second wave of COVID-19

@@ -1,0 +1,10 @@
+Explain the concept of supply and demand in economics.
+Supply and demand is an economic model that is used to determine the price of goods and services in the market. It states that the price of a product or service will naturally reach an equilibrium when determined by the availability of that product (supply) and the desire of consumers to purchase it (demand). 
+
+Demand refers to the number of people who are willing and able to purchase a product or service. Generally, as the price of a product decreases, the number of people who want to buy it will increase. Conversely, as the price increases, the demand will fall. 
+
+Supply, on the other hand, refers to the amount of product or service that is available in the market. When the price of a product is high, the producer is usually willing to supply more of it. Conversely, if the price of the product falls, the producer might not be as inclined to produce as much of it.
+
+The equilibrium between supply and demand is reached when the amount of product or service available meets the number of people who want to buy it. At this point, the market is said to be in balance, and the price of the product reflects its perceived value.
+
+Overall, supply and demand is an important concept in economics—it helps to explain why prices can fluctuate, and how the market adjusts to changes in both supply and demand.

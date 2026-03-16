@@ -1,0 +1,6 @@
+List 3 reasons why people use chatbots
+1. Efficient and timely service: Chatbots are designed to provide quick responses and solutions to queries or problems, without the need for human intervention. This makes them very efficient and helpful to people who want timely service.
+
+2. Availability: Chatbots are available 24/7, which means that people can use them at any time to get the information or service they need. This is particularly helpful for people who need support outside of regular business hours.
+
+3. Personalized experience: Chatbots can be programmed to provide personalized responses and experiences, based on the user's previous interactions and preferences. This means that people can get a more tailored service when using chatbots, which can improve the overall experience.

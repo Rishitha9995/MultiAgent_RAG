@@ -1,0 +1,10 @@
+Compare these two items.
+Apple and Microsoft are two of the biggest and well-known technology companies in the world. While both of these companies operate in the technology industry and produce similar products such as computers, smartphones, and software, there are several key differences between them.
+
+In terms of their origins, Apple was founded in 1976 by Steve Jobs, Steve Wozniak and Ronald Wayne, while Microsoft was formed that same year by Bill Gates and Paul Allen. Today, Apple is headquartered in Cupertino, California, and Microsoft is based in Redmond, Washington.
+
+In terms of their business models and corporate cultures, Apple is known for their focus on design and innovation, often promoting a closed system where all their devices and software work seamlessly together. Microsoft, on the other hand, is known for their focus on productivity and enterprise, often promoting an open system where their software is compatible with multiple platforms and devices.
+
+In terms of their products, Apple produces a wide range of consumer electronics ranging from iPhones and iPads to MacBooks and iMacs. Their operating system, macOS, is exclusive to their own computers. Microsoft, on the other hand, produces the Windows operating system, which is used by the majority of personal computers around the world. Additionally, Microsoft produces their own line of tablets, laptops, and desktops under the Surface brand, as well as the popular gaming console, the Xbox.
+
+Overall, while Apple and Microsoft share similarities as major technology companies, they each have their own distinct approaches to their business models, corporate cultures, and product offerings.

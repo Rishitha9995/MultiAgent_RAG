@@ -1,0 +1,8 @@
+Explain why artificial neural networks are the most commonly used deep learning models.
+Artificial neural networks (ANNs) are the most commonly used deep learning models because they are inspired by the structure and function of the human brain, particularly its interconnected neuron-based information processing system. ANNs are composed of layers of interconnected nodes or neurons that process and transmit data between input and output layers. This structure allows ANNs to recognize and learn patterns and relationships within data, making them powerful tools for tasks such as image recognition, language processing, and predictive analytics.
+
+ANNs are also versatile and can be designed to perform a wide range of tasks, from simple linear regression to complex deep learning algorithms. Moreover, their ability to learn and improve over time by adjusting the weights of their connections enables them to make accurate predictions and classifications even when dealing with large and complex datasets.
+
+Additionally, the availability of powerful computational resources and the development of efficient algorithms for training ANNs have made them more accessible and easy to use for a wide range of applications. This has further boosted their popularity and contributed to their widespread adoption in diverse areas such as finance, healthcare, and transportation.
+
+In summary, artificial neural networks are the most commonly used deep learning models because of their ability to learn and recognize patterns, their versatility, and their capability to handle large and complex data while improving over time.

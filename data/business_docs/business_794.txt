@@ -1,0 +1,2 @@
+Classify the social media post into one of the following categories: Politics, Technology, Sports, Arts, or Business
+Technology

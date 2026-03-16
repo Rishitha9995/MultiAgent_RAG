@@ -1,0 +1,6 @@
+Identify three causes of the given economic indicator.
+1. Weak Economic Growth: Economic growth is one of the key drivers of employment creation. Weak economic growth indicates lower business activity resulting in reduced demand for labor, which ultimately leads to an increase in unemployment levels. 
+
+2. Structural changes: Structural changes driven by shifts in market demand, technological advances or globalization can result in unemployment. When an economy undergoes a structural shift, it may result in certain jobs becoming obsolete, leaving workers in those industries out of work. 
+
+3. Labor Market Mismatches: High levels of unemployment may be due to a mismatch between the skills of the available workforce and the skillset required to fill open positions. This can result from an inadequate education system that fails to prepare individuals for the jobs that are in demand, or the jobs that are available do not match with the aspirations of the available workforce in terms of pay, location or nature of work.

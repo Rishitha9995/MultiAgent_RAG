@@ -1,0 +1,12 @@
+Write a history of artificial intelligence
+Artificial intelligence or commonly known as AI, traces its roots back to ancient civilizations, with Greek myths featuring robots, automatons and other figures displaying artificial intelligence. However, the birth of AI as we know it today is often attributed to a 1956 conference at Dartmouth College, in which cognitive scientists gathered to discuss the potential of computers to simulate human intelligence.
+
+Following this conference, significant advancements were made in the field, with AI pioneers such as John McCarthy, Marvin Minsky, and Allen Newell pushing the boundaries of what was possible with early computer technology. Early successes included programs that could play games like checkers or chess with growing levels of competency, and the creation of the first artificial neural networks, early attempts at replicating the structure and function of the human brain in computer form.
+
+The 1970s and 1980s were a period of excitement and optimism for AI, with funding and research pouring into the field. However, as the complexity of problems increased, it became clear that the methods used at the time had their limitations, resulting in a period of disillusionment known as the "AI winter."
+
+The field bounced back in the 1990s, with the advent of new technologies such as machine learning, in which computers could learn and improve their performance over time. AI was applied to an increasingly wide range of problems, including image and speech recognition, and natural language processing.
+
+The turn of the millennium saw the rise of another wave of game-changing AI technologies. One of the most prominent of these was deep learning, a type of machine learning that used advanced neural networks to analyze and interpret huge amounts of data. This allowed for the creation of incredibly sophisticated AI systems, including autonomous vehicles, voice-activated personal assistants, and intelligent diagnostic tools.
+
+Today, AI continues to evolve at a rapid pace, with researchers exploring new ways to create machines that can learn, think and communicate more like humans. The field has become a key component of many industries, from healthcare to finance, and shows no signs of slowing down. The future of AI is exciting and full of possibilities, as researchers continue to push the boundaries of what is possible with this dynamic technology.

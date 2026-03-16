@@ -1,0 +1,6 @@
+What is the purpose of an identity management system?
+An identity management system (sometimes referred to as an identity management solution or identity and access management, IAM) is used to authenticate and authorize individuals or systems within an organization or across multiple systems and applications. Its main purpose is to ensure that the right people have access to the right resources and information at the right time. This is done by managing user identities, credentials, and access rights.
+
+Identity management systems can help streamline user onboarding, improve security by ensuring only authorized persons have access to sensitive information, and maintain compliance with regulations such as GDPR and HIPAA. An effective identity management system can also help reduce IT support costs by automating common tasks such as password resets and account provisioning.
+
+Overall, the purpose of an identity management system is to improve efficiency, security, and compliance, while saving time and reducing costs for the organization.

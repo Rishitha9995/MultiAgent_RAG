@@ -1,0 +1,24 @@
+Generate a timeline for the US in the 20th century.
+Here is a timeline of major events in the United States during the 20th century:
+
+- 1901: William McKinley, the 25th President of the United States, is assassinated. Theodore Roosevelt becomes the 26th President of the United States.
+- 1903: The Wright Brothers make the first powered flight in Kitty Hawk, North Carolina.
+- 1914-1918: World War I takes place. The United States enters the war in 1917.
+- 1919: The Treaty of Versailles formally ends World War I. The 18th Amendment is ratified, prohibiting the sale, manufacture, and transportation of alcohol.
+- 1920: The 19th Amendment to the United States Constitution, granting women the right to vote, is ratified.
+- 1929: The stock market crashes, marking the beginning of the Great Depression.
+- 1933: Franklin Delano Roosevelt is inaugurated as the 32nd President of the United States. He introduces the New Deal to combat the Great Depression.
+- 1941: The United States enters World War II following the bombing of Pearl Harbor by Japan.
+- 1945: World War II ends with the surrender of Germany and Japan.
+- 1947: The Cold War between the United States and the Soviet Union begins.
+- 1950-1953: The Korean War takes place.
+- 1954: The Supreme Court rules in Brown v. Board of Education that segregated schools are unconstitutional.
+- 1963: President John F. Kennedy is assassinated.
+- 1964: The Civil Rights Act is signed into law, outlawing discrimination based on race, color, religion, sex, or national origin.
+- 1969: Neil Armstrong becomes the first man to walk on the moon.
+- 1974: President Richard Nixon resigns following the Watergate scandal.
+- 1980: Ronald Reagan is elected as the 40th President of the United States.
+- 1989: The Berlin Wall falls, marking the end of the Cold War.
+- 1991: The Persian Gulf War takes place.
+- 1998: The impeachment of President Bill Clinton takes place.
+- 1999: The United States hands over control of the Panama Canal to Panama.

@@ -1,0 +1,10 @@
+Identify 5 areas where AI is being used in manufacturing
+1. Quality Control: AI-powered systems can be used to inspect and analyze products at different stages of the manufacturing process to ensure that they meet the desired standards. These systems can detect defects or deviations from the norm, thereby improving quality control.
+
+2. Predictive Maintenance: By using AI to analyze data from sensors and machine logs, manufacturers can predict when machines are likely to fail, allowing them to schedule maintenance before the failure occurs. This helps to reduce downtime and improve overall productivity.
+
+3. Supply Chain Management: AI systems can be used to optimize the supply chain by predicting demand, managing inventory, and improving logistics. By doing so, they help to reduce waste and improve efficiency.
+
+4. Process Optimization: AI can be used to analyze large amounts of data to identify inefficiencies and bottlenecks in the manufacturing process. Through machine learning, the system can suggest process improvements, resulting in a more efficient and cost-effective manufacturing process.
+
+5. Safety: AI-powered systems can be used to monitor the work environment, detecting potential hazards and alerting workers to these risks in real-time. This can help to reduce accidents, improving overall safety on the factory floor.

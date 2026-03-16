@@ -1,0 +1,12 @@
+Differentiat between a leader and a manager
+A leader and a manager are two distinct roles that are often conflated. While there is some overlap, in general, leaders and managers have different focuses, styles, and approaches. Here are some key differences between leaders and managers:
+
+1. Vision vs Execution: Leaders tend to focus on developing a vision for the future and inspiring others to follow that vision. They are often focused on big-picture thinking and tend to be more strategic in their thinking. Managers, on the other hand, tend to focus more on execution and the day-to-day operation of the organization. They are responsible for ensuring that the work gets done and that goals are met.
+
+2. Inspiration vs Direction: Leaders tend to inspire and motivate their followers by setting an example and providing a sense of purpose. They often lead by example and foster a culture of innovation, experimentation, and risk-taking. Managers tend to focus more on providing clear direction and guidance to their teams. They often set specific goals, develop plans to achieve those goals, and ensure that their teams have the resources and support needed to do their jobs effectively.
+
+3. Change vs Stability: Leaders tend to thrive in environments where change is the norm. They are often focused on driving change, challenging the status quo, and finding new ways of doing things. Managers, on the other hand, tend to focus on maintaining stability and consistency. They are responsible for ensuring that systems and processes are in place to support the smooth operation of the organization.
+
+4. Influence vs Authority: Leaders tend to lead through influence and persuasion, using their charisma, vision, and passion to inspire others. They often rely on their personal power to get others to follow them. Managers, on the other hand, tend to rely more on their formal authority – their position within the organizational hierarchy – to direct others.
+
+Ultimately, the distinction between leaders and managers is not always clear-cut, and many people combine elements of both leadership and management in their roles. However, by understanding the different focuses, styles, and approaches of leaders and managers, we can better appreciate the unique value that each brings to an organization.

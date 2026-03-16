@@ -1,0 +1,2 @@
+Given a set of keywords, generate a creative title for a blog post.
+"The Ultimate Guide to Boosting Your Marketing Game through Social Media"

@@ -1,0 +1,19 @@
+Compare and contrast the different characteristics of the two given products.
+The iPhone 8 and iPhone X (or iPhone 10) are two smartphones from Apple that were released in September 2017. While both phones share some similarities, there are several notable differences that distinguish the two devices.
+
+Design:
+The iPhone 8 has a classic iPhone design, with a physical home button, thick bezels on the top and bottom of the display, and a glass back. Meanwhile, the iPhone X introduced a new design, with a bezel-less OLED display that stretches from edge to edge, a notch at the top to house the front-facing camera and sensors, and no home button. Instead of the home button, the iPhone X uses gestures for navigation.
+
+Size:
+The iPhone 8 has a 4.7-inch display, while the iPhone X has a larger 5.8-inch display. However, due to the edge-to-edge design of the iPhone X, the overall size of the device is actually smaller than the iPhone 8.
+
+Camera:
+Both phones have a 12MP rear camera, but the iPhone X has a dual-lens setup, with a wide-angle and telephoto lens, while the iPhone 8 has a single wide-angle lens. This means the iPhone X can take better zoomed-in shots and has a Portrait Mode for DSLR-like photos with blurred backgrounds. On the front, both phones have a 7MP camera, but the iPhone X also has a TrueDepth camera system that enables Face ID and Animoji.
+
+Hardware:
+The iPhone 8 and iPhone X both use Apple's A11 Bionic chip, but the iPhone X has more RAM (3GB vs 2GB) and a slightly larger battery. Both devices support wireless charging.
+
+Price:
+When they were released, the iPhone X was significantly more expensive than the iPhone 8. As of September 2021, the iPhone 8 is available at a lower price as a refurbished item, as it has been discontinued by Apple, while the iPhone X, which has also been discontinued, can only be found at a higher price in the used or refurbished smartphone market.
+
+In conclusion, the iPhone 8 and iPhone X have several similarities, such as their processor and support for wireless charging, but also have significant differences in design, display, camera, and price.

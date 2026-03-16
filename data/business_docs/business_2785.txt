@@ -1,0 +1,2 @@
+Make a guess about the outcome based on the following facts.
+Based on the input, it can be inferred that for every $1 United States Dollar, one would expect to receive 0.9 Euros, meaning that a Euro would be worth slightly more than the Dollar at this given exchange rate. However, it is important to note that this is just based on the data provided and no further information is given about the current market conditions or trends that might impact the future value of the currencies.

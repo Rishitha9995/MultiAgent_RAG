@@ -1,0 +1,2 @@
+Given an article, identify the main actors and summarize their roles.
+The main actors in the film The Godfather are Marlon Brando, who plays Don Vito Corleone, the head of a criminal organization, and his son Michael Corleone, played by Al Pacino, who is a World War II hero and initially wants no part in the family business.

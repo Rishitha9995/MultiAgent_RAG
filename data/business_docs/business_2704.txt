@@ -1,0 +1,10 @@
+Provide five examples of companies that use machine learning.
+1. **Amazon** - Amazon uses machine learning for various purposes, including product recommendations, detecting fraudulent activities, anticipating consumer demand, and improving user experience.
+
+2. **Netflix** - Netflix uses machine learning algorithms for the recommendation system which personalizes the content to deliver relevant TV shows and movies that are tailored to users’ tastes.
+
+3. **Google** - Google uses machine learning in various aspects of its operations, such as search algorithms, parent filtering, language translations, image recognition, and predictive text for voice searches.
+
+4. **Facebook** - Facebook uses machine learning to personalize its users' newsfeeds, optimize targeted advertisements, power its facial recognition technology, and identify and remove offensive content.
+
+5. **Spotify** - Spotify is another great example of a company that uses machine learning. The company uses it to deliver personalized playlists, make music recommendations, understand user behavior, and predict which songs will become popular on its platform.

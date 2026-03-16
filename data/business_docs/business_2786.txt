@@ -1,0 +1,10 @@
+List 5 common types of top-level internet domains.
+1. .com - It stands for "commercial" and is the most common domain extension used by for-profit businesses and companies.
+
+2. .org - This domain stands for "organization" and is typically used by nonprofit organizations or educational institutions.
+
+3. .edu - It stands for "education" and is reserved for accredited educational institutions, primarily in the United States.
+
+4. .net - It stands for "network" and was originally intended for use by Internet service providers and other organizations involved in Internet infrastructure.
+
+5. .gov - It stands for "government" and is reserved for use by government agencies and departments, primarily in the United States.

@@ -1,0 +1,6 @@
+Given a list of events in chronological order, arrange them correctly
+The correct arrangement of the given events in chronological order is as follows:
+
+1. Address from CEO
+2. Company presentation
+3. Catered lunch

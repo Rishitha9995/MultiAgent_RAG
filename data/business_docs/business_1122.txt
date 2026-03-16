@@ -1,0 +1,6 @@
+Analyze the following document and group the topics it talks about.
+1. Uber being a leading company in the ride-sharing industry since its launch in 2009.
+2. Its disruption of the transportation industry with its business model acting as a middleman between the rider and the driver.
+3. Its main service offering is a mobile app and website for requesting rides from available drivers.
+4. Its payment system developed in partnership with third-party processors.
+5. Add-on services like UberPool and UberRush for sharing rides and scheduling for future times.

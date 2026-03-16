@@ -1,0 +1,6 @@
+Provide a scenario of a data misuse.
+Data misuse occurs when personal or sensitive information is collected, stored, or shared without proper consent or justification. One common example of data misuse is when a company sells its customers' personal data to the third parties for their own benefit without obtaining the customers' prior consent. 
+
+Suppose Allison signed up for a makeup subscription box, entering all of her personal and payment information on the company's website. The company, in violation of its own privacy policy, without Allison's knowledge or consent, sold her personal data to third-party companies. One day, Allison started receiving unsolicited emails, phone calls, and text messages from advertisers, promoting a range of irrelevant products, and services that she never showed any interest in. 
+
+After some investigation, Allison discovered the source of her sudden influx of spam and realized that the makeup subscription box company had sold her information to other businesses. This was a clear case of data misuse, as the company did not have the right to share or sell Allison's personal information without her consent. And the constant barrage of spam messages and calls became a major inconvenience and invasion of privacy for Allison.

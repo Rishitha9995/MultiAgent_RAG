@@ -1,0 +1,2 @@
+Construct a sentence that accurately describes the given relationship.
+There is a strong positive relationship between customer satisfaction and customer loyalty, where satisfied customers tend to be more loyal to the company.

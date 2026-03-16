@@ -1,0 +1,10 @@
+Describe the trends in usage of the given product in the last 5 years.
+In the last five years, there has been a significant increase in the usage of smartphones globally. The main reason for this is the advancement in mobile technology which has made smartphones indispensable devices for most people. People now rely heavily on their phones for communication, entertainment, shopping, and managing their daily activities. This has also led to an increase in the number of smartphone purchases and penetrations in emerging markets.
+
+An interesting trend that has been observed is the growing popularity of larger screen smartphones, commonly referred to as phablets. These devices offer better viewing experiences for video content, and also make it easier to perform tasks such as reading and writing emails or browsing the web. The demand for such devices has driven manufacturers to increase the size of their displays.
+
+Another trend that has been developing is the move towards 5G technology. Although still in its infancy, the transition to 5G networks has already begun and is expected to accelerate, making smartphones even faster and more reliable.
+
+Moreover, the increase in mobile internet usage has led to a surge in the development and use of mobile applications, which has further fueled the growth in smartphone usage. Social media, mobile gaming, and music streaming are some of the most popular categories for smartphone apps.
+
+Overall, the last five years have seen a remarkable increase in smartphone usage, and this trend is expected to continue in the coming years as technology continues to advance, and more people become connected to the internet through their mobile devices.

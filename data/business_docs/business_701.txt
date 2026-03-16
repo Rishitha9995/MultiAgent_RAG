@@ -1,0 +1,2 @@
+Categorize the following company as either a B2B or a B2C business.
+Uber is a B2C (business-to-consumer) company, as it primarily provides services directly to individual customers.

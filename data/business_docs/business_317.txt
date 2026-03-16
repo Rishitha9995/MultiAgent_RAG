@@ -1,0 +1,18 @@
+You have been asked to conduct a survey on the customer experience at a retail store. What types of questions should you include?
+When designing a customer experience survey for a retail store, the objective is to gather information that will help the store management understand the likes and dislikes of their customers, identify areas that need improvement, and make informed decisions on how to enhance the shopping experience. Some types of questions that can be included are:
+
+1. Overall Experience: Ask customers about their overall experience shopping in the retail store, and how satisfied they were.
+ 
+2. Shopping Environment: Ask about the store's cleanliness, organization, and layout to determine if customers find it easy and comfortable to navigate and shop.
+
+3. Product Availability and Variety: Ask if customers were able to find the products they were looking for, and if the selection and variety of products met their expectations.
+
+4. Staff Interaction: Ask about the helpfulness, friendliness, and knowledge of the store's employees, and if customers are satisfied with the level of service they received.
+
+5. Price and Value: Ask if customers feel that the prices are fair and if they found any good deals or promotions.
+
+6. Checkout Experience: Ask about the speed and convenience of the checkout process, and if customers experienced any issues.
+
+7. Loyalty and Recommendations: Ask if customers are likely to return to the store and if they would recommend it to others.
+
+8. Suggestions for Improvement: Ask customers for any suggestions or feedback on how to improve the shopping experience at the store.

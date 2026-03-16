@@ -1,0 +1,17 @@
+Compose an email to an employee informing them of their termination.
+Subject: Termination of Employment
+
+Dear John,
+
+I hope this email finds you well. I regret to inform you that we have decided to terminate your employment with the company, effective immediately.
+
+This was not an easy decision for us to make, and we appreciate the contributions you have made during your time here. We understand that this news may be difficult to process, and we want to assure you that this decision is not a reflection of your work performance or personal character.
+
+You will receive any outstanding payments, including any unused vacation and sick time, in accordance with our company’s policies. Please return any company property, including any equipment or identification, to HR by the end of the week.
+
+We wish you the best of luck in your future endeavors and thank you for your service to the company.
+
+Sincerely,
+[Your Name]
+[Your Professional Title]
+[Company Name]

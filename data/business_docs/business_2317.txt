@@ -1,0 +1,10 @@
+Create a template for a friendly welcome message to new customers.
+Dear [CUSTOMER_NAME],
+
+On behalf of our entire team at [COMPANY_NAME], we would like to extend a warm welcome to you! We are thrilled that you have chosen our products/services, and we are committed to providing you with exceptional service and an unforgettable experience.
+
+Once again, thank you for choosing [COMPANY_NAME], and we hope to build a lasting relationship with you. If there is anything we can assist you with or any questions you may have, please do not hesitate to contact us. We are here to help.
+
+Sincerely,
+[SENDER_NAME]
+[COMPANY_NAME]

@@ -1,0 +1,16 @@
+Create an employee manual that outlines the roles and responsibilities of a web developer.
+Welcome to the team! As a web developer, you play a crucial role in designing, building, and managing our web-based applications, systems and products, ensuring they are user-friendly, effective, and efficient. Here, we have outlined some of the major roles and responsibilities that come with being a web developer:
+
+1. DESIGN: It is important to ensure that web applications are visually appealing and engaging to create an immersive experience for users. This is done through the use of design tools such as Photoshop or Sketch, user research, and wireframing.
+
+2. DEVELOPMENT: Web developers use a variety of programming languages, such as HTML, CSS, JavaScript, and PHP, to write, create, and edit websites and application code. They must be able to develop complex websites from scratch and maintain them over time.
+
+3. TESTING: One of the main responsibilities of a web developer is to test websites and applications, ensuring that they are functioning correctly and are free from bugs or errors. This involves reviewing code, debugging, and performing quality assurance checks.
+
+4. MANAGEMENT: Web developers are responsible for managing the project from conception to delivery, ensuring that it is completed on time and within budget. They must be able to work collaboratively with other departments, such as design, marketing or sales, and communicate effectively to keep the project on track.
+
+5. PROBLEM-SOLVING: Web developers are responsible for troubleshooting and resolving issues that may arise during production or with existing websites or applications. They must be able to think critically and creatively to develop, implement, and maintain solutions.
+
+6. CONTINUING EDUCATION: As technology evolves, it is important for web developers to stay updated on emerging trends and changes in the industry. They must be willing to learn and adapt to new technologies, programming languages, and design techniques.
+
+In conclusion, web developers are critical players in the creation, development, management, and maintenance of web-based applications and products. Their roles and responsibilities are varied and require a combination of technical, creative, and interpersonal skills. We are excited to have you on board and look forward to the great work that you will do to contribute to our success.

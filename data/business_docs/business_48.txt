@@ -1,0 +1,14 @@
+Compare and contrast two types of computer networks.
+There are several types of computer networks, but for the purpose of this comparison, I will discuss two common types: Local Area Networks (LANs) and Wide Area Networks (WANs).
+
+A Local Area Network (LAN) is a network that is confined to a small geographic area, such as a home, office, or school. In a LAN, devices like computers, printers, and servers are typically connected by Ethernet cables or Wi-Fi.
+
+In contrast, a Wide Area Network (WAN) is a network that spans a large geographic area, such as a city, country, or even the entire world. WANs are typically used by businesses and organizations to connect their various locations, and can include leased lines, satellite links, or a combination of various technologies.
+
+One of the main differences between LANs and WANs is their scale. While LANs are designed to connect devices within a small, localized area, WANs are designed to connect multiple locations over large distances. This means that WANs are typically more complex and more expensive to set up and maintain than LANs.
+
+Another difference between LANs and WANs is their transmission speeds. LANs have high-speed connectivity, often providing data transfer rates in the range of gigabits per second (Gbps). WANs, on the other hand, generally have slower transmission speeds, often in the range of hundreds of megabits per second (Mbps) or less, due to the longer distances involved.
+
+In terms of security, LANs are generally considered to be more secure than WANs, as they can be more easily secured and monitored within a small, controlled area. WANs, on the other hand, can be more vulnerable to security threats due to their larger scale and exposure to a wider range of potential threats.
+
+In conclusion, LANs and WANs are two types of computer networks that serve different purposes and have distinct differences in terms of scale, transmission speed, and security.

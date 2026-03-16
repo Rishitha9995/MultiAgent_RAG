@@ -1,0 +1,6 @@
+Explain what game theory is.
+Game theory is an analytical framework used to study strategic decision making. It is a branch of mathematics and economics that models situations where individuals, organizations or companies interact with one another in a competitive environment, making decisions and predicting outcomes based on the rational behavior of others. These situations are called games, and the participants are referred to as players. 
+
+In game theory, the payoff or outcome for each player is determined based on the combination of strategies chosen by all players involved. The goal is to identify an optimal strategy for each player that takes into account the strategies that other players are likely to choose, and leads to the most favorable outcome. This is known as Nash Equilibrium.
+
+Game theory has a wide range of applications including economics, political science, biology, computer science, and psychology. It is commonly used in areas such as market competition, auction design, bargaining, and resource allocation, to name a few.

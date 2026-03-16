@@ -1,0 +1,6 @@
+Identify three specific benefits of using 3D printing.
+1. Customization: One of the greatest benefits of 3D printing technology is the ability to produce customized items according to specific client’s requirements. With 3D printing, designers and manufacturers have the capability to make changes on their designs and create tailored-fit products at low costs and quickly too. This greatly reduces the lead time and cost for the production.
+
+2. Reduced waste: Traditional manufacturing techniques can lead to a significant amount of waste materials. With 3D printing, material is only added layer by layer, according to the design, reducing the amount of waste produced in the process. This allows for more sustainable production and can significantly decrease the environmental impact of manufacturing.
+
+3. Rapid prototyping:  3D printing allows for creating prototypes quickly and efficiently, which means ideas can be iterated and tested faster. This greatly accelerates the design process, allowing businesses to innovate and bring new products to the market much faster. With this technology, companies can stay ahead of their competitors in terms of speed of delivery and product innovation.

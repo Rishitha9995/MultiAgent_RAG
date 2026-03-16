@@ -1,0 +1,6 @@
+Name 3 software applications relevant to the healthcare industry
+1) Electronic Health Records (EHR) software - EHRs are secure digital records that track patient medical and treatment histories. Examples include Epic and Cerner systems.
+
+2) Practice Management software - This type of software streamlines administrative tasks such as scheduling appointments, managing finances, and maintaining patient records. Examples include Kareo and AdvancedMD.
+
+3) Telemedicine software - This allows healthcare providers to remotely evaluate, diagnose and treat patients through virtual visits using video conferencing or other remote communication technology. Examples include Teladoc and Amwell.

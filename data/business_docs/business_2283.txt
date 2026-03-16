@@ -1,0 +1,11 @@
+Generate a list of items an AI assistant could help with.
+1. Scheduling and managing appointments and meetings.
+2. Sending reminders and notifications.
+3. Making phone calls, sending messages, and writing emails.
+4. Providing directions and finding the best routes for travel.
+5. Booking travel and accommodation arrangements.
+6. Managing finances, including paying bills and keeping track of expenses.
+7. Creating and managing to-do lists and tasks.
+8. Finding and recommending products or services.
+9. Conducting online research and providing information.
+10. Controlling and managing smart home devices.

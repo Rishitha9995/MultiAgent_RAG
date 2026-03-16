@@ -1,0 +1,12 @@
+Describe the technology used in online banking.
+Online banking is a technological advancement that has allowed people to access their bank accounts, make transactions, and manage their finances through the internet. The technology involved in online banking comprises several different elements that work together to provide a secure and user-friendly experience for customers.
+
+One of the essential technologies used in online banking is encryption. This involves converting information, such as account numbers, passwords, and transaction details, into a code to prevent unauthorized access. Many banks use Secure Sockets Layer (SSL) encryption, which creates a secure connection between the user's web browser and the bank's server.
+
+Another important technology used in online banking is authentication. This involves verifying the identity of the user before granting access to their account. This can be done through different methods, such as the use of a password, a security token, or a biometric feature like a fingerprint or facial recognition.
+
+Online banking also relies on firewalls, which are systems designed to prevent unauthorized access to a computer network. Firewalls act as a barrier between the bank's internal network and the public internet, blocking any unauthorized attempts to access the network.
+
+Additionally, banks use monitoring and detection systems to identify and prevent any suspicious or fraudulent activity in customers' accounts. These systems can track transactions and alert the bank to any unusual or suspicious behavior, allowing the bank to take quick action to protect their customers' funds.
+
+Overall, the technology used in online banking is constantly evolving to provide customers with secure and convenient access to their finances.

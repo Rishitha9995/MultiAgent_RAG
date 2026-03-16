@@ -1,0 +1,8 @@
+Explain the difference between a web application and a native application
+A web application refers to an application that is accessed over the internet through a web browser, while a native application is a software program that is developed specifically for a particular platform or device, designed to take advantage of the features and capabilities of that platform.
+
+Web applications are typically built with web technologies such as HTML, CSS, and JavaScript, and they run within the user’s web browser, which means the users don't need to install them on their device, but they do require an internet connection to function. Examples of web applications include social media platforms, email clients, and online productivity tools.
+
+On the other hand, native applications are built for a specific operating system, such as Android or iOS, and are downloaded and installed on the user’s device through an app store or marketplace. They are able to utilize the device's hardware, such as the camera, GPS, and other sensors, more effectively, and can provide a more seamless experience since they are designed specifically for that platform. Examples of native applications include mobile games, productivity apps, and social media apps.
+
+In summary, the main differences between web and native applications are in the way they are built, accessed, and utilized, each with their own advantages and limitations.

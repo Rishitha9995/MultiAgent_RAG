@@ -1,0 +1,15 @@
+Calculate a simple moving average for a stock market trend.
+To calculate the simple moving average for a stock market trend, you will need to provide the daily closing prices for Tesla Inc. from June 1 to August 1. Once you have gathered the data, you will also need to determine the period over which you want to calculate the moving average. For example, you could calculate a 5-day, 10-day, or 20-day simple moving average.
+
+The formula for the simple moving average is as follows:
+
+SMA = (A1 + A2 + ... + An) / n
+
+Where:
+- SMA = Simple Moving Average
+- A1, A2, ... An = The daily closing prices of Tesla stock over the period
+- n = The period over which the moving average is calculated (e.g. 5 days, 10 days, 20 days)
+
+Once you have the daily closing prices for the period you want to analyze, you can calculate the simple moving average by adding up the closing prices for each day and dividing by the period. Then, you can calculate the simple moving average for subsequent days by dropping the oldest price from the calculation and adding the newest price.
+
+The simple moving average can be used to identify trends in the stock market. An upward trend in the moving average can indicate that the stock is performing well, while a downward trend may suggest that the stock is performing poorly.

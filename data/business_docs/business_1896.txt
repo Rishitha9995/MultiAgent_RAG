@@ -1,0 +1,8 @@
+Describe the difference between data mining and data analysis.
+Data mining and data analysis are two different but closely related tasks that are used in data processing. While they often work together, they perform different functions.
+
+Data Mining is the process of finding patterns and correlations within large data sets in order to identify relationships and hidden insights. It usually involves using techniques from machine learning, statistics, and database systems, and aims to extract relevant and useful information from the underlying data. Data mining can be used to identify trends, classify data, and for predictive modeling. It is commonly used in areas such as marketing, fraud detection, and customer relationship management.
+
+Data Analysis, on the other hand, is the process of cleaning, transforming, and modeling data to uncover useful information for decision-making. It is a more focused approach compared to data mining, and often involves the use of statistical and visualization techniques to explore data and find meaningful insights. Data analysis can be used to validate or disprove hypotheses, identify relationships between variables, and make data-driven decisions.
+
+In summary, data mining is the process of finding patterns and relationships in large data sets while data analysis is the process of using statistical and visualization techniques to explore data and generate insights. Both processes are important in data processing and are often used in conjunction.

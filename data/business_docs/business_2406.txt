@@ -1,0 +1,16 @@
+What are the primary functions of a relational database management system?
+A relational database management system (RDBMS) is a software program used to create, manage, update and organize data in a structured manner using tables, columns, and rows. The primary functions of a relational database management system are:
+
+1. **Data Storage:** An RDBMS allows users to store and retrieve vast amounts of data in an organized way. The data is stored in tables, where each row represents a record and each column represents a field.
+
+2. **Data Manipulation:** An RDBMS provides tools for adding, updating, and deleting data. The system uses SQL to enable users to perform these operations, maintaining the integrity of the database while ensuring data consistency.
+
+3. **Maintaining Data Relationships:** An RDBMS allows users to establish relationships between datasets or tables, using keys to connect the data. This enables users to extract meaningful information from multiple tables at once.
+
+4. **Data Security:** An RDBMS employs various methods to ensure data security, including user authentication, data encryption, and access controls. These features help to prevent unauthorized access to the data and protect it from malicious attacks or breaches.
+
+5. **Data Backup and Recovery:** RDBMS systems have built-in mechanisms for creating backups and recovering data in the event of a failure or loss. This ensures that data is protected against loss and can be restored to its original state if necessary.
+
+6. **Data Integrity:** An RDBMS maintains the integrity and consistency of data stored within its tables. This is achieved through the use of constraints, validation rules, and transactions, which ensure that data is entered and managed accurately.
+
+Overall, an RDBMS provides a flexible and efficient way to store, manage, and retrieve data, while ensuring its security, integrity, and consistency.

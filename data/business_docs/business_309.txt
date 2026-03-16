@@ -1,0 +1,2 @@
+Construct a question to ask in an interview for a data scientist position.
+What experience do you have with designing, implementing, and validating statistical models, and how have you applied those skills to help drive business decisions in past projects?

@@ -1,0 +1,8 @@
+Explain the concept of absolute advantage.
+Absolute advantage is an economic concept that refers to the ability of a country, individual, or company to produce a certain good or service more efficiently than another. In other words, it is the ability to produce a good or service at a lower opportunity cost than someone else.
+
+An example of absolute advantage can occur when comparing the production of two different countries. Suppose Country A and Country B both produce wheat and cloth, but Country A can produce one ton of wheat using fewer resources and labor than Country B. This means that Country A has an absolute advantage in the production of wheat. On the other hand, if Country B can produce a yard of cloth using fewer resources and labor than Country A, then Country B has an absolute advantage in the production of cloth.
+
+The concept of absolute advantage is important in international trade, as it often leads to specialization and trade among countries. If each country specializes in producing the good or service they have an absolute advantage in and then trade with each other, both countries can benefit from increased production and lower costs.
+
+In summary, absolute advantage is the ability to produce a good or service more efficiently than another, often leading to specialization and trade among countries.

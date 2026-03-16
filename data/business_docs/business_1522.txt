@@ -1,0 +1,12 @@
+Write a letter introducing yourself as a new hire to your company.
+Dear colleagues at ABC Inc.,
+
+I would like to take a moment to introduce myself as a new member of our team. My name is Jane Smith and I have recently been hired as a Data Scientist for our company.
+
+As I begin this new chapter in my career, I am excited to be a part of ABC Inc. and to contribute my skills and knowledge to the company. I am passionate about data analysis and driven to provide valuable insights that will help drive our business forward. I look forward to working with all of you and hope that my expertise in this field will be of great benefit to our team.
+
+I am eager to learn more about the company and to get to know each and every one of you. Please feel free to stop by my desk and introduce yourself or to reach out to me via email or phone. I am looking forward to working with all of you and being a part of the ABC Inc. family.
+
+Best regards,
+Jane Smith
+Data Scientist at ABC Inc.

@@ -1,0 +1,10 @@
+What are two advantages and two disadvantages of using relational databases?
+Advantages of using relational databases:
+1. Easy to Use: Relational databases are easy to use because they are based on a structured and intuitive structure. The data is organized into tables and rows, making it easy to understand the relationships between different data elements. This structure also makes it easy to query the data using a standard language called SQL (Structured Query Language).
+
+2. Scalability: Relational databases are very scalable, meaning they can handle a large amount of data and a high number of users without experiencing any significant performance degradation. This makes them a popular choice for businesses and organizations that need to store and manage large amounts of data.
+
+Disadvantages of using relational databases:
+1. Complexity: While relational databases are easy to understand and use, they can become very complex as the amount of data and the number of relationships between data elements increase. This can make it difficult to design and maintain the database, requiring specialized knowledge and skills.
+
+2. Cost: Relational databases can be expensive to set up and maintain. While there are some open-source options available, most enterprise-level relational databases come with a high cost, both for the software license and the hardware needed to run it. Additionally, specialized personnel are needed to manage the database, adding to the overall cost.

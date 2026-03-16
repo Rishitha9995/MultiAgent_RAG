@@ -1,0 +1,8 @@
+What are the three levels of disruption according to Christensen's theory?
+According to Clayton Christensen's theory of disruptive innovation, there are three levels of disruption:
+
+1. New-Market Disruption: This type of disruption targets non-consumers or customers who are unable or unwilling to use existing products or services, often because they are too expensive, complicated, or inconvenient. The disruptor creates a new market by offering a product or service that is more accessible, affordable, and user-friendly, thus attracting a new customer base.
+
+2. Low-End Disruption: This type of disruption focuses on the low-end or overserved customers in an existing market, by offering a simpler, cheaper, and more convenient alternative to existing products or services. The disruptor gains a foothold in the market by targeting the least profitable customers, and eventually moves upmarket, capturing more and more of the market share.
+
+3. Hybrid Disruption: This type of disruption combines the elements of new-market and low-end disruption. The disruptor targets non-consumers and overserved customers in an existing market, creating a new business model that meets the needs of both groups. As the hybrid disruptor improves its product or service, it attracts more and more customers, eventually displacing the incumbent competitors.

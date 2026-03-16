@@ -1,0 +1,2 @@
+Generate a headline for a news article about a recent cyberattack.
+"Cyberattack Strikes Major Company, Compromising Millions of Users' Data"

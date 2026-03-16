@@ -1,0 +1,8 @@
+Describe the mathematical concept of probability.
+Probability is a branch of mathematics that measures the likelihood of a specific outcome or event happening. It calculates the chance of occurrence of a particular event in a given situation by expressing it as a number between 0 and 1. 
+
+A probability of 0 means that an event is impossible to happen, while a probability of 1 indicates that an event is certain to occur. Probabilities between 0 and 1 represent varying levels of uncertainty. For example, a probability of 0.5 means the event is just as likely to happen as not.
+
+Probability can be computed in a number of ways, including through the use of classical, empirical, and subjective methods. Classical probability, for example, is calculated by taking the ratio of the number of outcomes that one is interested in, to the number of total possible outcomes. In contrast, empirical probability is based on observed data or experimentation, while subjective probability is estimated based on personal belief or intuition.
+
+In general, probability theory is concerned with events and outcomes, and can be applied in various areas of study, including statistics, gambling, insurance, and finance.

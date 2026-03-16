@@ -1,0 +1,6 @@
+Explain what is meant by the term 'supply and demand'
+Supply and demand is an economic model that determines the price of goods and services in a market. It is based on the idea that the price of a good or service will eventually reach a point where the quantity supplied will equal the quantity demanded, creating an equilibrium. 
+
+The term 'supply' refers to the amount of a product or service that producers are willing and able to offer for sale at a given price. The term 'demand' refers to the willingness and ability of customers to purchase a good or service at a given price. The relationship between supply and demand is an inverse one: as demand for a product increases, its price goes up, which can cause the supply to increase as well. Conversely, when demand decreases, the price will typically decrease, causing the supply to decrease as well.
+
+In summary, supply and demand is a model used to explain how the interactions between buyers and sellers influence the price and quantity of goods and services in a market.

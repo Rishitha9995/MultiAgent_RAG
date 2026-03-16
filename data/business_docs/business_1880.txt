@@ -1,0 +1,9 @@
+Given a table of employee salaries with columns EmployeeID, Salary, and DepartmentID, write a DELETE statement to remove all employees in the Finance department who have a salary less than $50,000.
+The DELETE statement would be:
+
+```
+DELETE FROM EmployeeSalaries 
+WHERE DepartmentID = 'Finance' AND Salary < 50000;
+```
+
+Note: Replace the table name `EmployeeSalaries` with the actual name of your table.

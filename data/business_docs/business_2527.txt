@@ -1,0 +1,35 @@
+Given the input, create a template for a resume
+```
+Resume Template for Business Analyst
+
+Name:
+Address:
+Phone Number:
+Email:
+
+Summary:
+A highly motivated and experienced Business Analyst with a strong understanding of business operations and processes. Proven ability to analyze complex data, identify trends and provide valuable insights to drive strategic decision-making.
+
+Skills:
+- Strong analytical skills
+- Proficiency in data analysis tools (e.g. Excel, SQL)
+- Excellent communication and presentation skills
+- Understanding of project management methodologies
+- Ability to work in a team-oriented environment
+
+Experience:
+Business Analyst, Company Name (Date – Present) 
+- Worked with cross-functional teams to gather and analyze data
+- Provided insights and recommendations to senior management 
+- Developed and maintained detailed project plans
+- Conducted market research and trend analysis
+
+Education:
+Bachelor’s degree in Business Administration, University Name (Date)
+
+Certifications:
+Certified Business Analysis Professional (CBAP), International Institute of Business Analysis (Date)
+
+References:
+Available upon request.
+```

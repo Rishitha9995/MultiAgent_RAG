@@ -1,0 +1,2 @@
+Classify the given organization into one of the 5 types of business structure.
+The Apple Corporation is classified as a Corporation. This type of business structure is a legal entity separate from its owners and shareholders, and it is formed by filing Articles of Incorporation with the state.

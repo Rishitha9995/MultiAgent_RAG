@@ -1,0 +1,49 @@
+Generate a résumé for a software engineer.
+## John Smith
+j.smith@gmail.com | 555-555-5555 | San Francisco, CA
+
+**Summary** 
+
+Highly motivated and experienced software engineer with a track record of developing and implementing efficient and effective software solutions. Proficient in a variety of programming languages and experienced in full-stack web development. Adept at delivering projects on time and within budget.
+
+**Skills**
+- Strong background in software development life cycle
+- Proficient in JavaScript, HTML, CSS, Python, and Java
+- Familiar with software design patterns and object-oriented programming
+- Experienced with agile methodologies and version-control systems
+- Comfortable working with databases and using SQL
+- Excellent analytical and problem-solving skills
+
+**Experience**
+
+**Software Engineer, ABC Company** | *San Francisco, CA* | *Jan 2017 - Present*
+- Collaborated with project managers, designers, and developers to build and maintain web applications
+- Developed and maintained codebases for multiple client projects using JavaScript and React
+- Implemented RESTful APIs to seamlessly integrate front-end and back-end functionality
+- Trained and mentored junior developers to improve coding skills and adhere to coding standards
+- Conducted code reviews and contributed to the continuous improvement of the development process
+
+**Software Developer, XYZ Corporation** | *San Francisco, CA* | *Jun 2015 - Dec 2016*
+- Developed and maintained internal web applications using Python and Django
+- Worked closely with designers and project managers to deliver projects on time and within budget
+- Wrote and tested clean, maintainable, and reusable code
+- Conducted code reviews and contributed to the continuous improvement of the development process
+- Communicated with clients to gather requirements and provide project updates
+
+**Education**
+
+**Bachelor of Science in Computer Science,** XYZ University | *San Francisco, CA* | *2011 - 2015*
+- Coursework included software engineering, data structures, algorithms, and computer systems
+- Participated in a software development project in collaboration with a local non-profit organization
+- Completed capstone project on natural language processing
+
+**Certifications**
+
+- Certified ScrumMaster (CSM), Scrum Alliance
+- Sun Certified Java Programmer (SCJP), Oracle
+
+**Personal Projects**
+
+- Developed and maintained a personal website using React and Node.js
+- Contributed to various open-source projects on Github
+- Participated in local hackathons and won first place in XYZ Hackathon.

@@ -1,0 +1,2 @@
+Name a project management tool that can be used by a large team.
+One project management tool that can be used by a large team is Trello. It's a flexible and visual tool that allows you to manage projects, assign tasks, set due dates and track progress in a collaborative way, making it easier for teams to stay organized and aligned. Other popular tools for large teams include Asana, Monday.com or Jira.

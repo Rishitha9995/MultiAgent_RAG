@@ -1,0 +1,10 @@
+Compile a list of five major problems that cause climate change.
+1. Greenhouse Gas Emissions: The emission of greenhouse gases like carbon dioxide, methane and nitrous oxide, trap heat in the atmosphere, causing global temperature to increase.
+
+2. Deforestation: Cutting down trees reduces the ability of the planet to absorb carbon dioxide, which is the primary greenhouse gas.
+
+3. Fossil Fuel Use: The burning of fossil fuels like oil, coal, and natural gas, releases large amounts of carbon dioxide into the atmosphere.
+
+4. Agriculture: Agriculture and livestock farming release large amounts of methane and nitrous oxide, which are potent greenhouse gases.
+
+5. Industrial Processes: Certain industrial processes like cement production, waste management, and refrigeration, release greenhouse gases such as carbon dioxide and fluorinated gases which significantly contribute to climate change.

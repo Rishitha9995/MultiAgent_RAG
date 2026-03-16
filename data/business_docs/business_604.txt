@@ -1,0 +1,20 @@
+Outline the key features of the web application for a car rental business.
+1. User Registration and Login: A feature that permits customers to register their details, set up their profile and login to access the car rental services.
+
+2. Car Inventory Management: This feature will help the car rental company to update, track, and maintain their available vehicles' details for rent.
+
+3. Online Booking and Reservation: Customers can browse through the available car options, pick a preferred choice, and make a booking or reservation for a particular time and date.
+
+4. Payment Gateway Integration: The web application should have a secure and integrated payment gateway that enables customers to make payments online for the car rental service.
+
+5. Real-Time Availability of Cars: Customers can view the real-time availability of cars to make informed decisions when selecting their preferred car rental option.
+
+6. Customer Support: An integrated customer support system where customers can make inquiries, lodge complaints, and receive prompt responses.
+
+7. Rental Agreements: Digital rental agreements can be created for customers to read and accept the terms and conditions before proceeding with the car rental service.
+
+8. Location-based Services: The web application can provide support for customers to pick up and drop off rented cars in designated locations close to the point of request.
+
+9. Reporting and Analytics: The car rental business will be able to generate reports, monitor, and analyze key metrics and trends for effective decision-making.
+
+10. Notifications and Alerts: Customers can receive notifications and alerts on the status of their bookings, reservations, and upcoming trips.

@@ -1,0 +1,10 @@
+Identify the stakeholders involved in the given business decision.
+The stakeholders involved in this business decision to outsource the IT department may include:
+
+1. The company's management who makes the decision.
+2. Board of directors who approve the decision.
+3. Employees of the IT department – their jobs may be affected.
+4. Shareholders – outsourcing could affect the company's financial performance and, in turn, their returns.
+5. The outsourcing partner – in charge of performing the IT services for the company.
+6. Customers – IT infrastructure is key to the company's products or service delivery, and outsourcing could affect it. 
+7. Vendors and suppliers – any changes in IT infrastructure could affect the company's relationship with them.

@@ -1,0 +1,8 @@
+Provide four examples of data visualizations.
+1. Bar Chart: This is a type of chart that displays data using rectangular bars, where the length of each bar is determined by the value of the data category it represents. Bar charts are commonly used to compare different categories of data or to track changes over time.
+
+2. Pie Chart: A pie chart is a circular graph that displays data as slices of a pie, where each slice represents a proportion of the whole. It’s typically used to show the different proportions of a given data set, such as a company's market share among its competitors.
+
+3. Scatter Plot: This is a type of plot that shows the relationship between two variables by plotting them on a two-dimensional graph. Each point on the graph represents a data point, and the proximity of these points indicates the strength of the relationship between the two variables. Scatter plots are typically used to investigate the correlation between two numerical data sets.
+
+4. Line Graph: A line graph displays data as a series of points that are connected by lines, showing the change in a variable over time. Line graphs are commonly used to display trends over time, such as changes in stock prices or the growth rate of a company's revenue.

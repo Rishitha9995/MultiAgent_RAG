@@ -1,0 +1,35 @@
+Create a policy document on a topic related to internet security
+Title: Internet Security Policy
+
+Introduction
+The purpose of this document is to establish a set of guidelines and procedures to ensure the security and protection of our organization's information, devices, and network while accessing the internet. Internet security is vital for ensuring that our sensitive data remains confidential and our digital infrastructure remains secure from potential online threats. 
+
+Scope
+This policy applies to all employees, contractors, and third parties who access the internet using our organization's network, devices, or information.
+
+General Requirements
+- All users must have antivirus software installed on their devices, and it must be continuously updated
+- All users must use a secure and complex password and update it periodically as outlined by our organization’s password policy
+- Users must ensure they connect to secure, encrypted websites (i.e., HTTPS)
+- Users should be cautious when opening email attachments or clicking on links from unknown or suspicious sources
+- Public Wi-Fi should be used with caution, as it may not be secure
+- Users must immediately report any suspicious activity, such as phishing attempts or malware detections, to the IT department
+
+Internet Usage Policy
+- Internet access should only be used for work-related purposes, unless otherwise approved
+- Users must adhere to all copyright laws and regulations
+- Visiting inappropriate websites, as defined by our organization’s code of conduct, is prohibited
+- Users must not engage in any illegal activity or breach any laws while using our organization's internet access
+- Any attempt to gain unauthorized access to restricted information, devices, or systems is strictly prohibited
+
+Social Media Policy 
+- Social media use must comply with our organization’s social media policy
+- Users should exercise caution when sharing information related to our organization, its data, and its employees on social media
+- Users must not disclose any confidential information about our company or clients on social media platforms
+- Social media accounts must have strong privacy settings to prevent unauthorized access to personal information 
+
+Consequences of Non-compliance
+Failing to comply with this policy may result in disciplinary action, including revocation of internet access, termination of contract or employment, or legal action.
+
+Conclusion
+This internet security policy is designed to establish safe and secure internet usage practices to protect our organization’s sensitive information, network, and devices from potential cyber threats. All users must familiarize themselves with this policy and adhere to the guidelines outlined to ensure a secure online environment.

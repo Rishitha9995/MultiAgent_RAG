@@ -1,0 +1,14 @@
+Describe the architexture of a web application.
+A web application typically follows a multi-tiered architecture, consisting of several layers that work together to deliver a seamless user experience.
+
+1. Front-End/Client Tier: This is the top-most layer of the web application and the one that users interact with. This layer consists of the user interface and the client-side logic that runs in the user's web browser, usually developed using HTML, CSS, and JavaScript.
+
+2. Application Tier: The application tier, also known as the middle tier, contains the server-side logic that handles the core functionality of the web application. This layer is responsible for processing user requests, interacting with the database, and returning responses to the client tier. This layer is usually developed using languages like Java, Python, PHP, Ruby, or JavaScript (Node.js).
+
+3. Database Tier: The database tier is the bottom-most layer of the architecture and is responsible for securely storing and retrieving data. This layer consists of a database management system like MySQL, PostgreSQL, MongoDB, or Oracle that allows the application tier to interface with the data.
+
+These tiers communicate with each other through APIs (Application Programming Interfaces) and protocols like HTTP (Hypertext Transfer Protocol). Requests are sent from the client tier to the application tier, which processes the request and interacts with the database tier if needed, before sending a response back to the client tier to be displayed to the user.
+
+In many cases, a web application may also make use of other architectural components such as load balancers, caching servers and Content Delivery Networks (CDNs) to ensure high availability and fast response times.
+
+Overall, the architecture of a web application is designed to provide a scalable, maintainable, and reliable system with a smooth user experience.

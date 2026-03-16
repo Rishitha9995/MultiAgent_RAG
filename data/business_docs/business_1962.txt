@@ -1,0 +1,24 @@
+Provide information about the given countries
+Australia:
+- Capital city: Canberra
+- Population: Approximately 25.8 million
+- Area: 7,692,024 km2
+- Governemnt: Federal parliamentary constitutional monarchy
+- Currency: Australian Dollar
+- Official language: English
+- Geography: A country and continent surrounded by the Indian and Pacific oceans. Its major cities – Sydney, Brisbane, Melbourne, Perth, Adelaide – are coastal, but its capital, Canberra, is inland. The country has a wide range of landscapes, including rainforests, mountain ranges, and desert.
+- Climate: Varies widely depending on the region, ranging from tropical in the north, to temperate in the southeast and southwest, to arid in the interior.
+- Economy: Australia has a mixed market economy with a GDP of around 1.4 trillion USD. Its main industries include mining, agriculture, tourism, and manufacturing.
+- Wildlife: Australia is home to a wide range of unique wildlife, including kangaroos, koalas, emus, and many different species of birds, reptiles, and insects.
+
+New Zealand:
+- Capital city: Wellington
+- Population: Approximately 5 million
+- Area: 268,021 km2
+- Governments: Unitary parliamentary constitutional monarchy
+- Currency: New Zealand Dollar
+- Official language: English, Maori, NZ Sign Language
+- Geography: New Zealand is located in the southwestern Pacific Ocean and is comprised of two main islands, the North Island and the South Island, and several smaller islands. Its landscapes include mountains, rainforests, beaches, and lakes.
+- Climate: New Zealand has a temperate climate, with mild, wet winters and warm, dry summers.
+- Economy: New Zealand has a mixed market economy with a GDP of around 205 billion USD. Its main industries include tourism, agriculture, and manufacturing.
+- Wildlife: New Zealand is home to a wide range of unique wildlife, including the kiwi, the kakapo, and the tuatara, as well as many different species of birds, reptiles, and insects.

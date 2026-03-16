@@ -1,0 +1,10 @@
+Describe how cloud computing works
+Cloud computing refers to the delivery of computing services, including software, storage, and processing power, over the internet. It enables users to access and use these resources on-demand, without the need for local hardware or infrastructure.
+
+In cloud computing, large pools of resources are provided by remote data centers, managed and maintained by third-party companies. Users can then access these resources via the internet, using various types of devices, including computers, smartphones, and tablets.
+
+When a user requests a particular resource or service, it is provided from the data center's pool of resources, which can be quickly scaled up or down, depending on demand. The user is then charged based on their usage, similar to how one would pay for utilities like water or electricity.
+
+This model offers several advantages, including flexibility, cost-effectiveness, and scalability. Users can quickly and easily access the resources they need, without having to invest in expensive hardware, and they only pay for what they use. Additionally, cloud computing providers handle all the maintenance, management, and upgrades, freeing users from these responsibilities.
+
+Overall, cloud computing is a powerful, convenient, and cost-effective way to access and use computing resources, and it has become an essential part of the modern digital landscape.

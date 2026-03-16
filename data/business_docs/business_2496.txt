@@ -1,0 +1,2 @@
+Generate an example of an official-sounding email subject line.
+"Important Update: Revised Company Policies and Procedures Effective Immediately"

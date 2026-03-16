@@ -1,0 +1,9 @@
+A customer is asking for a refund. Write a polite response.
+Dear Customer,
+
+Thank you for reaching out to us. I'm sorry that you'd like to request a refund, and I'll do my best to assist you with this matter. May I kindly ask for the details of your purchase such as your order number, name of the product or service, and the reason for requesting a refund? This information will help us to process your request effectively.
+
+We value your satisfaction and want to ensure that you have the best experience with our products or services. Thank you for your patience, and we look forward to resolving this matter to your satisfaction.
+
+Best regards,
+[Your Company Name]

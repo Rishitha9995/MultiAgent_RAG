@@ -1,0 +1,2 @@
+Given a conversation, detect the type of conversation it refers to. Output "casual", "business", or "informal".
+The type of conversation is casual.

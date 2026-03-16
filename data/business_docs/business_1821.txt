@@ -1,0 +1,6 @@
+Analyse the given data and identify any patterns.
+Upon analyzing the sales data of the company's products over the past five years, a consistent pattern of growth can be observed. The sales have increased from $10 million in year 1 to $18 million in year 5, which represents growth of 80% over the five-year period. 
+
+The largest spike in the sales occurred between year 1 and year 2, where the sales jumped from $10 million to $15 million, representing an increase of 50%. However, in year 3 the sales decreased slightly from the previous year by $1 million, representing a 6.7% decrease. Despite this, the sales continued to increase in year 4 and year 5 by $3 million and $1 million respectively.
+
+Overall, the company has exhibited consistent growth throughout the five-year period, with only one slight decrease in sales in year 3.

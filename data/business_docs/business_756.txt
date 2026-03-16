@@ -1,0 +1,12 @@
+Case study: Explain how Starbucks is using technology to achieve their business goals.
+Starbucks has implemented several technology initiatives to achieve its business goals of enhancing the customer experience, improving operational efficiency and driving growth. These initiatives include:
+
+1. Mobile Ordering: Starbucks has introduced the order and payment feature within its mobile app, allowing customers to place their orders in advance, avoid waiting in line and make payments using their phones. This has reduced wait times, improved customers' in-store experience, and provided Starbucks with valuable data to track customers' preferences.
+
+2. Digital Rewards Program: Starbucks' digital loyalty program allows customers to earn rewards points for purchases made both in-store and through the mobile app. This program incentivises repeat customers and provides Starbucks with rich customer data for personalisation and targeted marketing.
+
+3. Artificial intelligence (AI): Starbucks uses an AI platform called Deep Brew to optimize store labour allocation, inventory management and drive-thru ordering, which helps increase efficiency and reduce costs. Additionally, Starbucks uses predictive analytics and machine learning algorithms to provide personalized recommendations to customers based on their order history, further enhancing the customer experience.
+
+4. Internet of Things (IoT): Starbucks has implemented IoT technology in its stores to connect coffee machines, refrigerators, and other equipment to the cloud. This allows real-time monitoring of the machines' performance, predictive maintenance, and reduces downtime.
+
+In conclusion, Starbucks has leveraged technology to improve the customer experience, optimize its operations, and increase sales, demonstrating its commitment to innovation and its ability to adapt to the evolving needs of its customers.
