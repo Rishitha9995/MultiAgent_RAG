@@ -1,0 +1,4 @@
+Assume you are a customer support representative for a tech company. The client received a product that did not meet their expectations and has written a complaint. Respond empathically and professionally, addressing their concerns and providing a solution.
+Dear valued customer, 
+I am truly sorry to hear about your experience with our latest software release. We understand how frustrating it can be when a product does not meet one's expectations. I assure you that our development team is working diligently to resolve any existing issues. In the meantime, while we seek a solution, I can offer you a rollback to the previous version, which should help alleviate the problems you're facing. If this is not satisfactory, I'll be more than happy to help you with a refund. Please let me know which option you'd prefer or if there's any other way I can assist you. 
+Thank you for your patience and understanding.

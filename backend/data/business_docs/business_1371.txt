@@ -1,0 +1,16 @@
+How is a blockchain different from a database?
+A blockchain is a type of distributed database that is managed by multiple participants, across multiple nodes or computers, following a consensus mechanism to ensure that all copies of the database remain synchronized. It is designed to be decentralized, tamper-proof, and transparent, with each block in the chain containing a record of multiple transactions, and being cryptographically linked to the previous block.
+
+A traditional database, on the other hand, is usually managed by a single entity or organization and is stored on a centralized server. There is typically a single point of authority that manages and maintains the data.
+
+The key differences between a blockchain and a traditional database include:
+
+1. Decentralization: In a blockchain, there is no central authority or single point of failure, as the database is managed by multiple participants in a decentralized manner.
+
+2. Immutability: Once data is recorded on a blockchain, it is extremely difficult to change or tamper with it. This is achieved through the use of cryptographic algorithms and consensus mechanisms, making the data on a blockchain more trustworthy.
+
+3. Transparency: Blockchains often enable greater transparency, as each participant can access and verify the data recorded on it.
+
+4. Security: Blockchain systems are designed to be secure from cyber attacks and fraudulent activities, as the decentralization and consensus mechanisms make it difficult for any single participant to manipulate the data.
+
+Overall, while traditional databases excel in handling large volumes of data and complex transactions, blockchains offer a new approach to data management and storage, enabling greater decentralization, transparency, and security.

@@ -1,0 +1,6 @@
+Identify three advantages of using cloud computing.
+1. Scalability and Flexibility: Cloud computing allows companies to scale their computing resources as needed, without having to invest in additional physical infrastructure. This means that businesses can quickly and easily increase their storage, bandwidth, or processing power as their needs changes, with minimal disruption to operations.
+
+2. Cost Savings: With cloud computing, businesses can reduce their capital expenditure on IT infrastructure and software. They only pay for the resources and services they use, which can lead to significant cost savings. Additionally, cloud service providers manage the underlying infrastructure, reducing the costs associated with maintenance, upgrades, and security.
+
+3. Mobility and Collaboration: Cloud computing provides remote access to data, applications, and services from any location and device with an internet connection. This enhances mobility, enabling employees to work from anywhere and collaborate more easily with colleagues, customers, and partners in real-time.

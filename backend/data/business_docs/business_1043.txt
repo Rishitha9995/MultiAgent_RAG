@@ -1,0 +1,4 @@
+List three professions in which the use of artificial intelligence is common.
+1. Medicine: AI is being used for tasks such as analyzing medical imaging, predicting patient outcomes, and designing personalized treatment plans for patients.
+2. Finance: AI is widely used in the finance industry for tasks such as fraud detection, investment management, and data analysis.
+3. Transportation: AI is being used for the development of autonomous vehicles and for optimizing logistics and transportation systems.

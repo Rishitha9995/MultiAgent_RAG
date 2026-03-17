@@ -1,0 +1,24 @@
+Come up with utilization metrics for measuring customer engagement
+There are several metrics that can be used to measure customer engagement and evaluate the level of interaction between the customers and the product or service:
+ 
+1. Active users: This can be measured by tracking the number of daily, weekly or monthly active users interacting with your service, app, or website.
+
+2. Session Duration: This metric helps in understanding how much time customers spend on your service or app, indicating their engagement levels.
+
+3. Pages/Screen Views per Session: A high number of page views or screen views per session indicate that users are interested in exploring and interacting with the application or website.
+
+4. Conversion Rate: The percentage of visitors completing desired actions on your website, such as filling out a form, or making a purchase, indicates customer engagement.
+
+5. Repeat Visitors: The number of user returning to use the product or service helps to understand the loyalty of the customers.
+
+6. Social media engagement: The amount of likes, shares, comments, and followers on social media indicates how actively users are engaging with your brand.
+
+7. Feedback and reviews: Customer feedback, ratings and reviews are direct indicators of engagement, as engaged customers are more likely to leave feedback.
+
+8. Retention rate: The rate at which customers return to your service, product or app over a specified period of time provides an insight into customer engagement and loyalty.
+
+9. Net Promoter Score (NPS): This is a measure of customer satisfaction and loyalty, and indicates how likely customers are to recommend your product or service to others.
+
+10. Customer lifetime value (CLV): This metric measures the total value a customer brings to a business over the duration of their relationship and helps in understanding overall engagement levels.
+
+Each business will have a unique way of measuring customer engagement depending on the goals, product or service. A combination of the above metrics can help to create a clear picture and accurately evaluate customer engagement.

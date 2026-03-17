@@ -1,0 +1,6 @@
+Make a list of three technologies that will shape the future.
+1. Artificial intelligence (AI): AI technology has already begun to shape the future through advancements in machine learning, deep learning, and natural language processing. It has the potential to revolutionize numerous industries, from healthcare and education to transportation and finance.
+
+2. Quantum computing: As traditional computers reach their computational limits, quantum computers are emerging as the next big technological breakthrough. They have the potential to solve complex problems much faster and more efficiently than classical computers, which could lead to advances in fields such as medicine, energy, and cybersecurity.
+
+3. 5G Networks and the Internet of Things (IoT): The rollout of 5G networks is set to dramatically increase the speed and capacity of internet connections, enabling the growth of the IoT. Smart homes, cities, and industries will become more integrated and efficient as a result, leading to a future in which nearly everything is connected and communicating.

@@ -1,0 +1,32 @@
+Create a database table to store customer information.
+To create a database table to store customer information, we first need to define the fields that will be used to store the data. This can vary depending on the needs of the business, but some common fields for customer information might include:
+
+- Customer ID (primary key)
+- First Name
+- Last Name
+- Email
+- Phone Number
+- Address
+- City
+- State
+- Zip Code
+- Country
+
+Here is an example of how the table could be created using SQL:
+
+```SQL
+CREATE TABLE Customers (
+    CustomerID INT PRIMARY KEY,
+    FirstName VARCHAR(50),
+    LastName VARCHAR(50),
+    Email VARCHAR(50),
+    PhoneNumber VARCHAR(20),
+    Address VARCHAR(100),
+    City VARCHAR(50),
+    State VARCHAR(50),
+    ZipCode VARCHAR(10),
+    Country VARCHAR(50)
+);
+```
+
+This creates a new table called "Customers" with the fields specified above. Each field is given a data type (e.g. INT for integers, VARCHAR for variable-length strings) and a maximum length where appropriate. The CustomerID field is designated as the primary key, meaning that it uniquely identifies each record in the table.

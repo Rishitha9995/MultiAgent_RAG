@@ -1,0 +1,37 @@
+Generate an example of a resume that a person could use to apply for a programming position.
+#### John D. Smith
+#### 1234 Elm Avenue, Citytown, RN 12345
+#### johndsmith@email.com
+#### (123) 456-7890
+
+#### OBJECTIVE
+A results-driven programmer with a proven track record in developing and maintaining complex software systems, seeking a challenging role in which I can contribute my skills and knowledge to provide exceptional solutions and meet business objectives.
+
+#### PROFESSIONAL EXPERIENCE
+
+**Senior Programmer** | ABC Corporation, Citytown, RN | July 2016 - Present
+- Developed and maintained software applications in languages such as Java, C#, and Python
+- Designed user interfaces and web applications utilizing HTML, CSS, and JavaScript
+- Ensured the functionality and efficiency of software systems through regular testing, debugging, and maintenance
+- Implemented security measures to protect confidential data and prevent breaches
+
+**Software Developer** | XYZ Inc., Citytown, RN | May 2011 - July 2016
+- Developed web applications and mobile applications using Java, C#, and Python
+- Assisted in gathering requirements and developing software solutions to meet business needs
+- Participated in code reviews and ensured code quality and standards
+- Assisted in the maintenance and support of existing software applications
+
+#### EDUCATION
+
+**Bachelor of Science in Computer Science** | University of Citytown, Citytown, RN
+- Graduated May 2011
+- Relevant coursework: Data Structures and Algorithms, Database Systems, Software Engineering, Operating Systems
+
+#### SKILLS & CERTIFICATIONS
+- Proficient in Java, C#, Python, HTML, CSS, JavaScript, SQL
+- Knowledgeable in software development methodologies such as Agile, Scrum, and Waterfall
+- Certified Java Developer
+- Familiar with software development tools such as Git, Jenkins, and JIRA
+
+#### REFERENCES
+Available upon request.

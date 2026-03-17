@@ -1,0 +1,4 @@
+Identify three potential obstacles for the given project
+1. Technical difficulties and bugs: Creating a new mobile application can present various technological challenges. The development team may encounter issues with coding, software incompatibilities or glitches that can delay the project timeline and impede progress.
+2. Resource constraints: Developing a new mobile app may require significant resources including funding, personnel and infrastructure. Resource constraints such as limited budgets, understaffed teams or inadequate equipment may hinder the project's progress.
+3. Market competition: The mobile app market is highly saturated and competitive. The development team may find it difficult to create an app that stands out among the many similar products already available. Strong competition in the market may also make it harder to attract and retain users, hindering the project's success.

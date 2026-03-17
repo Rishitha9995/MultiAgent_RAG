@@ -1,0 +1,12 @@
+For the given query, find out five relevant websites.
+Here are five websites that are relevant to the query "How to make a website":
+
+1) W3Schools (https://www.w3schools.com/howto/howto_make_a_website.asp): This website provides a step-by-step tutorial for creating a website, along with examples of code and explanations of basic concepts.
+
+2) WordPress (https://wordpress.com/learn-more/?v=site): WordPress is one of the most popular website creation platforms and provides extensive documentation and tutorials for making a website.
+
+3) WebsiteSetup (https://websitesetup.org/): This website provides a comprehensive guide to creating a website, including information on choosing a platform, design and customization, and marketing.
+
+4) Site123 (https://www.site123.com/): This website builder allows users to easily create a website through the use of pre-designed templates and an intuitive drag-and-drop interface.
+
+5) Codecademy (https://www.codecademy.com/learn/paths/web-development): Codecademy provides an interactive learning platform for students wanting to learn web development and how to create websites.

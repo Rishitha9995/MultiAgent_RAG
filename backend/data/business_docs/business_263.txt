@@ -1,0 +1,6 @@
+Name three potential problems a company may face when adopting a new technology.
+1. _Resistance to change:_ One of the main problems a company may face when adopting a new technology is internal resistance to change. This can happen for various reasons, such as fear of the unknown or fear of losing one's job. Employees may also resist new changes due to lack of understanding of the new technology or a lack of training.
+
+2. _Costs:_ Implementing new technology can be expensive. The costs can come in many forms, such as purchasing new software or hardware, hiring external consultants to help with the implementation or providing training to the employees. These costs can be significant, and the company may not see immediate returns on their investment, which can lead to financial strain.
+
+3. _Technical issues:_ When adopting new technology, companies may also face various technical problems. For example, the new technology may not be compatible with the existing infrastructure or may not work as intended. There can also be disruptions during implementation and employee productivity may suffer while the new system is being put in place. This can lead to wasted time and resources, and can be frustrating for both the employees and the company.

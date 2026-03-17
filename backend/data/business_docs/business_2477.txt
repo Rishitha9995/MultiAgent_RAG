@@ -1,0 +1,6 @@
+Give three reasons why an AI-driven job market poses a threat.
+1. Automation of Jobs: One of the biggest threats that an AI-driven job market poses is the automation of jobs that were once performed by humans. With significant advancements in AI technology, companies are now able to automate routine and repetitive tasks, thus making jobs in manufacturing, data entry, and even some aspects of customer service obsolete. This impacts the livelihoods of many workers and might lead to widespread unemployment in specific industries.
+
+2. Wage Suppression: As AI systems become more advanced and can perform jobs that were previously the domain of highly skilled workers, it is likely that wages in some industries could be driven down. Companies could find it more cost-effective to use AI systems rather than highly paid employees, putting downward pressure on wages, and reducing the earning potential of many workers.
+
+3. Widening of the Skills Gap: Another threat that an AI-driven job market poses is the widening of the skills gap. As jobs become automated and AI systems become more widely used, there will be an increasing demand for highly skilled workers who can work with these new systems. However, not everyone can acquire these skills, or have the resources to retrain for a new career, and this can lead to greater income inequality and social division.

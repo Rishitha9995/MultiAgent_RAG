@@ -1,0 +1,2 @@
+Read the following passage and summarize it in no more than 3 sentences
+Big data refers to the rapid increase of data and the technology that allows it to be effectively analyzed. It is utilized in numerous sectors, including healthcare, finance, and retail. The aim is to identify trends and correlations within large data sets.

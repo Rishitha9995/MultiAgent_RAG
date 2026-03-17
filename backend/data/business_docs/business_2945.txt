@@ -1,0 +1,6 @@
+Select three security measures that can help protect a company’s online data
+1. Multi-factor authentication: Multi-factor authentication adds an additional layer of security to the user login process. Apart from the regular username and password, users are required to enter a unique code sent to their mobile devices or a physical security token, to verify their identity. This measure helps to prevent unauthorized access to company data even if passwords are compromised.
+
+2. Encryption: Encrypting data renders it unreadable in the case of a data breach. All data transmitted between company servers, as well as sensitive information stored on company devices, should be encrypted to prevent access by cyber-criminals. This measure helps to protect confidential company information from being compromised.
+
+3. Regular security audits: Companies should regularly perform security audits to identify and address vulnerabilities in their systems. This includes checking for software and firmware updates, reviewing access privileges, and ensuring compliance with security protocols. Regular security audits help to keep company data secure through proactive monitoring and maintenance of the system's security.

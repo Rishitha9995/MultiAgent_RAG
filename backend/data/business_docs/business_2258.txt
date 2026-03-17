@@ -1,0 +1,24 @@
+Collate some data about any company
+Sure, here is some data about Tesla:
+
+- Company name: Tesla, Inc.
+- Industry: Automotive and Energy
+- Founded: July 1, 2003
+- Founders: Elon Musk, JB Straubel, Martin Eberhard, Marc Tarpenning, and Ian Wright
+- Headquarters: Palo Alto, California, United States
+- Key People: Elon Musk (CEO, Technoking of Tesla, Product Architect), Robyn Denholm (Chairwoman), Zach Kirkhorn(Master of Coin, CFO)
+- Number of employees (as of December 2020): over 70,000
+
+- Products: 
+     * Electric cars: Model S, Model 3, Model X, Model Y, Roadster, Cybertruck
+     * Energy products: Solar panels, Solar roof tiles, Powerwall, Powerpack, Megapack
+     * Other: FSD (full self-driving) computer, Autopilot software
+     
+- Financial Information (as of 2020):
+     * Revenue: US$ 31.536 billion
+     * Operating income: US$ 2.014 billion
+     * Net income: US$ 721 million
+     * Total assets: US$ 52.148 billion
+     * Total equity: US$ 22.225 billion
+     
+Tesla, Inc. is a company that designs, manufactures, and sells high-performance electric cars, solar products, and energy storage systems. The company's mission is to accelerate the world's transition to sustainable energy. Tesla's vehicles are produced at their factory in Fremont, California, and Gigafactories around the world. In addition to automotive products, Tesla also produces battery energy storage from home to grid-scale and designs and installs solar PV systems.

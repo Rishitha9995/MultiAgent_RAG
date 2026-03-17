@@ -1,0 +1,8 @@
+What is the difference between the terms bug and defect?
+A bug and a defect essentially refer to the same thing – an error, flaw, or fault in the code or program that prevents it from working as intended or producing an incorrect result. However, some software professionals differentiate between the two, using these terms to describe specific stages in the software development process.
+
+In this context, a "defect" is an error or issue which is found during the verification or testing process, before the product is released to the general public or market. It is often an accidental mistake or oversight made by the developer during the coding process.
+
+On the other hand, a "bug" refers to a fault in the code which is discovered after the product has been released and is already being used by users or consumers. For this reason, bugs are usually reported by the users of the product and can have a negative impact on the reputation of the software as well as its ability to perform the tasks it was designed to do.
+
+In summary, while the terms "bug" and "defect" are often used interchangeably, some people differentiate their meanings based on the point in development at which the error is discovered. Regardless of the terminology used, the goal is to find and fix these issues as early as possible to prevent negative consequences for both the developers and users of the software.

@@ -1,0 +1,2 @@
+Describe the given business model using one sentence.
+Freemium is a business model that offers a basic version of a product or service for free, while charging for premium features or functionality.

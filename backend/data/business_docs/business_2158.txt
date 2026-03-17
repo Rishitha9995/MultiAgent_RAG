@@ -1,0 +1,2 @@
+Given a description of a company, generate a line that summarizes its core values.
+Core values: Innovation, customer satisfaction, and cutting-edge technology solutions.

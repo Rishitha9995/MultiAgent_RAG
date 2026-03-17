@@ -1,0 +1,15 @@
+Create a response for a customer who has an issue with the product delivery.
+Dear Customer,
+
+We are extremely sorry to hear that you have not yet received your product, despite waiting for 5 days. We understand how frustrating this delay can be and we apologize for any inconvenience caused. 
+
+Please be assured that we take this matter very seriously and we are committed to resolving this issue as quickly as possible. Could you please provide us with your order number and any other relevant information, so that we can look into this matter and get back to you with a prompt resolution.
+
+Once again, please accept our sincerest apologies for the delay and rest assured that we will do everything we can to ensure that you receive your product in a timely manner.
+
+Thank you for your patience and for bringing this to our attention.
+
+Sincerely,
+
+[Your Name]
+Customer Support Representative [Company]

@@ -7,6 +7,7 @@ from preprocessing.dataset_loader import load_documents
 from preprocessing.chunking import chunk_documents
 from embeddings.embedder import get_embedding_model
 from vector_db.build_vector_db import build_vector_store
+from textblob import TextBlob
 
 # -----------------------------
 # IMPORT AGENTS

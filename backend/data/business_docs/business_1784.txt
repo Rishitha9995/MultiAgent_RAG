@@ -1,0 +1,11 @@
+Generate an automated message for a customer that thanked them for their purchase.
+Dear Valued Customer,
+
+We would like to extend our sincerest gratitude for your recent purchase. Thank you for choosing our products and for putting your trust in our company. We are committed to providing you with the highest level of customer service and quality products.
+
+Your satisfaction is our top priority, and we hope that your experience with us has been enjoyable and that our products meet your expectations. If there is anything that we can do to improve your experience or if you have any feedback, please do not hesitate to let us know.
+
+Thank you again for your purchase, and we look forward to serving you in the future.
+
+Sincerely,
+[Company Name] Team.

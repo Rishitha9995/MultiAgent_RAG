@@ -1,0 +1,12 @@
+Write a news article about the recent cyber attack on Tesla
+In a recent development, the automobile giant Tesla experienced a cyber attack targeting confidential data and company operations. According to sources, the hackers attempted to infiltrate the company's internal network via a severe malware attack. 
+
+The security system at Tesla, however, was quick to detect the intrusion and immediately initiated a lockdown on data access across all channels. The attack was contained, and necessary measures were undertaken to secure any loose ends within the network. Tesla has reported that no confidential information was compromised and that the situation is under control.
+
+In a statement provided by the company's spokesperson, it was conveyed that the cyber attack was meticulously planned and targeted specific vulnerability points within the system. However, the quick response from the security team mitigated the chances of any real damage.
+
+"This attempted attack reflects the growing threat of cyber attacks in today's world. At Tesla, we are continually updating and strengthening our security measures to ensure the safety of our data and operations," stated the spokesperson.
+
+The company is currently conducting a thorough investigation to understand the events leading to the attack and identify the perpetrators. Further details are awaited as the investigation is underway.
+
+In conclusion, the cyber attack did not seem to have any impact on the stock market as Tesla shares remained steady. The incident, though, highlights the need for companies to reinforce their security measures to tackle the growing threat of cyber attacks.

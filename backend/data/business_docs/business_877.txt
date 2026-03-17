@@ -1,0 +1,4 @@
+Name two disadvantages of using a cloud-based data system.
+1. Security Risks: Storing sensitive data on a cloud-based system can come with security risks, as the data is accessible through the internet, and therefore may be more susceptible to cyber threats, including data breaches and hacking. While cloud providers implement stringent security measures, there is always a chance that unauthorized access and data theft or loss can occur.
+
+2. Dependency on Internet Connection: Cloud-based systems are dependent on an internet connection, and any disruptions or slow-downs in connectivity can hinder access to the data stored in the cloud, leading to decreased productivity and potential downtime in business operations. Additionally, if a cloud provider experiences technical issues or outages, it could lead to temporary loss of access to the data stored on their servers.

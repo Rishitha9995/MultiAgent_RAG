@@ -1,0 +1,11 @@
+Compose an email to a customer about a payment notice.
+Dear [Name],
+
+We are writing to inform you that we received your payment of [payment amount] today on account [account number]. We would like to thank you for promptly settling your bill and for choosing our service. We appreciate your business and we are always here to help you in any way we can.
+
+Please be advised that the payment has been credited to your account and your account is now up-to-date. If you have any questions, feel free to contact us at our customer service number or email us at any time.
+
+Thank you once again for your payment and for being a valued customer. We are looking forward to serving you in the future.
+
+Sincerely,
+[Company Name]

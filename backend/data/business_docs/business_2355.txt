@@ -1,0 +1,2 @@
+Given a paragraph, edit the paragraph to make it shorter by removing one of the sentences while still preserving the main message.
+Costs associated with any new enterprise are always a major consideration. It's important to consider the start-up costs associated with launching a business, as well as the upcoming expenses that need to be taken into account. You must budget for the overhead costs of maintaining a business, such as taxes, rent, and insurance.

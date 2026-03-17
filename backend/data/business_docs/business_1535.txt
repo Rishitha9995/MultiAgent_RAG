@@ -1,0 +1,17 @@
+Draft an email to a company inquiring about internships.
+Subject: Inquiry on Available Internships
+
+Dear [Company Name] team,
+
+My name is [Your Name], and I am an [undergraduate/graduate] student [studying/pursuing] [major] at [University Name]. I am writing to inquire about internship opportunities that may be available within your company.
+
+I have a strong interest in [industry/field] and I am eager to gain hands-on experience and learn more about the responsibilities and daily tasks involved in [specific role/department]. Your company’s [accomplishments/resources/mission] align with my career goals, and I would be honored to have the opportunity to join your team as an intern.
+
+I have [list relevant skills or experience] and I am confident that I can contribute to and learn from your dynamic team.
+
+Could you please provide me with information on the internship application process and available opportunities? I am looking forward to hearing from you and learning more about the potential to work alongside and learn from industry professionals.
+
+Thank you for your time and consideration.
+
+Sincerely,
+[Your Name]

@@ -1,0 +1,8 @@
+Describe an example of a distributed database system.
+A distributed database system is a type of database management where the data is stored across multiple servers or systems, typically located in different geographical locations. One example of a distributed database system is a global e-commerce company, which operates in various regions of the world.
+
+In this scenario, the e-commerce company has a distributed database system that consists of multiple servers located in different continents, such as North America, Europe, and Asia. Each server stores data related to the customers, orders, products, and transactions occurring in its specific region.
+
+The distributed database management system ensures that all these servers are synchronized and up-to-date. This means that if a customer in Europe wants to purchase a product that is located in a warehouse in Asia, they can easily do so through the company's online platform. The data from that transaction will be updated across all servers in real-time to reflect the change in inventory and the customer's order information.
+
+Having a distributed database system enables the e-commerce company to provide faster and more efficient services to its customers, as the data is stored closer to where it is needed, reducing latency, and improving overall performance. Additionally, it also provides a level of fault tolerance and redundancy, as data is replicated across multiple servers, ensuring its availability in case of server failure or outage.

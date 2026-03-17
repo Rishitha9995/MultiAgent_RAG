@@ -1,0 +1,13 @@
+Given a customer complaint, provide customer service resolutions.
+Dear valued customer,
+
+First of all, we are sorry to hear that you have not received your package yet. We understand how frustrating this must be for you and we will do our best to resolve the issue as soon as possible. 
+
+To begin addressing your concern, can you please provide us with your order number and any other relevant information, such as the tracking number if available? This will help us investigate the status of your package and find out where it is in the delivery process.
+
+In the meantime, if there is any information on the carrier’s website regarding any delays or disruptions in service, we will relay that information to you. We will do our best to determine if the package has been lost or delayed and if necessary, take the appropriate actions to ensure that you receive your package as soon as possible.
+
+Again, we apologize for the inconvenience caused and appreciate your patience while we work to resolve this issue. Please contact us if you have any further concerns.
+
+Sincerely,
+[Your Company]

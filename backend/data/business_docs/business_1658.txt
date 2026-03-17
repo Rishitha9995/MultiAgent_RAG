@@ -1,0 +1,10 @@
+Create a user story for a web application that allows users to manage their contacts.
+As a busy professional, Emma has a hard time keeping track of all her contacts. From business colleagues to old friends, it seems like there are always new people entering her life and it's becoming difficult to manage them all. Emma wants a simple solution that will help her keep her contacts organized and easily accessible.
+
+One day, Emma discovers a web application that allows her to manage all her contacts in one place. She can easily access the application from her computer or phone and once she signs up, she is able to import all her contacts from her various accounts such as Google, Facebook, and LinkedIn. 
+
+Emma loves the interface of the app as it's user-friendly and intuitive. She can easily search for contacts, add notes, and even designate certain contacts as important. She also appreciates the ability to categorize her contacts, which allows her to quickly find business colleagues or friends. Emma can also create custom groups of people, making it easy to send out mass invitations or emails.
+
+The app also has a feature that allows Emma to set reminders for important dates such as birthdays or anniversaries. She no longer has to worry about forgetting an important event. Additionally, she can access a history log that shows her recent interactions with her contacts, making it easy for her to keep track of her communications.
+
+Overall, the web application has made Emma's life much easier. She no longer has to worry about losing or misplacing contact information, and she can easily access all her contacts in one place. Emma is grateful for this app and loves the convenience it provides.

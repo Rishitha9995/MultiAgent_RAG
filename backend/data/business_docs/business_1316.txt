@@ -1,0 +1,12 @@
+Describe the types of jobs that a software engineer does.
+A software engineer can work on a wide variety of tasks and projects, ranging from designing, building, testing, and maintaining software applications to developing and implementing complex systems that power our world. Some of the typical jobs that a software engineer might be responsible for include, but are not limited to:
+
+1. Developing and maintaining computer software, both at the application and system level, by writing, testing, debugging, and documenting code.
+2. Designing and implementing new software features and functionalities.
+3. Troubleshooting and resolving technical issues, bugs, and defects in existing software.
+4. Collaborating with other software engineers and stakeholders, including project managers, UX designers, and analysts, to ensure software meets business requirements and user needs.
+5. Refactoring and optimizing code to improve performance and scalability.
+6. Keeping up-to-date with new and emerging technologies, trends, and best practices in the field.
+7. Participating in code reviews, architecture discussions, and other team activities to promote software quality, maintainability, and reliability.
+
+In summary, a software engineer may work in various areas, from designing, creating, testing, and maintaining software to improving its performance, functionality, and usability. Their job often involves collaborative teamwork, problem-solving and keeping up with new technological advances.

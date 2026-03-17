@@ -1,0 +1,8 @@
+Explain the concept of linear programming.
+Linear programming is a mathematical method used to optimize a linear objective function, subject to a set of linear inequality or equality constraints. It is widely used in business, economics and engineering to find the best outcome in a given mathematical model, typically represented by a system of linear inequalities or equations. 
+
+In simpler terms, linear programming allows us to determine the maximum or minimum value for a given linear equation (known as the objective function), subject to a set of constraints, which are also represented by linear equations.
+
+For example, imagine that you own a factory and want to maximize your profit. Your profit is determined by how many products you produce and sell, and is represented by a linear equation with variables representing the different products. However, there are constraints on how many products you can produce, due to limitations in raw materials, labor or machinery. These constraints are also represented as linear equations. Linear programming enables you to find the optimum solution to this problem, maximizing your profit within the given constraints.
+
+Linear programming uses a graphical approach to find the optimum solution, by plotting the constraints on a graph and finding the region where all constraints intersect. The maximum or minimum value of the objective function can be found at one of the corner points of this region. More complex linear programming problems can be solved using methods such as the Simplex algorithm.

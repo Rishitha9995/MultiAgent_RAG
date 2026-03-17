@@ -1,0 +1,2 @@
+Read the provided input and generate a summary of the given text.
+The provided text discusses how technology has changed business practices through the use of Big Data, which helps companies make informed decisions, enhance customer experiences, and remain competitive.

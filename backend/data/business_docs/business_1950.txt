@@ -1,0 +1,6 @@
+Describe a potential use case of a chatbot.
+A potential use case for a chatbot is for customer service support. For instance, say a major telecommunications company receives numerous queries and complaints from their clients every day, and their customer support team is overwhelmed. Instead of hiring more service agents, the company can implement a chatbot on their website and app to provide instant customer support. 
+
+Customers could interact with the chatbot by typing their questions or issue, and the chatbot would reply promptly with relevant information or solutions. For instance, if a customer is experiencing connectivity issues, the chatbot might run diagnostics and offer possible fixes. In cases where the chatbot can’t resolve the issue, it could escalate the customer to a live agent to provide further assistance.
+
+Chatbots also can provide round-the-clock customer support, enabling customers to get prompt assistance any time, day or night. By utilizing this technology, the company improves customer satisfaction while reducing the workload on their support team.

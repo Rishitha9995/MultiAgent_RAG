@@ -1,0 +1,4 @@
+List two benefits of cloud computing
+Here are two benefits of cloud computing:
+1. Cost Efficiency: Businesses can save on IT infrastructure costs as cloud computing allows them to access software and storage services over the internet on a pay-per-use basis, instead of investing in physical hardware and servers.
+2. Scalability: Cloud-based services are ideal for businesses with growing or fluctuating bandwidth demands. Companies can quickly scale up or down their cloud capacity, drawing on the service’s remote servers as and when needed, without having to make major hardware investments.

@@ -1,0 +1,10 @@
+Outline the differences between web development and website design.
+Web development and website design are two separate but closely related fields within the realm of creating websites. Here are some of the main differences between the two.
+
+Web Development:
+Web development involves the programming and technical aspect of building a website. Developers are responsible for writing the code to make the website function as intended, including the site’s structure, logic, and integration with external systems or databases. Web developers often work with languages like HTML, CSS, JavaScript, and PHP to create websites that are functional and interactive. Their focus is on the back-end development of the site, creating features like content management systems, ecommerce platforms, and other user interactivity functions.
+
+Website Design:
+On the other hand, website design refers to the visual and aesthetic aspect of the site. Designers work on the front-end, creating the look and feel of the site while ensuring it is user-friendly and intuitive. They use design tools like Photoshop, Illustrator, and Sketch to create mockups and wireframes of the site design. Their work involves choosing the right colors, images, typography, and layouts to effectively communicate the brand message to the audience. Website designers focus on creating an engaging and visually appealing website, while also considering user experience and usability.
+
+In summary, web development is about making the website work, while website design is about making it look good. Both roles are crucial to the success of a website, and often, professionals in these fields work closely together to create an end product that is both functional and visually attractive to users.

@@ -1,0 +1,36 @@
+Create a timeline describing the history of the internet
+1960s - The concept of wide-area computer networking emerged among computer scientists in the United States.
+
+1969 - ARPANET, the first operational data network, was launched by the Advanced Research Projects Agency (ARPA).
+
+1971 - Ray Tomlinson invented email, allowing messages to be sent from one computer to another.
+
+1972 - Vint Cerf and Robert Kahn designed the Transmission Control Protocol (TCP) and Internet Protocol (IP), the fundamental communication protocols at the heart of the Internet.
+
+1974 - A proposal for the creation of the Internet was published, establishing the concept of packet switching as the fundamental technology for data transmission.
+
+1983 - ARPANET split into two separate networks, MILNET and the new ARPANET, to accommodate the increasing number of military and civilian applications.
+
+1989 - Tim Berners-Lee proposed the World Wide Web, a system designed to make it easier for scientists to share information across the Internet.
+
+1990 - ARPANET was decommissioned and the World Wide Web was launched.
+
+1991 - The first website, info.cern.ch, went online.
+
+1993 - The release of the Mosaic web browser made the web accessible to a much wider audience.
+
+1994 - E-commerce was born with the founding of Amazon and eBay.
+
+1995 - The dot-com boom began, and internet startups received massive investments.
+
+2000 - The dot-com bubble burst, but the era of high-speed broadband internet access began.
+
+2004 - The rise of social networking began with the launch of Facebook.
+
+2005 - YouTube was launched, ushering in the era of online video sharing.
+
+2007 - The launch of the iPhone marked a watershed moment in mobile internet access.
+
+2010 - The concept of cloud computing became mainstream with the rise of services like Google Drive and Dropbox.
+
+Today, the internet continues to evolve and expand, becoming an ever-more integral part of our lives, communication, and business.

@@ -1,0 +1,12 @@
+Mention the key features of Machine Learning.
+Machine Learning is a subset of Artificial Intelligence that allows computer systems to automatically improve their performance based on data. Here are some of its key features:
+
+1. Data-driven: Machine learning is data-driven, meaning that the algorithms learn from experience and make predictions or decisions based on the data it processes.
+
+2. Automatic improvement: The performance of machine learning algorithms improves automatically over time as they learn from the data and adapt to new situations.
+
+3. Predictive analysis: One of the main features of machine learning is its ability to make predictions, find patterns, and make decisions based on large datasets.
+
+4. Wide applicability: Machine learning algorithms can be used in various fields such as Finance, Healthcare, Marketing, Customer Service, etc. to solve complex problems and provide value to users and customers.
+
+5. Diverse learning techniques: There are several diverse techniques used in machine learning such as supervised learning, unsupervised learning, semi-supervised learning, reinforcement learning, and transfer learning, which can be applied to different kinds of problems.

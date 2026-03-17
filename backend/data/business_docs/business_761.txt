@@ -1,0 +1,16 @@
+Generate set of questions for a job interview
+1. Can you tell us about your previous work experience and how it relates to this position?
+2. How do you handle tight deadlines and multiple projects?
+3. How do you handle difficult situations with coworkers or clients?
+4. Can you give an example of a successful project you worked on and your role in it?
+5. Can you tell us about a time when you faced a challenge in the workplace and how you overcame it?
+6. Can you describe your problem-solving process?
+7. How do you handle criticism and feedback in the workplace?
+8. Can you tell us about your leadership experience and style?
+9. How do you stay organized and manage your time effectively?
+10. Can you tell us about a specific achievement that you are particularly proud of?
+11. Can you give an example of how you have demonstrated adaptability and flexibility in the workplace?
+12. Can you tell us about a time when you had to make a difficult decision at work?
+13. How do you stay current with industry trends and developments?
+14. Can you tell us about a time when you went above and beyond in your work?
+15. Can you tell us why you would be a good fit for our company and this position?

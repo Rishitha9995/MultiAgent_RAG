@@ -1,0 +1,2 @@
+In one sentence, explain the purpose of Big Data.
+The purpose of Big Data is to process, analyze, and uncover insights from large and complex data sets to drive strategic decision-making and improve business outcomes.

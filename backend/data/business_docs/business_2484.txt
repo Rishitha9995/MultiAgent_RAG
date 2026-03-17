@@ -1,0 +1,4 @@
+Classify these adults according to the type of job they have
+- Judy has a job in the field of science.
+- David has a job in the field of arts, specifically music.
+- Bob has a job in management, as he is a CEO of a company.

@@ -1,0 +1,13 @@
+Compose an apology letter to a customer.
+Dear Customer,
+
+We are truly sorry to hear that you were not satisfied with our services and that your order arrived later than expected. We understand how frustrating and disappointing this must have been for you, and for that we deeply apologize.
+
+We do hope that you can accept our sincerest apologies for the inconvenience that this must have caused, and we want to assure you that this is not the level of service that we strive to deliver to our customers.
+
+Please know that we take your feedback very seriously, and we are taking immediate steps to ensure that this never happens again. We are committed to providing our customers with an exceptional experience and we will do everything in our power to make things right for you.
+
+Once again, we are sorry for the experience you had, and please do not hesitate to reach out to us if you need any further assistance. We value your patronage and we hope to have the opportunity to make it up to you in the future.
+
+Sincerely,
+[Your Company]

@@ -1,0 +1,2 @@
+Generate a title for a paper given a list of keywords.
+"Effective Waste Management: The Role of Plastic Recycling in Reducing Environmental Impact"

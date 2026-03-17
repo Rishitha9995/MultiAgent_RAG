@@ -1,0 +1,39 @@
+Generate a high-level outline for a presentation on artificial intelligence.
+I. Introduction
+    A. Definition of AI
+    B. Brief history of AI
+    C. Purpose of presentation
+
+II. Types of AI
+    A. Reactive Machines
+    B. Limited Memory
+    C. Theory of Mind
+    D. Self-aware AI
+
+III. Applications of AI
+    A. Healthcare
+    B. Transportation
+    C. Finance
+    D. Gaming
+
+IV. Advancements in AI
+    A. Machine Learning
+    B. Natural Language Processing
+    C. Robotics
+    D. Deep Learning
+
+V. Ethical Considerations
+    A. AI and Employment
+    B. Bias in AI systems
+    C. Privacy concerns
+    D. Regulation and Control
+
+VI. Future of AI
+    A. Predictions and possibilities
+    B. Potential impact on society
+    C. Advancements to look forward to
+
+VII. Conclusion
+    A. Recap of main points
+    B. Implications of AI advancements
+    C. Final thoughts.

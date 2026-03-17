@@ -1,0 +1,2 @@
+Summarize what is the consumer price index (CPI).
+The Consumer Price Index (CPI) is a measure of the average change over time in the prices paid by urban consumers for a market basket of consumer goods and services, such as food, transportation, housing, and medical care. It is calculated by taking price changes for each item in the basket and averaging them. The CPI is commonly used as an indicator of inflation and is also used to adjust wages, retirement benefits, and tax brackets.

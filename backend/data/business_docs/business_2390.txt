@@ -1,0 +1,25 @@
+Create a game scenario document
+Game Title: Escape from Atlantis
+
+Concept:
+Escape from Atlantis is an adventure game in which players must escape from the sinking city of Atlantis. The city is crumbling, and players must solve puzzles, overcome obstacles, and gather clues and objects to help them escape before it's too late.
+
+Setting:
+The game takes place in the ancient city of Atlantis. The city is crumbling, with water flooding the streets and buildings collapsing. Players must navigate through the city's various districts, including the palace, the marketplace, and the residential area, in order to escape.
+
+Gameplay:
+The game is played from a third-person perspective, and players control a character who must navigate through the city. Gameplay consists of solving puzzles, overcoming obstacles, and gathering items and information that will help players escape. Puzzles may include manipulating objects, unlocking doors, or deciphering hidden messages. Obstacles may include flooded passageways, collapsing buildings, or hostile creatures. Players have a limited amount of time to complete the game, and must escape before the city is completely destroyed.
+
+Characters:
+The player character is a resident of Atlantis who is trying to escape the city. Other characters include NPCs who can provide information, clues, or items that will help the player escape.
+
+Objectives:
+The primary objective of the game is to escape from the city before it is completely destroyed. To do this, players must solve puzzles, overcome obstacles, and gather items and information that will help them escape. The game has multiple endings depending on how the player completes the game, and players are encouraged to replay the game to discover all the different endings.
+
+Graphics:
+The game has realistic graphics, with detailed environments and characters. Special effects such as water and fire are used to create a sense of urgency and danger.
+
+Sound:
+The game has an atmospheric soundtrack, with music and sound effects that change depending on the player's location and actions. Voice acting is used for the game's characters.
+
+Overall, Escape from Atlantis is an thrilling adventure game that challenges players to use their skills and wits to escape from a crumbling city. The game's engaging puzzles, obstacles, and characters, combined with its realistic graphics and atmospheric soundtrack, create an immersive experience that will keep players on the edge of their seats.

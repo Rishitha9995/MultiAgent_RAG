@@ -1,0 +1,2 @@
+Arrange the given list of words into meaningful sentences.
+The economy is closely tied to the performance of the stock market.

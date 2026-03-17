@@ -1,0 +1,20 @@
+Create a user persona for a business owner who needs a website for his new cleaning services business.
+**Name:** John Smith
+
+**Age:** 35
+
+**Occupation:** Business Owner, Cleaning Services 
+
+**Location:** Dallas, Texas
+
+**Education:** Bachelor's Degree in Business Management
+
+**Background:** John is an entrepreneur who has recently started his own cleaning services business. He has worked in the cleaning industry for the past 10 years and has finally decided to branch out on his own. He has a small but growing team of employees and is focused on providing the best possible cleaning services to his customers.
+
+**Needs:** As a new business owner, John understands the importance of having an online presence to establish credibility and attract potential customers. He needs a professional website that showcases his services, pricing, and contact information. The website should also have a form for customers to request a quote, and a section for customer reviews. As John is new to the digital world, he requires an easy-to-use platform that he can update regularly.
+
+**Goals:** John's main goal is to grow his cleaning services business and increase his customer base. He believes that having a website is crucial in achieving this goal, as it would provide potential customers with all the necessary information about his business. Additionally, having an online presence would allow him to reach a wider audience and establish a strong brand identity.
+
+**Challenges:** John's biggest challenge is balancing his time between managing the day-to-day operations of his business, and marketing it to attract new customers. He needs a solution that is efficient, time-saving and user-friendly. Additionally, being new to the digital world, he is unsure of how to design and set up a website, and requires guidance in this regard.
+
+**Technology Use:** John is comfortable using technology and has a basic understanding of how the internet works. He uses a smartphone and a laptop for his daily operations, and is familiar with social media platforms such as Facebook and Instagram. However, he is not well-versed in website design or management and would require support in this area.

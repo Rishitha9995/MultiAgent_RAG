@@ -1,0 +1,4 @@
+Name three international companies headquartered in a given city.
+1. Sony Corporation - an electronics company
+2. Mitsubishi Corporation - a conglomerate with diverse businesses
+3. Fujitsu Limited - an IT services and equipment company.

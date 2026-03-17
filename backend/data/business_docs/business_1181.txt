@@ -1,0 +1,2 @@
+Analyze this given article.
+The article discusses the recent launch of the Mac Pro and Pro Display XDR by Apple. In addition to introducing this new hardware, the company unveiled the capabilities of their new Afterburner card, which is the first in its industry. The Afterburner card is a powerful new tool that allows professionals to edit 8K video in real time and to easily create and manipulate 3D models.

@@ -1,0 +1,4 @@
+Clean up this paragraph by replacing the jargon with more simple language.
+
+"The emergent business models that leverage big data analytics and machine learning have revolutionized the way we do business in the 21st century."
+The new ways of making money using large amounts of information and computer programs that learn from it have changed how we do business today.

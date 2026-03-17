@@ -1,0 +1,8 @@
+Make a list of five items necessary to start a computer
+Here is a list of five items necessary to start a computer: 
+
+1. A Computer: The first and most obvious item you'll need is a computer, whether a desktop, laptop or other hardware capable of running an operating system.
+2. Power source: To start a computer, you need a power source. This may be a power cable that you plug into an outlet or a battery in case of a laptop.
+3. Input device: To turn the computer on you need an input device such as a power button, or a keyboard or mouse with a power key.
+4. Display device: To see the startup process and to use the computer, you'll need a display device, such as a monitor or projector.
+5. Boot media (Operating System): The computer needs an operating system installed in order to properly start up. Usually, the operating system is pre-installed on the hard drive or SSD, but it can be booted from an external device too.

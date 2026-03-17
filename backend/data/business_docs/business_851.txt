@@ -1,0 +1,8 @@
+Name 3 things a software engineer should know.
+A software engineer should have knowledge about the following:
+
+1. Programming Languages and Frameworks: Expertise in at least one programming language such as Java, Python, C++, C#, etc. and proficiency in using frameworks like Django, React, Angular, .NET, etc. is essential for developing robust software.
+
+2. Algorithms and Data Structures: Understanding of fundamental algorithms and data structures such as sorting, searching, graph traversal, and common data structures like arrays, stacks, queues, linked lists, trees, etc. is essential for solving complex computational problems and optimizing code performance.
+
+3. Software Development Life Cycle (SDLC) and Project Management: Knowing the entire software development life cycle, including requirement gathering, prototyping, designing, coding, testing, deployment and maintenance, is crucial. Also, knowledge of project management methodologies like Agile, Scrum, and Waterfall can facilitate better planning, execution, and delivery of software projects.

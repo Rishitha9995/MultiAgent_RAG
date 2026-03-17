@@ -1,0 +1,2 @@
+Generate an acronym for a software company.
+An acronym for a software company could be SaaS (Software as a Service).

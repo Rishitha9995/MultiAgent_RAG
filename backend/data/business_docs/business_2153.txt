@@ -1,0 +1,6 @@
+Explain the concept of a ‘Producer-Consumer Problem’
+The producer-consumer problem is a classical example of a multi-process synchronization problem, where two or more processes share a common resource, in this case, a buffer or message queue. 
+
+In this problem, we have two types of processes: the producer and the consumer. The producer generates or produces data or items and puts them into the buffer, while the consumer takes the items from the buffer and consumes or processes them. The key challenge is to make sure that the producer does not place any items into the buffer if the buffer is full, and the consumer must not try to consume any items if the buffer is empty.
+
+This problem can be solved using semaphores, mutexes, or monitors to achieve synchronization between the processes, and to ensure that the buffer's integrity is maintained. The concept of a producer-consumer problem is frequently used in various programming languages and operating systems to manage multi-process synchronization, inter-process communication, and thread management.

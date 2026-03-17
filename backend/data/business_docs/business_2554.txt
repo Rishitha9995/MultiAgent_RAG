@@ -1,0 +1,12 @@
+Design an app feature that encourages people to recycle.
+One way to encourage people to recycle could be through the development of an app feature called "Recycle Rewards". This feature will track your recycling activities and reward you for your efforts.
+
+How it works:
+- Users can register their home and office addresses within the app’s recycle reward program.
+- The app feature will then use the device’s location to determine where you are when you recycle. For instance, if you are at home, it knows you’re using your home recycling bin.
+- The app feature will ask users to scan the barcode of an item they're recycling. If the item is recyclable, it will guide the user to dispose of it properly, for example, “This yogurt cup belongs in the recycling bin with other plastics”.
+- Each time the user scans a recyclable item and disposes of it properly, they earn points.
+- Points can be redeemed for real-world rewards such as discounts at local businesses or gift cards.
+- The feature could also include a leaderboard, allowing users to compete against friends and family to see who can earn the most recycling points.
+
+This feature can help create a positive reinforcement loop by incentivizing users to recycle more often, in turn reducing the amount of waste that ends up in landfills. It's a fun and interactive way to make recycling a habit and help the environment.

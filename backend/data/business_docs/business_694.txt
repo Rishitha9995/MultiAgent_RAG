@@ -1,0 +1,10 @@
+List five jobs that require analytical thinking.
+1. Data Analyst: Data analysts collect, process and perform statistical analyses on large datasets, to uncover insights, trends or patterns to support decision making. Analytical thinking is crucial in this role to interpret results, identify correlations, and make predictions.
+
+2. Financial Analyst: Financial analysts research and analyze financial information to help organizations make more informed investment decisions. Analytical thinking is important for assessing potential risks and returns, forecasting financial trends, and creating models to support financial planning.
+
+3. Management Consultant: Management consultants work with businesses to identify problems, analyze data, and develop solutions to improve their operations or performance. Analytical thinking is crucial for dissecting complex issues, interpreting data, and developing logical and insightful recommendations.
+
+4. Business Intelligence Analyst: Business intelligence analysts collect, integrate, and analyze data from various sources to help organizations make data-driven decisions. Analytical thinking is important for identifying trends, creating visualizations, and deriving actionable insights from data.
+
+5. Software Engineer: Software engineers design, develop, and maintain software applications to solve problems, automate processes or meet customer needs. Analytical thinking is important for understanding user requirements, designing algorithms, troubleshooting issues, and optimizing performance.

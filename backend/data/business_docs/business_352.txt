@@ -1,0 +1,2 @@
+Given a text, generate a summary of it.
+John is an engineer working for a tech company in a small city in California. He enjoys running and reading in his free time.

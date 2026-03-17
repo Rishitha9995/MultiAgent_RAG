@@ -1,0 +1,9 @@
+Generate a financial report for a business for the past month.
+Financial Report for ABC Business
+Date: XX/XX/XXXX
+
+Overview: 
+This report outlines the financial performance of ABC Business for the past month in terms of revenue, profitability, operating costs and overall financial health.
+
+Revenue:
+During the past month, ABC Business generated a total revenue of $XXXXXX, which represents a X% increase when compared to the previous month. This can be attributed to an increase in sales volume, as well as an increase in average order value resulting from successful marketing campai

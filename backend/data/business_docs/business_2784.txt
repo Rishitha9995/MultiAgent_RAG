@@ -1,0 +1,6 @@
+List three ways computers can help people doing their job better
+1. Automation: Computers can automate repetitive tasks, allowing people to focus on more complex and strategic activities. For instance, data entry, calculations, and report generation can be automated, freeing up time and reducing the risk of errors.
+
+2. Collaboration: Computers provide a range of tools that make it easier for people to work together, regardless of where they are located. This includes tools for video conferencing, document sharing, and project management.
+
+3. Increased Productivity: Computers can help to increase productivity in various ways. For example, by running complex calculations or simulations, computers can provide people with the information they need to make informed decisions quickly. Additionally, productivity software, such as calendars, to-do lists, and time management tools, can help people stay organized and focused.

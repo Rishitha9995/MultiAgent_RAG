@@ -1,0 +1,14 @@
+Write a letter of resignation.
+Dear [Employer],
+
+I am writing to inform you that I, Joe Smith, have decided to resign from my position at [Company]. This was not an easy decision for me to make, but after careful consideration and personal reflection, I have decided that it is the best course of action for me at this time.
+
+I want to express my gratitude for the opportunities that [Company] has provided me during my time here. I have learned a great deal and have enjoyed working alongside my colleagues. I am proud of the work that I have accomplished and the contributions I have made to the organization.
+
+I will do everything I can to ensure a smooth transition during my remaining time at [Company]. I will work diligently to complete any outstanding projects and will assist in any way possible to find and train my replacement.
+
+Thank you again for everything. I have truly appreciated my time here and hope that I have made a positive impact. I wish [Company] continued success in the future.
+
+Sincerely,
+[Your Name]
+Joe Smith.

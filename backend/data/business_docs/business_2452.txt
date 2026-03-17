@@ -1,0 +1,2 @@
+Generate a fictitious company name.
+"Cloudtopia Solutions"

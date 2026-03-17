@@ -1,0 +1,9 @@
+Come up with a data mining problem to solve using the following dataset.
+One potential data mining problem that could be solved using this dataset is identifying patterns and trends in student enrollment. This could involve analyzing factors such as the number of students enrolling each year, the demographics of the student population, and the programs or courses in which students are enrolling. Some specific questions that could be addressed through data analysis might include: 
+
+- Are there any trends in overall enrollment numbers, such as an increase or decrease in the number of students enrolling over time?
+- Are there differences in enrollment patterns between different demographic groups (e.g. gender, race/ethnicity, socioeconomic status)?
+- Which programs or courses have the highest enrollment, and how has this changed over time?
+- Are there any correlations between enrollment patterns and external factors, such as changes in the job market or the availability of scholarships and financial aid?
+
+By analyzing this data, the college could gain valuable insights into its enrollment patterns and potentially develop strategies to improve recruitment and retention of students.

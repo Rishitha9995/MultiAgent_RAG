@@ -1,0 +1,18 @@
+Create a response for a customer's email about a refund issue.
+Dear Customer,
+
+Thank you for bringing this to our attention. I am sorry to hear that you were not satisfied with the product you purchased. We strive to provide high-quality items that meet the expectations of our customers, and we regret that this was not the case for you.
+
+I would be happy to assist you in processing a refund for your purchase. Could you please provide me with the following details so that I can locate your order and initiate the refund process:
+
+- Your order number
+- The name and/or email address associated with the purchase
+- The date of purchase
+
+Once I have this information, I will promptly process your refund.
+
+Again, I apologize for any inconvenience this has caused you and thank you for your patience and understanding as we resolve this issue.
+
+Best regards,
+
+[Company] Customer Support

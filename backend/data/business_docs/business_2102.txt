@@ -1,0 +1,2 @@
+Identify the type of the news article.
+The type of this news article is Business/Technology.

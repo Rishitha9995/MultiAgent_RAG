@@ -1,0 +1,10 @@
+Describe what a typical workday might look like for a computer programmer.
+A typical workday for a computer programmer might begin early in the morning, with a review of any new messages, emails or requests that have come in overnight. After that, the programmer might spend some time reviewing project plans, schedules, and priorities to ensure they are on track to meet their goals and deadlines.
+
+Next, the programmer might focus on writing and testing new code, making improvements to existing code, and debugging any issues that arise as they work through the design and development of software applications. They may work alone or as part of a team, collaborating with other programmers, designers and project managers to develop, test, and refine their code.
+
+Throughout the day, the programmer may also participate in meetings with colleagues, managers, or clients to discuss project progress, share ideas, and plan for future work. They may also spend time researching new technologies and programming languages, and keeping up to date with industry news and trends.
+
+Later in the day, the programmer might document the work they have done, updating project plans, writing technical documentation, and creating reports for management or clients. They may also continue to write and test code, and may work late into the evening to meet a deadline or complete a particularly challenging task.
+
+Overall, a typical workday for a computer programmer is busy, challenging, and rewarding, with a focus on problem-solving, creativity, and collaboration.

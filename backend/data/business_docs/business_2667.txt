@@ -1,0 +1,8 @@
+Classify the part of speech for each word in this sentence: "They have already started their new business".
+They: pronoun
+have: auxiliary verb
+already: adverb
+started: verb
+their: pronoun
+new: adjective
+business: noun

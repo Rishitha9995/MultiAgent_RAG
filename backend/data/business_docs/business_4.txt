@@ -1,0 +1,18 @@
+Design an app for a delivery company.
+The delivery company app would provide an efficient way for customers to manage all their delivery needs in one place. Here are the key features of this app:
+
+1. User Account: Customers will be able to create a personal account to track their delivery orders and view their account history. Through the account, they can edit their personal information, contact details, and addresses.
+
+2. Order Placement: Customers can place their delivery orders on the app, either by selecting their desired items or by uploading an image of their shopping list. Orders can be scheduled for specific dates and times or placed on a recurring basis.
+
+3. Real-time tracking: Customers can track their orders in real-time on a map, with updates on the estimated time of arrival.
+
+4. In-app communication: The customer will be able to communicate with the delivery driver about delivery instructions, schedules or special requests through an in-app chat function.
+
+5. Delivery confirmation: After the delivery is complete, the customer will receive a notification, and they will be able to confirm the delivery and rate the service.
+
+6. Payment: Customers will be able to add their preferred payment method to the app, such as a credit card or through a mobile payment system, and transactions will be processed seamlessly.
+
+7. Customer Support: Customers will able to access the help center, where they can report any issues, get answers to their questions, or call customer support directly from the app.
+
+Overall, this delivery app will provide an intuitive and user-friendly interface for customers, making the delivery process seamless and stress-free.

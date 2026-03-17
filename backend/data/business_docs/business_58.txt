@@ -1,0 +1,6 @@
+Mention two ways in which a business can use Artificial Intelligence.
+There are several ways a business can use artificial intelligence to improve its operations and achieve its goals. Two of these ways are:
+
+1. Customer Service: Many businesses nowadays use AI chatbots to handle customer queries and complaints. These chatbots use natural language processing (NLP) to interact with customers in an intelligent, human-like manner. They can provide quick and effective solutions to common problems and free up human customer service representatives to tackle more complex issues.
+
+2. Predictive Analysis: AI can be used to analyze large amounts of data and make predictions about future trends and events. This can be particularly useful in sales and marketing, where predictive models can help businesses understand customer behavior and tailor their strategies accordingly. AI can also be used to forecast demand for products and services, allowing businesses to optimize their inventory management and avoid stockouts.

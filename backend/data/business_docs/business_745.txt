@@ -1,0 +1,9 @@
+Compose an appropriate reply to the following customer service email.
+Dear [Name],
+
+Thank you for taking the time to reach out to us regarding your recent purchase. We are sorry to hear that the product arrived in a broken condition. We take such incidents very seriously and would be happy to assist you in returning the item for a full refund.
+
+Please let us know if there is anything else we can do to assist you in the process, and we’ll make sure that you are taken care of. We value your business and we appreciate your understanding.
+
+Best regards,
+[Customer Service Representative Name]

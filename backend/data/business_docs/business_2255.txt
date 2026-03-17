@@ -1,0 +1,2 @@
+Describe what a web developer does in three sentences.
+A web developer is responsible for designing, coding, and modifying websites or applications, tailoring the layout and user experience to fit the client's specific needs. They work with technologies such as HTML, CSS, and JavaScript, and often use content management systems (CMS) or frameworks to build dynamic, interactive web applications. In addition to technical proficiency, web developers must also have an eye for design and strong communication skills to collaborate with clients or other team members.

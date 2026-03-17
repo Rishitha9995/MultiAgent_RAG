@@ -1,0 +1,6 @@
+Generate a list of 3 new trends in the given industry.
+1. Remote Work and Flexible Schedules - One of the biggest trends in the business industry is the shift towards remote work and flexible schedules. This is due to the advancement of technology and communication tools that allows employees to work from anywhere and at any time.
+
+2. Rise of AI and Automation - Another trend in the business industry is the increase use of AI and automation in the workplace. Many companies are now utilizing AI and automation to help streamline their business processes, increase productivity and reduce costs.
+
+3. Focus on Sustainability and Corporate Social Responsibility - There is a growing trend for businesses to focus on sustainability and corporate social responsibility. Companies are now incorporating environmentally friendly initiatives and social responsibility programs into their operations as consumers are demanding that businesses be more responsible for their actions.

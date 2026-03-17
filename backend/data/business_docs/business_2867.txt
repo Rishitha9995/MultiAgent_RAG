@@ -1,0 +1,43 @@
+Generate an example of a data set with 100 records of customers and their corresponding occupations.
+Here is an example of a data set with 100 records of customers and their corresponding occupations:
+
+| Customer Number | Customer Name | Occupation    |
+| --------------- | ------------- | --------------|
+| 1               | John Smith    | Accountant    |
+| 2               | Sarah Brown   | Lawyer        |
+| 3               | David Jones   | Engineer      |
+| 4               | Emily Green   | Nurse         |
+| 5               | Michael White | Teacher       |
+| 6               | Rachel Wood   | Journalist    |
+| 7               | James Taylor  | Realtor       |
+| 8               | Maria Garcia  | Artist        |
+| 9               | Brian Wilson  | Chef          |
+| 10              | Laura Moore   | Scientist     |
+| 11              | Mark Phillips | Dentist       |
+| 12              | Linda Turner  | Salesperson   |
+| 13              | Andrew Young  | Architect     |
+| 14              | Jennifer Lee  | Designer      |
+| 15              | Eric Lewis    | Writer        |
+| 16              | Kelly Adams   | Marketing     |
+| 17              | Thomas Davis  | IT Specialist |
+| 18              | Karen Baker   | Paramedic     |
+| 19              | Christopher Clark | Entrepreneur|
+| 20              | Susan Carter  | HR Specialist |
+| 21              | Joseph Miller | Electrician   |
+| 22              | Angela Scott  | Mechanic      |
+| 23              | Brandon Bailey| Security Guard|
+| 24              | Nicole Nelson | Social Worker |
+| 25              | Matthew Ward  | Physician     |
+| 26              | Elizabeth Reed| Counselor     |
+| 27              | Adam Armstrong| Programmer    |
+| 28              | Megan Powell  | Interior Decorator|
+| 29              | Aaron Dawson  | Plumber       |
+| 30              | Grace Perkins | Psychologist  |
+| 31              | Gregory Bell  | Veterinary    |
+| 32              | Jessica Ryan  | Athlete       |
+| 33              | Tyler King    | Musician      |
+| 34              | Mary Gregory  | Photographer  |
+| 35              | Craig Butler  | Hairdresser   |
+| 36              | Sopie Long    | Chiropractor  |
+| 37              | Victor Evans  | Optometrist   |
+| 38              | Amber

@@ -1,0 +1,4 @@
+Generate three interview questions for a marketing role.
+1. What is your approach to creating and implementing successful marketing campaigns? 
+2. Can you give us an example of how you have used market research to drive a successful marketing strategy? 
+3. How do you measure the success of marketing campaigns and how do you adapt your approach based on the results?

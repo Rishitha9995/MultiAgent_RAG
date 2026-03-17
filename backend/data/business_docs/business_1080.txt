@@ -1,0 +1,5 @@
+Categorize different types of jobs into occupational fields.
+1. Healthcare: Doctor
+2. Finance: Accountant
+3. Education: Teacher
+4. Arts/Entertainment: Actor

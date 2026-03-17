@@ -1,0 +1,8 @@
+What is the main difference between static and dynamic memory management?
+Static and dynamic memory management refer to two different ways in which memory is allocated and deallocated during the execution of a program. 
+
+In static memory management, the memory allocation is done before the program is run, and the amount of memory required is determined at compile time. The memory space is fixed and cannot be changed during the execution of the program. The main advantage of static memory management is its simplicity and speed, but it can be less flexible as the memory requirements of the program need to be known beforehand.
+
+In contrast, dynamic memory management allows memory allocation and deallocation to happen during runtime. This means that memory can be allocated or freed as needed, providing more flexibility in managing memory resources. Dynamic memory management is generally more complex and slower than static memory management, due to the overhead associated with the need to track and manage memory allocation during runtime.
+
+In summary, the main difference between static and dynamic memory management is that static memory management allocates memory before a program is run, while dynamic memory management allocates and deallocates memory during runtime.

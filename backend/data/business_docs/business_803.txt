@@ -1,0 +1,56 @@
+Design a survey to measure customer satisfaction with a new online store.
+Thank you for asking me to design a customer satisfaction survey for your new online store. Below is a survey that can be used to gather valuable feedback from your customers:
+
+1. How did you first hear about our online store?
+- Friend or family member
+- Search engine
+- Social media
+- Email marketing
+- Other (please specify) 
+
+2. On a scale of 1 to 10, how satisfied are you with your overall shopping experience at our online store?
+(1 being not at all satisfied and 10 being extremely satisfied)
+
+3. How easy was it for you to find the products you were looking for on our website?
+- Very easy
+- Somewhat easy
+- Neutral
+- Somewhat difficult
+- Very difficult 
+
+4. Were our product descriptions and images accurate and helpful?
+- Yes
+- Somewhat
+- No
+
+5. On a scale of 1 to 10, how satisfied are you with the quality of the products you purchased from our online store?
+(1 being not at all satisfied and 10 being extremely satisfied)
+
+6. How satisfied are you with the shipping and delivery of your order?
+- Very satisfied
+- Somewhat satisfied
+- Neutral
+- Somewhat dissatisfied
+- Very dissatisfied 
+
+7. Did you need to contact our customer service team for any reason? 
+- Yes
+- No
+
+(If yes) How satisfied were you with the response and resolution provided by our customer service team?
+- Very satisfied
+- Somewhat satisfied
+- Neutral
+- Somewhat dissatisfied
+- Very dissatisfied 
+
+8. Would you recommend our online store to a friend or family member?
+- Definitely
+- Probably
+- Unsure
+- Probably not
+- Definitely not 
+
+9. Is there anything we could have done to improve your shopping experience with us? (optional open-ended question)
+
+Thank you for taking the time to complete our survey. Your feedback is valuable to us and helps us to improve our services and offerings.

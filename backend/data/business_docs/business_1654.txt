@@ -1,0 +1,8 @@
+Explain the concept of currency devaluation.
+Currency devaluation is the deliberate downward adjustment of the value of a country's currency relative to another currency, group of currencies or a standard. It is a monetary policy tool used by countries that have a fixed exchange rate or semi-fixed exchange rate.
+
+Devaluation is most often used when a country's currency has a set value relative to other currencies, such as with the U.S. dollar. It is used to make their exports cheaper and more competitive in the global market, which can stimulate economic growth. 
+
+On the downside, devaluation can increase the price of imports, making them more expensive for consumers in the country, and could lead to inflation. It also could discourage foreign investors as it signals that the economy is struggling, and their investments may be at risk.
+
+In general, currency devaluation is a tool used by countries to address their economic problems, but it can have both positive and negative consequences.

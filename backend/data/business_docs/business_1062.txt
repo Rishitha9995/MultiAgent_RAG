@@ -1,0 +1,10 @@
+Identify any 5 key characteristics of the following software
+1. User Friendly Interface: A good e-commerce platform has a simple, intuitive and easy-to-use interface that enhances the user experience.
+
+2. Security Features: Security is key for e-commerce platforms, and a good platform should have robust security features such as SSL encryption, two-factor authentication, and firewalls to protect user data and transaction information.
+
+3. Inventory and Order Management: Effective inventory and order management tools are essential for e-commerce platforms. These features help businesses keep track of inventory levels, manage orders, and handle shipping and logistics.
+
+4. Payment Processing: E-commerce platforms should have secure and reliable payment processing systems that accept multiple payment methods such as credit cards, PayPal, and Apple Pay.
+
+5. Marketing and SEO: A strong e-commerce platform should have built-in marketing and SEO tools to help businesses improve their search engine rankings, drive traffic to their sites, and increase sales.

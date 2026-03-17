@@ -1,0 +1,13 @@
+Create a preliminary budget for a small business.
+Based on the provided information, here is a preliminary budget for your small business:
+
+**Startup Costs**: $1000
+This amount covers the initial expenses associated with starting the business, such as equipment, supplies, legal fees, and any other expenses incurred during the planning and setting up phase.
+
+**Monthly Operating Expenses**: $3000
+These costs recur on a monthly basis and include rent, payroll, utilities, and other expenses associated with maintaining and operating the business on a day-to-day basis.
+
+**Total First Month Costs**: $4000
+The total cost in the first month will be the sum of the startup costs and monthly operating expenses. This is the amount that will be required to successfully launch and operate the business for the first month.
+
+It is important to note that this is only a preliminary budget and the actual expenses may vary based on specific business needs and operations. Consider having a contingency fund for unexpected expenses, revenue projections and cash flow management, and frequently revisiting the budget to ensure that it remains accurate and relevant to the business's needs.

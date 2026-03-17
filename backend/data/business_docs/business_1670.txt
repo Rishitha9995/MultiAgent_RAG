@@ -1,0 +1,6 @@
+Explain the difference between systematic and unsystematic risk
+Systematic risk, also known as market risk or non-diversifiable risk, refers to the inherent risk associated with the entire market or a particular market segment that cannot be eliminated through diversification. This type of risk is caused by factors that affect the overall performance of the market, such as economic, political, or social events, changes in interest rates, and natural disasters. 
+
+On the other hand, unsystematic risk, also known as specific risk or diversifiable risk, refers to the risk associated with a specific company or industry. This type of risk can be reduced or eliminated through diversification, by investing in a range of assets or companies from different sectors. Unsystematic risk arises from factors that are specific to an individual company, such as management decisions, financial performance, or changes in the competitive landscape.
+
+In summary, systematic risk is inherent to the market and cannot be eliminated through diversification, while unsystematic risk can be reduced or eliminated by diversifying your investment portfolio.

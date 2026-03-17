@@ -1,0 +1,6 @@
+Identify 3 ways in which technology is changing the job market.
+1. Automation: With the rise of advanced technology, machines and software are now able to perform tasks that were previously done by humans. This has significantly impacted the job market in terms of the type and number of jobs available. For example, industries like manufacturing and retail have seen a decline in the number of jobs available as tasks such as assembly and checkout are increasingly automated.
+
+2. Remote work: The proliferation of high-speed internet and advanced communication tools has made remote work more feasible than ever before. As a result, it is now possible for employees to work from virtually anywhere, which has opened up a global job market where workers are no longer limited to jobs in their local area. This also means that companies can hire the best talent from anywhere in the world.
+
+3. Skills demand: With technology constantly evolving, the demand for technical skills continues to grow. People with expertise in areas like artificial intelligence, data analytics, software development, and cybersecurity are in high demand. This means that workers need to constantly update their skills in order to remain competitive in the job market. Conversely, jobs that require less technical skills are becoming less in demand.

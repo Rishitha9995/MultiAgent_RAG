@@ -1,0 +1,12 @@
+What are the four main goals of project management.
+The four main goals of project management are often defined as scope, time, quality, and cost. 
+
+1. Scope: To ensure that the project includes all the work necessary to meet its objectives and nothing beyond that. This includes defining and managing the tasks that must be done to complete the project.
+
+2. Time: To ensure that the project is completed within the set timeline. This includes developing a schedule, tracking progress, and making adjustments as necessary to meet the deadlines.
+
+3. Quality: To ensure that the project meets the standards of quality that have been set. This involves setting standards, monitoring progress, and making sure that the final product meets or exceeds expectations.
+
+4. Cost: To ensure that the project is completed within the set budget. This involves creating a budget, tracking expenses, and making adjustments as necessary to stay within the budgetary constraints.
+
+These four goals are interdependent and must be managed in a balanced manner in order to successfully achieve the overall objectives of the project.

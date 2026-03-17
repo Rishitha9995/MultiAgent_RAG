@@ -1,0 +1,25 @@
+Construct a linear programming problem that maximizes the profit from selling a certain product.
+A company produces a certain product that it sells at a profit. The company aims to maximize its profit while taking into account its production constraints. In this scenario, linear programming can be used to determine the optimal level of production that will yield the maximum profit.
+
+Let x represent the number of products produced.
+
+Objective Function:
+
+The company wants to maximize its profit function P = ax, where a is the profit per product.
+
+Constraints:
+
+1. Production capacity: The production capacity of the company is limited due to the available resources such as labor, raw materials, and machinery. This constraint is represented by the inequality x ≤ b, where b is the maximum production capacity of the company.
+
+2. Market demand: The market demand for the product is another factor that impacts production. The company cannot produce more than the market demands. This constraint is represented by the inequality x ≤ c, where c is the market demand for the product.
+
+Thus, the linear programming problem can be stated as follows:
+
+Maximize: P = ax
+
+Subject to:
+x ≤ b (production capacity)
+x ≤ c (market demand)
+x ≥ 0 (non-negativity constraint)
+
+The solution to this linear programming problem will determine the optimal production level x that will yield the maximum profit for the company.

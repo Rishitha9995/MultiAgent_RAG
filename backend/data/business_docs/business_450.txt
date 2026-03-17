@@ -1,0 +1,6 @@
+Identify and explain the three major benefits of cloud computing.
+1. Scalability: Cloud computing provides the flexibility to scale computing resources as needed to accommodate changing demands from a user’s business. This means that users can increase or decrease their storage, processing power or bandwidth as their business operations and workload changes, without the need to invest in additional hardware or make permanent changes to their infrastructure.
+
+2. Cost-effectiveness: Instead of having to invest in expensive hardware and the maintenance that comes with it, users of cloud computing can access the resources they need on a pay-as-you-go or subscription basis, which can save them considerable amounts of money. Additionally, the cloud infrastructure is managed by the service provider, which means that businesses do not have to hire additional staff to manage their IT resources.
+
+3. Accessibility: With cloud computing, users can access software, applications, and data from any device and from any location with an internet connection. This means that employees can collaborate and work remotely, which can increase their productivity and efficiency. It also means that employees don't have to be physically present in the office, which is particularly beneficial in the current era of remote working.

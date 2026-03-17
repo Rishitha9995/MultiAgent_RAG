@@ -1,0 +1,8 @@
+List four financial metrics to track the performance of a business.
+1. Revenue: This is the total amount of money generated from sales and is one of the most important metrics to track the performance of a business. It shows how well the company is doing in terms of bringing in money.
+
+2. Net Profit Margin: It measures the amount of profit the company makes after accounting for all expenses. This shows how effectively the business is able to convert its revenue into profit.
+
+3. Return on Investment (ROI): This measures the efficiency of an investment in generating a return for the business. It is used to evaluate the potential profitability of an investment or to compare the efficiency of different investments.
+
+4. Gross Profit Margin: This represents the percentage of total revenue that is left after subtracting the costs of goods sold (COGS). It is an indicator of the financial health and profitability of the business, showing how much money is left to cover operating expenses and generate profit.

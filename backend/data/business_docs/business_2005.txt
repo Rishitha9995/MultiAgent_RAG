@@ -1,0 +1,6 @@
+Name 3 types of ecommerce websites and provide an example of each.
+1. **Business-to-Consumer (B2C):** This type of eCommerce website targets individual consumers and allows them to purchase products or services directly from the website. An example of a popular B2C website is Amazon, which offers a wide range of products for consumers to purchase online.
+
+2. **Business-to-Business (B2B):** This type of eCommerce website focuses on selling products or services to other businesses. An example of a B2B website is Alibaba, which allows businesses to source products and materials from suppliers and manufacturers.
+
+3. **Consumer-to-Consumer (C2C):** This type of eCommerce website facilitates the sale of products or services between individual consumers. An example of a C2C website is eBay, which allows individuals to sell and purchase products from each other through an online marketplace.

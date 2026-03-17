@@ -1,0 +1,8 @@
+Brainstorm a list of 4 potential benefits to using AI in banking.
+1. Enhanced Personalization: AI technologies can be used to generate customer-specific insights and offer custom-tailored banking solutions. By analyzing the customer's past financial behaviors and preferences, AI could provide personalized financial advice and create an improved customer experience. 
+
+2. Fraud Detection and Prevention: AI can also greatly enhance a bank's abilities to detect and prevent fraudulent activities. Machine learning algorithms can be used to analyze transactional data, flagging any suspicious activity and reducing the risk of fraud. 
+
+3. Operational Efficiency: AI can be used to automate many routine banking processes, such as account management, loan processing, and customer support. This enables banks to operate more efficiently, cut costs, and reduce human errors. 
+
+4. Improved Risk Management: AI technologies can provide advanced risk assessment and management capabilities. By analyzing large volumes of data, AI can generate much more accurate risk profiles for customers, enabling banks to make more informed lending and investment decisions.

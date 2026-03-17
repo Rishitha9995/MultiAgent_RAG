@@ -1,0 +1,6 @@
+Given a product description, come up with 5 use-cases.
+1. E-commerce businesses can use the chatbot to answer frequently asked questions from customers about products, shipping, and returns, freeing up customer service representatives to handle more complex inquiries.
+2. A telecom company can use the chatbot to handle simple account-related queries like bill payments, data usage, and plan changes, providing quick and efficient service to their customers.
+3. A food delivery app can integrate the chatbot in their platform to answer standard questions about restaurant options, order status, and delivery time estimates, improving the user experience.
+4. Banking and financial institutions can use the chatbot to assist customers with common inquiries such as checking account balances, transferring funds, and applying for loans, providing round-the-clock service.
+5. Healthcare providers can use the chatbot to respond to basic questions about appointments, medication refills, and insurance coverage, leaving more time for medical staff to attend to patients' critical medical needs.

@@ -1,0 +1,12 @@
+What is an example of a real-world application of a neural network?
+Neural networks have many real-world applications, some of which include:
+
+1. Image Recognition: One of the most common applications of neural networks is image recognition. This technology is used to recognize and classify objects or people in an image or video. For example, Facebook uses neural networks to identify and tag individuals in photographs.
+
+2. Speech Recognition: Neural networks are also used to recognize and transcribe speech. Common applications of this technology include virtual assistants like Siri or Alexa, and voice-to-text software.
+
+3. Forecasting: Neural networks can also be used for forecasting, where they can make predictions based on past data. This can be applied in a variety of fields, including finance for stock price prediction, and weather forecasting.
+
+4. Medical Diagnoses: Neural networks have been used in the medical field to help diagnose diseases. For example, they can be trained to analyze medical images like X-rays or MRIs, to detect tumors or other abnormalities.
+
+5. Natural Language Processing: Neural networks are used in natural language processing to translate speech or text from one language to another, summarize long texts, and generate human-like responses in chatbots.

@@ -1,0 +1,20 @@
+Generate an example revenue projection for a hypothetical business
+Example Revenue Projection for XYZ Company
+
+Year: 2021
+
+|Quarter |Total Sales|Unit Price|Total Revenue|
+|Q1      |500        |$10.00    |$5,000       |
+|Q2      |600        |$10.00    |$6,000       |
+|Q3      |700        |$10.50    |$7,350       |
+|Q4      |800        |$11.00    |$8,800       |
+|Overall |2,600      |          |$27,150      |
+
+Assumptions:
+
+- The XYZ company sells a single product with a starting price of $10.00 per unit
+- Sales are expected to grow at a steady rate of 100 units per quarter
+- The product's unit price is expected to increase by $0.50 per unit each quarter, starting in Q3
+- Total Revenue is calculated by multiplying the total sales by the unit price for each quarter.
+
+Based on these assumptions, the XYZ company can expect to generate a total revenue of $27,150 in 2021.

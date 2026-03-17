@@ -24,6 +24,8 @@ def autocorrect_query(query):
 
     return corrected
 
+from textblob import TextBlob
+
 
 # -----------------------------
 # QUERY ROUTER

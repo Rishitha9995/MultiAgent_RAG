@@ -1,0 +1,2 @@
+You are given a list of questions, classify each into one of the following five categories: medical, history, science, business, art.
+The category of this question is history.

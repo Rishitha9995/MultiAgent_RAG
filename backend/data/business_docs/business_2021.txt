@@ -1,0 +1,2 @@
+What is an example of structured data?
+An example of structured data could be a customer database in a company, where each record contains specific fields such as Name, Address, Phone Number, and Email Address. This type of data is organized and easily searchable in a database management system because it follows a consistent format with defined columns and data types.

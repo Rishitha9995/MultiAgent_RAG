@@ -1,0 +1,18 @@
+Describe the procedure for adding a new user to a computer system.
+Adding a new user to a computer system can help to personalize the experience for each individual user and allow for better security and management. The following are the general steps for how to add a new user to a computer system:
+
+1. Open the Control Panel: To begin, you'll need to access the Control Panel on your computer. This can typically be done by clicking on the Start button and searching for "Control Panel" within the search field.
+
+2. Navigate to User Accounts: Once you have the Control Panel open, find and click on the "User Accounts" option. 
+
+3. Select the "Manage Another Account" option: Within the User Accounts section, you should see a link that says "Manage another account." Click on this to proceed.
+
+4. Click on "Add a New User": On the next screen you’ll see an option to "Add a new user in PC settings." Click on this link which takes you to the "Settings" window.
+
+5. Fill out the form: You will be prompted to enter the new user's details. You can create a Microsoft account for them by supplying an email or create a local account without an email. For the latter option, click on "I don’t have this person’s sign-in information" then on "Add a user without a Microsoft account." Enter the new user's name and password (if desired) and any password hints, then click "Next".
+
+6. Assign Account Type: Once the account has been created, you may want to assign the account type. Select the new account and click on "Change account type." Here, you can select whether to make the new user a standard user or an administrator. 
+
+7. Log out and Log in: After setting up the new user account, log out of the current account and then log in to the new account to access its personalized settings.
+
+Note that the steps above are general and may vary slightly, depending on the operating system you use.

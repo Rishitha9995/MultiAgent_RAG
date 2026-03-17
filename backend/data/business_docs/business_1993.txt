@@ -1,0 +1,11 @@
+Make a list of 10 unskilled jobs with the highest turnover rate.
+1. Fast Food Workers
+2. Retail Sales Associates
+3. Customer Service Representatives
+4. Warehouse Workers
+5. Hotel Housekeeping Staff
+6. Telemarketers
+7. Security Guards
+8. Home Health Aides
+9. Personal Care Aides
+10. Delivery Drivers

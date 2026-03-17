@@ -1,0 +1,10 @@
+List five common uses of AI technology.
+1. Personalization: AI technology is often used to create personalized content and experiences for individual users based on their preferences and behaviors. This could include personalized recommendations from services like Netflix or Amazon, or personalized news feeds on social media platforms.
+
+2. Voice Recognition: AI is widely used in voice recognition technologies, which power virtual assistants like Siri or Alexa, enabling users to interact with devices using natural language speech.
+
+3. Predictive Analytics: AI is used in predictive analytics to make predictions about future events and behaviors based on past data. This is commonly used in finance, insurance, and marketing, where it can help inform decision-making and improve business outcomes.
+
+4. Image and Video Recognition: AI technology is extensively used in image and video recognition, allowing computers to identify and categorize visual content with a high degree of accuracy. This can be used for a wide range of applications, from security and surveillance to auto-tagging photos on social media.
+
+5. Natural Language Processing: AI is used in natural language processing to help machines understand and generate human language, enabling more seamless communication between humans and computers. This can be used for language translation, sentiment analysis, and customer service bots, among other applications.

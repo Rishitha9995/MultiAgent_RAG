@@ -1,0 +1,11 @@
+Generate a list of ten skills a company may be looking for in a good candidate
+1. Strong communication skills
+2. Critical thinking
+3. Collaborative mindset
+4. Adaptability
+5. Time management
+6. Attention to detail
+7. Analytical skills
+8. Technical ability 
+9. Leadership 
+10. Creativity.

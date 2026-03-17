@@ -1,0 +1,19 @@
+Compare the features of two e-commerce platforms
+Shopify and BigCommerce are both well-established e-commerce platforms that provide users with the tools necessary to build and manage their online stores. While there are many similarities between the two platforms, there are also some key differences. Below, we will compare the features of Shopify and BigCommerce to help you determine which platform is right for you.
+
+1. Pricing:  
+Both Shopify and BigCommerce have tiered pricing options, with pricing increasing as users require more features or have a higher volume of sales. While the prices are not dramatically different, Shopify offers a lower entry-level price point, making it more accessible for smaller businesses with a smaller budget.
+
+2. Templates and design:  
+Both platforms offer a range of templates for building your online store, with each platform offering both free and paid options. While there is no significant difference in the quality of templates between the two platforms, Shopify offers a larger selection of templates which may be preferable for those looking for a greater range of design options.
+
+3. Customization:  
+Both platforms offer a high level of customization, allowing users to tailor their online stores to their unique brand and product offerings. Shopify offers a more intuitive, drag-and-drop interface which makes customization easier for those without coding experience, however, BigCommerce allows for greater levels of customization if you have coding skills.
+
+4. Features:  
+Both Shopify and BigCommerce offer a range of features designed to help users build and manage their online stores. Both platforms offer the ability to manage inventory, process orders, create and manage promotions, and integrate with social media. Each platform also offers a range of third-party integrations to extend the functionality of your store.
+
+5. Customer Support – 
+Both Shopify and BigCommerce offer 24/7 customer support via phone, email and live chat. However, Shopify’s larger user base means they also have more extensive community resources for users, such as forums where users can find answers to common questions or receive feedback from other business owners. 
+
+Overall, both Shopify and BigCommerce are strong e-commerce platforms, with a range of features to suit the needs of different businesses. Shopify is perhaps more user-friendly, with a simpler interface and a lower entry-level price point, while BigCommerce offers greater levels of customization for those with more technical skills. Ultimately, your choice of platform will depend on your specific business needs and priorities.

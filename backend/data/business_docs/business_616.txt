@@ -1,0 +1,12 @@
+Give five examples of computer networks.
+Here are five examples of computer networks:
+
+1. Local Area Network (LAN): A network that connects computers and other devices within a small area, such as a home, office, or school.
+
+2. Wide Area Network (WAN): A network that spans a large geographic area, such as a state or country, and is typically used by businesses or organizations to connect multiple locations.
+
+3. Metropolitan Area Network (MAN): A network that connects computers and other devices within a large city or metropolitan area.
+
+4. Wireless Local Area Network (WLAN): A type of LAN that uses wireless technology, such as Wi-Fi, to connect devices within a limited area, such as a home or office.
+
+5. Peer-to-Peer Network (P2P): A type of computer network where individual devices connect directly to each other and share resources, without the need for a central server.

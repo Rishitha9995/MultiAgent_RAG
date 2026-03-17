@@ -1,0 +1,62 @@
+Design a survey that prioritizes customer feedback.
+As a AI, I can create a template for a survey that aims to gain valuable feedback from your customers. Here is a suggested survey that incorporates a mix of open-ended and close-ended questions to provide a comprehensive insight into the customers' experiences and opinions.
+
+**Customer Satisfaction Survey**
+
+Dear valued customer,
+
+We at [Company] are committed to providing the best possible products and services to you. Your feedback is essential in helping us understand how we can improve and meet your needs. We kindly request that you complete our brief survey, which should take no more than 5 minutes of your time.
+
+1. How satisfied are you with our products/services?
+1- Very dissatisfied
+2- Somewhat dissatisfied
+3- Neutral
+4- Somewhat satisfied
+5- Very satisfied
+
+2. How likely are you to recommend us to friends, family, or colleagues?
+1- Very unlikely
+2- Somewhat unlikely
+3- Neutral
+4- Somewhat likely
+5- Very likely
+
+3. Please rate the friendliness and helpfulness of our staff.
+1- Very poor
+2- Poor
+3- Average
+4- Good
+5- Excellent
+
+4. How was your overall experience with our customer service?
+1- Very poor
+2- Poor
+3- Average
+4- Good
+5- Excellent
+
+5. Was our service delivered in a timely and efficient manner?
+Yes
+No
+
+6. How easy was it to find the information you needed on our website?
+1- Very difficult
+2- Somewhat difficult
+3- Average
+4. Somewhat easy
+5- Very easy
+
+7. In what areas do you think we can improve? (Please provide your thoughts in the space below)
+[Open Text Field]
+
+8. What do you like most about our products/services? (Please provide your thoughts in the space below)
+[Open Text Field]
+
+9. Would you like to receive updates and promotions from us via email?
+Yes
+No
+
+We greatly appreciate your time and input. Thank you for helping us to serve you better.
+
+Sincerely,
+[Company]

@@ -1,0 +1,4 @@
+Given a string of text, generate three random sentences that sum up the main idea.
+1) The use of data science involves extracting valuable information from large sets of data. 
+2) Utilizing data science allows for the discovery of new opportunities and improved results in business. 
+3) Through analysing extensive data, data science provides the opportunity to gain significant insights and enhance business decisions.

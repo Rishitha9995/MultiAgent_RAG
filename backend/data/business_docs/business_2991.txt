@@ -1,0 +1,4 @@
+Generate 3 questions to ask a potential employer during an interview
+1. What are the top priorities and goals for the company in the next few years and how does this role contribute to achieving them?
+2. Can you tell me more about the company culture and how it supports the professional growth and development of employees?
+3. How does the company measure the success of its employees and what opportunities are there for advancement within the organization?

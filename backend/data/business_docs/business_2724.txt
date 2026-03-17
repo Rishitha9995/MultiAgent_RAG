@@ -1,0 +1,24 @@
+Design a newsletter subscription page.
+Sure! Here’s what your newsletter subscription page could look like:
+
+---
+
+# Subscribe to Our Newsletter
+
+Stay up-to-date with the latest news, promotions and exciting releases from [Company Name] by subscribing to our newsletter.
+
+[Email field] _________
+
+[Submit Button]  Subscribe
+
+[Checkbox] I agree to receive promotional emails and newsletters from [Company Name].
+
+[Privacy statement] We value your privacy and promise to keep your email address safe. You can unsubscribe at any time by clicking the unsubscribe link in the footer of any email you receive from us. For more information, please review our [Privacy Policy].
+
+Thank you for subscribing to our newsletter! A confirmation email has been sent to your email address.
+
+
+---
+
+
+This page features a header that informs the user they are subscribing to a newsletter. Below there’s an email field, where the user can enter their email address, and a submit button that says 'subscribe'. Before they submit, the user must check the mandatory checkbox to agree to receiving promotional emails and newsletters. A privacy statement is also included, detailing the company's respect for user information and a link to the Privacy Policy. After submission, the page displays a confirmation message notifying the user that a confirmation email has been sent to their email address.

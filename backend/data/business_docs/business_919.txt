@@ -1,0 +1,20 @@
+Create a list of inputs to the instruction and classifying the type of instruction.
+- "Create a list of inputs to the instruction and classifying the type of instruction": **Task**
+    
+- "Define the goals of the company for the next quarter, and create a roadmap": **Task**
+    
+- "Display my schedule for tomorrow": **Request**
+
+- "Play music by classical composer Bach":  **Command**
+
+- "What's the weather forecast for tomorrow at 7am in New York?": **Query**
+
+- "Show me the financial report for last month": **Request**
+
+- "Set an alarm for 6am tomorrow": **Command**
+
+- "Generate a list of all the inventory stock": **Task**
+
+- "Give 3 reasons behind the popularity of Tiktok": **Query**
+
+- "Explain the concept of a Digital Twin": **Query**.

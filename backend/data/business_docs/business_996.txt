@@ -1,0 +1,4 @@
+Find two examples of binary classification problems.
+1. Fraud detection: In finance, an example of a binary classification problem is the identification of fraudulent credit card transactions. The algorithm is trained to classify a transaction as either fraudulent or legitimate based on characteristics such as the amount, location, and time of the transaction.
+
+2. Email spam filtering: Another example of a binary classification problem is email spam filtering, where an algorithm is trained to identify and sort incoming messages as either spam or not spam. Characteristics such as the email's sender, content, and subject line are used to determine its classification.

@@ -1,0 +1,6 @@
+Draft the introduction of a research paper
+Introduction:
+
+The advances in technology over the recent years have garnered much debate and interest among scholars and professionals, particularly in how it affects employment opportunities and the overall job market. This research paper aims to explore the effects of new digital technologies, automation and artificial intelligence on the job market. 
+
+The significance of this topic transcends simple labor economics and stands as a fundamental question for societies that are increasingly adopting technology in the industrial process. A clear understanding of how technology affects the job market sheds light on the costs and benefits of technological innovations and informs policies to facilitate the efficient distribution of work and the mitigation of any adverse impacts on the workforce. This paper will draw from an extensive literature review and analysis of relevant data to lay out the contours of the relationship between technology and jobs and its implications for policy and future research.

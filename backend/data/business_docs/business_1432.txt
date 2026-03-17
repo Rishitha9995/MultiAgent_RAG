@@ -1,0 +1,16 @@
+List a few places where computer scientists get jobs
+Computer scientists can obtain jobs in a wide variety of industries and settings, including but not limited to:
+
+1. Technology companies: Many large tech companies hire computer scientists for roles in software development, data analysis, machine learning, artificial intelligence, and more.
+
+2. Government agencies: Government organizations, including national defense and intelligence agencies, also hire computer scientists to work on a range of technical projects and problems.
+
+3. Startups: Many computer scientists find exciting opportunities to work for startup companies, developing new technologies, products, and services.
+
+4. Academic institutions: Universities and research institutions hire computer scientists to teach and conduct research in the field.
+
+5. Healthcare organizations: Hospitals, pharmaceutical companies, and other healthcare organizations hire computer scientists to work on data analysis, medical imaging technology, and other health-related technical challenges.
+
+6. Financial institutions: Banks, insurance companies, and investment firms often hire computer scientists to help develop financial software and analyze financial data.
+
+7. Consulting firms: Many consulting firms hire computer scientists to provide technical expertise to their clients, which can include companies in a wide range of industries.

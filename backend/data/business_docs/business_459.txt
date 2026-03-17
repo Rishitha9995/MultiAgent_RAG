@@ -1,0 +1,8 @@
+Describe the concept of query optimization.
+Query optimization is the process of selecting the most efficient way to execute a database query. It is an important step in the database management process, as it helps to reduce the time and resources required to retrieve data from a database. 
+
+When a user submits a query, the database management system (DBMS) must determine the best way to access the data that the user requested. This process involves analyzing the query and considering various factors, such as the structure of the database, the availability and location of the data, and the estimated time required to execute different query plans.
+
+The goal of query optimization is to find the best execution plan for a given query, based on various metrics such as response time, resource consumption, and I/O costs. This is typically done using complex algorithms and heuristics that evaluate different query plans and choose the one that is most likely to meet the desired performance criteria.
+
+Query optimization is a complex and dynamic process, as the performance of a query can be affected by many factors, including changes to the data or the structure of the database. Thus, query optimization is an ongoing process that requires regular monitoring and tuning to ensure that queries are executed in the most efficient manner possible.

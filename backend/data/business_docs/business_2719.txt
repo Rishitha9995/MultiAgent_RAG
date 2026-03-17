@@ -1,0 +1,2 @@
+Given a dataset of stock prices for 3 companies, classify which stocks have higher prices.
+Based on the given data, Company B has the highest stock price at $80, while Company C has the second highest stock price at $45, and Company A has the lowest stock price at $35.

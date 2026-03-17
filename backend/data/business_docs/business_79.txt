@@ -1,0 +1,15 @@
+Create a table of ten of the world's wealthiest people.
+| Rank | Name | Net Worth (USD) | Source of Wealth | Nationality |
+|------|------|----------------|------------------|-------------|
+| 1 | Elon Musk | 254 Billion | Tesla, SpaceX | South Africa, United States |
+| 2 | Jeff Bezos | 192 Billion | Amazon | United States |
+| 3 | Bernard Arnault | 174 Billion | LVMH | France |
+| 4 | Bill Gates | 131 Billion | Microsoft, Investments | United States |
+| 5 | Mark Zuckerberg | 127 Billion | Facebook | United States |
+| 6 | Warren Buffett | 104 Billion | Berkshire Hathaway | United States |
+| 7 | Larry Ellison | 100 Billion | Oracle | United States |
+| 8 | Larry Page | 96.4 Billion | Google | United States |
+| 9 | Sergey Brin | 92.8 Billion | Google | United States |
+| 10 | Steve Ballmer | 89.6  Billion | Microsoft | United States |
+
+The figures in the table above are estimated net worth as of October, 2021 from Forbes Real-Time Billionaires index. Note that these figures could change daily as they are affected by market forces.

@@ -1,0 +1,14 @@
+Explain how an operating system works.
+An operating system (OS) is a collection of software that manages computer hardware resources and provides common services for computer programs. It acts as an intermediary between the computer hardware and software, allowing the computer to perform tasks and carry out operations effectively.
+
+When you turn on your computer, the first piece of code that runs is the boot loader, which is stored in the computer's motherboard. The boot loader is responsible for loading the operating system kernel, which is the central part of the operating system that interacts with the hardware.
+
+Once the kernel is loaded, the operating system starts several processes and services that are essential for the functioning of the computer. These include a graphical user interface, system processes such as memory management, input-output management, and other processes and services required for the smooth operation of the computer.
+
+The operating system is responsible for managing the system's resources, including the CPU, memory, storage, and input/output devices. It provides a way for programs to access these resources, and it allocates resources as needed to ensure that the computer operates efficiently.
+
+One of the most important roles of the operating system is to manage and schedule the CPU, ensuring that each program running on the computer has enough time to execute its instructions. It also manages memory, ensuring that programs have the space they need to store and retrieve data.
+
+The Operating system is also responsible for managing the computer's file systems, allowing users to save and retrieve information from the computer's storage devices. It provides a user-friendly way for programs and users to interact with these devices, making it easy to transfer and store data.
+
+Overall, the operating system is the backbone of a computer, providing essential services and managing the computer's resources to ensure that programs can run efficiently and that users can interact with the computer in a meaningful way.

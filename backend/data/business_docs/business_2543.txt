@@ -1,0 +1,2 @@
+Given a phrase and a context, write a sentence that uses the phrase in a correct context.
+Supervisor: "I expect all of you to toe the line and follow our company policies and procedures."

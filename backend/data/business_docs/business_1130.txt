@@ -1,0 +1,2 @@
+Categorize the text into one of the following five categories: Arts, Health, Technology, Sports, and Business.
+Health

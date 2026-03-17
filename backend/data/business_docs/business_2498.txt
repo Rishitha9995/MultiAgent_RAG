@@ -1,0 +1,11 @@
+Create a greeting card with a quote to congratulate a new business owner.
+Dear Jim,
+
+We would like to take this opportunity to congratulate you on the opening of your new business. This is a wonderful accomplishment, and we know that it is the beginning of many more successes to come for you. 
+
+The following quote by Colin Powell seems so fitting for this occasion and we hope that it will inspire you as you embark on this new journey: “A dream doesn’t become reality through magic; it takes sweat, determination, and hard work.”
+ 
+We wish you all the very best and look forward to seeing everything that you accomplish in the years to come. Congratulations once again, and here’s to your continued success!
+
+Best regards, 
+[Your Name]
