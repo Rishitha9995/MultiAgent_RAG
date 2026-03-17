@@ -1,20 +1,25 @@
 #schemas.py
 from pydantic import BaseModel
-from typing import List
+from typing import List, Dict, Any
 
 
 class QueryRequest(BaseModel):
-    """
-    Request schema sent from the frontend (React UI)
-    """
     query: str
     dataset: str
 
 
+class Explanation(BaseModel):
+    rank: int
+    source: str
+    score: float
+    reason: str
+
+
 class QueryResponse(BaseModel):
-    """
-    Response returned to the frontend
-    """
     corrected_query: str
-    documents: List[str]
+    dataset: str
     answer: str
+    documents: List[str]
+    explanations: List[Explanation]
+    metrics: Dict[str, Any]
+    response_time: float
