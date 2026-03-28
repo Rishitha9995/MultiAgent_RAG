@@ -1,3 +1,4 @@
+#build_vector_db.py
 from langchain_community.vectorstores import FAISS
 import os
 

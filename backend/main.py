@@ -1,5 +1,4 @@
-# main.py
-
+#main.py
 import os
 import time
 
@@ -21,7 +20,7 @@ from agents.evaluate_rag_agent import evaluate_rag
 
 
 # -----------------------------
-# SYSTEM START
+# SYSTEM START (RUNS ONCE)
 # -----------------------------
 print("\n===== Multi-Agent RAG System Initialized =====")
 print("Agents: Query | Router | Retriever | Reasoning | Formatter | Evaluation\n")
@@ -66,16 +65,10 @@ else:
 print("\nSystem Ready!\n")
 
 
-# -----------------------------
-# QUERY LOOP
-# -----------------------------
-while True:
-
-    query = input("\nEnter your question (or type exit): ")
-
-    if query.lower() == "exit":
-        print("\nExiting system...")
-        break
+# ---------------------------------------------------
+# FUNCTION THAT FASTAPI WILL CALL
+# ---------------------------------------------------
+def run_query(query, dataset=None):
 
     start = time.time()
 
@@ -83,25 +76,29 @@ while True:
     # Query Agent
     # -----------------------------
     print("\n[Query Agent] Checking and correcting query...")
-    query = autocorrect_query(query)
+    corrected_query = autocorrect_query(query)
 
     # -----------------------------
     # Router Agent
     # -----------------------------
     print("[Router Agent] Determining appropriate dataset...")
-    dataset = choose_dataset(query)
 
-    print("[Router Agent] Dataset Selected:", dataset)
+    if dataset:
+        selected_dataset = dataset
+    else:
+        selected_dataset = choose_dataset(corrected_query)
+
+    print("[Router Agent] Dataset Selected:", selected_dataset)
 
     # -----------------------------
     # Retriever Agent
     # -----------------------------
     print("[Retriever Agent] Retrieving top relevant documents...")
 
-    if dataset == "business":
-        docs, results = retrieve_documents(query, business_db, dataset)
+    if selected_dataset == "business":
+        docs, results = retrieve_documents(corrected_query, business_db, selected_dataset)
     else:
-        docs, results = retrieve_documents(query, legal_db, dataset)
+        docs, results = retrieve_documents(corrected_query, legal_db, selected_dataset)
 
     docs = [doc for doc, score in results]
 
@@ -109,42 +106,34 @@ while True:
     # Reasoning Agent
     # -----------------------------
     print("[Reasoning Agent] Generating answer from retrieved context...")
-    answer = generate_response(query, docs)
+    answer = generate_response(corrected_query, docs)
 
     # -----------------------------
     # Formatter Agent
     # -----------------------------
-    print("[Formatter Agent] Formatting response into bullet points...")
-    answer = format_points(answer)
-
-    end = time.time()
-
-    # -----------------------------
-    # FINAL ANSWER
-    # -----------------------------
-    print("\nFinal Answer:\n")
-    print(answer)
+    print("[Formatter Agent] Formatting response...")
+    formatted_answer = format_points(answer)
 
     # -----------------------------
     # Explainability Agent
     # -----------------------------
-    print("\n[Explainability Agent] Explaining retrieved documents...")
-
     explanations = explainability_agent(results)
-
-    print("\nTop Retrieved Documents:\n")
-
-    for e in explanations:
-
-        print(f"{e['rank']}. {e['source']}")
-        print(f"   similarity_score: {e['score']}")
-        print(f"   reason: {e['reason']}")
-        print()
 
     # -----------------------------
     # Evaluation Agent
     # -----------------------------
-    print("[Evaluation Agent] Computing RAG metrics...")
-    evaluate_rag(query, answer, docs, embedding_model)
+    metrics = evaluate_rag(corrected_query, formatted_answer, docs, embedding_model)
 
-    print("\nResponse Time:", round(end-start,2), "seconds")
+    end = time.time()
+
+    response_time = round(end - start, 2)
+
+    return {
+        "corrected_query": corrected_query,
+        "dataset": selected_dataset,
+        "documents": [doc.page_content for doc in docs],
+        "explanations": explanations,
+        "answer": formatted_answer,
+        "metrics": metrics,
+        "response_time": response_time
+    }

@@ -1,9 +1,8 @@
 #evaluate_rag_agent.py
 from sklearn.metrics.pairwise import cosine_similarity
 
-def evaluate_rag(query, answer, docs, embedding_model):
 
-    print("\n[Evaluation Agent] Evaluating RAG performance...")
+def evaluate_rag(query, answer, docs, embedding_model):
 
     context = " ".join([d.page_content for d in docs])
 
@@ -18,14 +17,16 @@ def evaluate_rag(query, answer, docs, embedding_model):
 
     confidence = (ans_sim + qry_sim) / 2
 
-    print("\n--- RAG Evaluation Metrics ---")
-    print("Answer-Context Similarity:", round(ans_sim, 3))
-    print("Query-Context Relevance:", round(qry_sim, 3))
-    print("Context Coverage:", round(coverage, 3))
-
     if confidence > 0.75:
-        print("Confidence Level: High")
+        level = "High"
     elif confidence > 0.5:
-        print("Confidence Level: Medium")
+        level = "Medium"
     else:
-        print("Confidence Level: Low")
+        level = "Low"
+
+    return {
+        "Answer-Context Similarity": round(ans_sim, 3),
+        "Query-Context Relevance": round(qry_sim, 3),
+        "Context Coverage": round(coverage, 3),
+        "Confidence Level": level
+    }
