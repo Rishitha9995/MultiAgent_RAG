@@ -1,2 +1,0 @@
-Categorize the following news article into sports, politics, business and entertainment.
-This news article falls into the category of sports.

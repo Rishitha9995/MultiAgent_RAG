@@ -1,6 +1,0 @@
-Name 3 different methods for network segmentation.
-1. **Subnetting:** Subnetting is the practice of dividing a network into smaller subnetworks, called subnets. Each subnet acts as a separate network, allowing administrators to control traffic flow, improve security, and reduce congestion.
-
-2. **Virtual Local Area Networks (VLANs):** VLANs allow network administrators to logically partition a physical network into smaller, isolated subsections. Devices within the same VLAN communicate with one another as if they were on the same physical network segment, even if they are physically located on different segments of the network.
-
-3. **Firewalls:** A firewall is a security device used to control traffic flow between different segments of a network. By placing a firewall between two segments, network administrators can create rules to regulate traffic flow and prevent unauthorized access. Firewalls can be used to segregate different parts of a network, such as separating a company’s internal network from the public internet.

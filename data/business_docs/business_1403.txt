@@ -1,6 +1,0 @@
-Provide three reasons why computer science is an important field
-1. Advancements in technology: With computers becoming increasingly faster, more powerful and more ubiquitous over time, the field of computer science has grown and continues to evolve at a rapid pace. Computer scientists play a crucial role in developing new technologies, designing systems and solving complex problems in nearly every industry, from healthcare and finance to transportation and entertainment. 
-
-2. Economic impact: The technology industry is one of the largest contributors to the global economy, and computer science is at the core of this industry. The knowledge and skills of computer scientists are in high demand, fueling the creation of jobs and promoting innovation in products and services that drive economic growth. 
-
-3. Addressing global challenges: Computer science has the potential to address some of the world's most pressing challenges, from climate change and healthcare to education and social justice. The tools and methodologies developed by computer scientists have the power to help find solutions to these complex problems, making the field of critical importance to society as a whole.

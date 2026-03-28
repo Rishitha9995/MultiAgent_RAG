@@ -1,2 +1,0 @@
-Produce a tagline for the following company.
-"Simplifying life, one task at a time."

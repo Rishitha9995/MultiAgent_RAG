@@ -1,6 +1,0 @@
-Explain the concept of reusability in software development.
-Reusability in software development refers to the practice of designing and implementing code in a way that it can be reused and repurposed by others. It is a key concept in software engineering, as it allows developers to save time, effort and resources by making use of pre-existing code instead of writing everything from scratch.
-
-Reusability can be achieved in several ways, including through the use of modular design, creating and using software libraries, following coding standards, and creating APIs (Application Programming Interfaces) that allow code to be easily integrated into other projects.
-
-By incorporating reusable code into a software project, developers can reduce development time, increase code reliability and maintainability, and improve overall software quality. This translates into cost savings for the organization and faster time-to-market, making reusability an important goal to strive for in software development.

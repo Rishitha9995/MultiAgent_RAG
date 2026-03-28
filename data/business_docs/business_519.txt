@@ -1,4 +1,0 @@
-Organize these emails into the appropriate folders
-Email 1: Move to "Meetings" folder.
-Email 2: Move to "Business Proposals" folder.
-Email 3: Move to "Sales" folder.

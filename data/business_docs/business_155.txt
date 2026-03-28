@@ -1,2 +1,0 @@
-Based on the given input, classify the Reddit thread as being either related to politics or to finance.
-Based on the given input, the Reddit thread is related to finance.

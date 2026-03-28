@@ -1,6 +1,0 @@
-Discuss two advantages of cloud computing.
-Cloud computing provides many benefits to its users, including cost efficiency and accessibility. Here are two advantages of cloud computing:
-
-1. Scalability and Flexibility: Cloud computing enables its users to quickly scale up or scale down their IT requirements based on their business needs. This means that companies can quickly add more storage, computing power, features or users at any point without having to invest in new hardware or software. This level of flexibility enables businesses to not only save on costs but also to adapt more quickly to changing market conditions, growth, or new opportunities.
-
-2. Cost Saving: Cloud computing eliminates the need for businesses to make large investments in hardware and infrastructure. Instead, customers can pay for the services they need on a subscription or as-needed basis. This changes the IT expenditure from a large capital expense to smaller operational expenses. Additionally, businesses can save on operating costs, as the costs of managing and maintaining the infrastructure are handled by the cloud service provider. As a result, businesses can enjoy the benefits of advanced technology without having to manage the complexities of the underlying systems.

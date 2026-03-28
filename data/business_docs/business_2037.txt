@@ -1,2 +1,0 @@
-Amazon is a Fortune 500 company. Classify it as a manufacturing company, service company, or technology company.
-Amazon is classified as a technology company. It is primarily known for its e-commerce platform, but also has a variety of other technology services and products, such as cloud computing services (Amazon Web Services) and consumer electronics (such as the Amazon Echo). However, it should be noted that Amazon also provides services such as shipping and logistics, making it could be also considered as a service company too.

@@ -1,2 +1,0 @@
-Given a company, come up with a tagline for it.
-"Search on: Empowering your world with every click."

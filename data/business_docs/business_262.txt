@@ -1,6 +1,0 @@
-Construct a market research survey with at least 5 questions to assess customer opinions about a recently released product.
-1. On a scale of 1-5, with 5 being the highest, how would you rate the overall design and appearance of the new Apple laptop? 
-2. How satisfied are you with the performance and speed of the new Apple laptop?
-3. Are there any features you particularly enjoy or find useful in the new Apple laptop? If so, which ones?
-4. Have you experienced any issues or difficulties while using the new Apple laptop? If so, please specify.
-5. Compared to the previous model, do you think the new Apple laptop provides improved value for its price? Why or why not?

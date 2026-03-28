@@ -1,6 +1,0 @@
-List 5 technologies to help automate customer service.
-1. Chatbots: These are AI-powered bots that can simulate human interaction and provide customers with quick solutions to common problems through chat. 
-2. Interactive Voice Response (IVR): This is an automated telephone system that allows customers to interact with a computerized system to receive support without the need for a human representative. 
-3. Virtual Assistants: These are AI-based assistants that can interact with customers through voice recognition and can perform tasks such as scheduling appointments or providing information about products or services. 
-4. Social Media Automation: This involves the use of AI-powered tools to monitor and respond to customer queries, feedback and complaints on social media platforms. 
-5. Customer Relationship Management (CRM): Software that helps to automate various customer service tasks such as call routing, ticket prioritization, and case management to enhance support and improve the overall customer experience.

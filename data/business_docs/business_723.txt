@@ -1,6 +1,0 @@
-Generate a real world example to explain the concept of supply and demand.
-Imagine that there is a new toy on the market, and every child wants to get one for their birthday. This toy is extremely popular causing a high demand for it. However, the company that makes the toy can only produce a limited number of toys each day, which means that the supply for the toy is low. When demand is high and supply is low, this can result in a price increase. This is because many people are competing to buy the same product, and the most a person is willing to pay will likely determine who gets the product. 
-
-But now imagine that, as time goes by, the popularity of the toy begins to fade, and fewer children are asking for it for their birthday. This means the demand for the toy decreases. Additionally, imagine that the company producing the toy finds a way to produce more toys each day, increasing the supply. When demand is low, and supply is high, this can result in a price decrease, as the company must lower the price in order to sell the excess inventory. 
-
-This is one example of how the concept of supply and demand works, where the price of a good is influenced by the relationship between how many people want it (demand) versus how many of it is available (supply).

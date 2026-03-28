@@ -1,6 +1,0 @@
-List three technological advances made in the 21st century.
-1. The Smartphone - This device revolutionized the way we communicate and access information, with its ability to make calls, send messages, and access the internet from nearly anywhere.
-
-2. Cloud Computing - This technology allows for the storage, management, and processing of data on remote servers, rather than on local computers or devices, resulting in greater flexibility and accessibility.
-
-3. Artificial Intelligence (AI) - Advances in AI and machine learning have led to the development of more sophisticated and intuitive systems and applications, including virtual assistants, self-driving cars, and advanced analytics and prediction tools.

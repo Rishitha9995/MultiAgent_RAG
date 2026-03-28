@@ -1,6 +1,0 @@
-How has the usage of the word "data" changed since the introduction of the internet?
-The usage of the word "data" has changed significantly since the introduction of the internet. Prior to the widespread availability of the internet, the term "data" was primarily used in scientific and technical contexts, where it referred to raw facts, statistics, and other types of information that were collected for analysis.
-
-With the rise of the internet, and the accompanying explosion of information, the word "data" has taken on a new meaning, and its usage has become more commonplace. In modern usage, data refers to any form of information that can be stored, processed, and transmitted by digital devices. This can include text, images, videos, audio recordings and any other types of digital content.
-
-The term "data" is now widely used in discussions about data management, data privacy, data analysis, data mining, big data, and many other topics related to the collection, storage, processing, and utilization of digital information.

@@ -1,8 +1,0 @@
-Create a dialogue between two people in a business setting.
-Person 2: Good morning! How can I assist you today?
-Person 1: I was hoping we could discuss the budget for our project.
-Person 2: Absolutely, I've been preparing some figures that I think could work. Shall we schedule a meeting to go over them?
-Person 1: That would be great, how about this afternoon?
-Person 2: This afternoon works for me. How does 2 PM sound?
-Person 1: 2 PM is perfect. I appreciate your prompt response and look forward to our meeting.
-Person 2: Likewise. Let's touch base before then if anything comes up.

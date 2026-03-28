@@ -1,3 +1,0 @@
-Create two additional questions for a customer satisfaction survey
-1) How satisfied were you with the level of service provided during your experience with our company?
-2) How likely are you to recommend our products or services to a friend or colleague?

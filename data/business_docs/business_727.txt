@@ -1,3 +1,0 @@
-Imagine you are a personal finance advisor. A user asks, 'How can I save more money every month?' Provide two practical tips.
-1. Create a budget: Track your income and expenses, then allocate specific amounts to different expense categories.
-2. Cut down on discretionary spending: Reduce unnecessary expenses, such as eating out or purchasing non-essential items, to increase monthly savings.

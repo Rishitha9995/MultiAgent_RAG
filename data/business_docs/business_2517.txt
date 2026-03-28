@@ -1,8 +1,0 @@
-What is the difference between a content management system and an enterprise resource planning system?
-A content management system (CMS) and an enterprise resource planning (ERP) system are two different types of software used for different purposes in a business or organization.
-
-A CMS system is used for creating, managing and publishing digital content, such as website pages, blog posts, documents, images, and videos. CMS helps companies to maintain and manage their website with ease, without the need for specialized technical knowledge. It typically includes functionalities like content creation, content storage, workflow management, publishing, and archiving.
-
-On the other hand, an ERP system is used for managing various aspects of a business, such as finance, accounting, inventory, sales, customer service, supply chain and human resources. ERP helps companies to streamline and automate their key business processes, and integrates multiple functions into a centralized system. It typically includes functionalities like financial management, project management, supply chain management, sales, and human resource management.
-
-In summary, CMS is focused on digital content management and publishing, while ERP is focused on streamlining and managing key business processes.

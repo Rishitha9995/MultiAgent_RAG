@@ -1,2 +1,0 @@
-Generate an attention-grabbing headline from the given paragraphs.
-"3.7 Billion People Worldwide Using Mobile Devices to Access the Web, Creating Unique Business Opportunities"

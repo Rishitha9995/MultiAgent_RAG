@@ -1,7 +1,0 @@
-Create a survey question to ask about a person's post-graduation plans.
-What are your plans after graduation? 
-a) Pursue higher education in my field 
-b) Enter the workforce in my field 
-c) Take a gap year to travel or pursue personal interests 
-d) Start my own business 
-e) I am still unsure of my plans

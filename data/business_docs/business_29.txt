@@ -1,2 +1,0 @@
-What is the main purpose of blockchain technology?
-The primary purpose of blockchain technology is to enable secure, transparent, and tamper-resistant transactions without requiring a central authority or intermediary. It achieves this through the use of a decentralized, distributed ledger that records and verifies all transactions, making it nearly impossible to alter or falsify data. This technology can be used for a wide range of applications including, but not limited to, cryptocurrency, supply chain management, voting systems, and identity verification.

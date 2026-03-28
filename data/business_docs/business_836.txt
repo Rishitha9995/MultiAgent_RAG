@@ -1,5 +1,0 @@
-Suggest four questions a company can use to assess an applicant's problem-solving ability.
-1. Can you tell us about a time when you were faced with a complex problem at work, and how did you go about solving it? 
-2. Can you explain your problem-solving process when you encounter a difficult challenge? 
-3. Can you give an example of a time when you had to troubleshoot an issue and describe the steps you took to resolve it? 
-4. How do you approach decision making when faced with multiple solutions to a problem, and what factors do you consider when choosing the best course of action?

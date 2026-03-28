@@ -1,2 +1,0 @@
-Write a sentence which has a analogy structure and conveys the given message. Output the sentence.
-Downsizing this business due to low income is like pruning a tree to promote new growth.

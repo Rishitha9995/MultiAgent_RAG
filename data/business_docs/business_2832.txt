@@ -1,6 +1,0 @@
-Name two data mining techniques.
-Two data mining techniques are: 
-
-1. Association Rule Learning: This technique is used for finding relations and relationships between various variables in a large dataset. It is most commonly used for market basket analysis, where the aim is to find associations between products purchased together and is often used by retailers to improve their strategies. 
-
-2. Cluster Analysis: This is a technique used for grouping similar data points within a large dataset. The main objective of cluster analysis is to identify patterns in data with the aim of partitioning them into various groups. It is commonly used in segmentation, anomaly detection, and recommendation systems.

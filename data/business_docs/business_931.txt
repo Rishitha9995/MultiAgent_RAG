@@ -1,6 +1,0 @@
-Create a list of five questions to ask a potential job candidate.
-1. What motivated you to apply for this position?
-2. How does your previous experience align with the requirements of this role?
-3. Can you tell us about a time when you faced a difficult challenge at work and how you overcame it?
-4. What are your top strengths and how would you use them to contribute to our organization?
-5. How do you see yourself growing within the company and what are your long-term career goals?

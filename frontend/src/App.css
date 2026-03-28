@@ -1,0 +1,393 @@
+/* GLOBAL */
+body {
+  margin: 0;
+  font-family: "Segoe UI", sans-serif;
+  background: #f8fafc;
+  color: #1e293b;
+}
+
+/* APP LAYOUT */
+.app {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.main {
+  display: flex;
+  flex: 1;
+}
+
+/* HEADER */
+.header {
+  padding: 14px;
+  background: #ffffff;
+  border-bottom: 2px solid #e2e8f0;
+  font-weight: 600;
+  text-align: center;
+  color: #1e3a8a;
+}
+
+/* SIDEBAR */
+.sidebar {
+  width: 230px;
+  background: #f1f5f9;
+  padding: 20px;
+  border-right: 2px solid #e2e8f0;
+}
+
+.sidebar h3 {
+  margin-bottom: 20px;
+  color: #1e3a8a;
+}
+
+.sidebar div {
+  padding: 12px;
+  margin-bottom: 10px;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+.sidebar div:hover {
+  background: #e2e8f0;
+}
+
+.sidebar .active {
+  background: #dbeafe;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+}
+
+/* MAIN CONTENT */
+.content {
+  flex: 1;
+  padding: 20px;
+}
+
+/* CARD */
+.card {
+  background: white;
+  padding: 20px;
+  border-radius: 12px;
+  border: 1px solid #e2e8f0;
+}
+
+/* CHAT */
+.chat-box {
+  height: 350px;
+  overflow-y: auto;
+  margin-bottom: 15px;
+  padding-right: 5px;
+}
+
+/* USER MESSAGE */
+.user-msg {
+  background: #1e3a8a;
+  color: white;
+  padding: 10px;
+  margin: 5px;
+  border-radius: 10px;
+  text-align: right;
+  max-width: 70%;
+  margin-left: auto;
+}
+
+/* AI MESSAGE */
+.ai-msg {
+  background: #e2e8f0;
+  color: #1e293b;
+  padding: 10px;
+  margin: 5px;
+  border-radius: 10px;
+  max-width: 70%;
+}
+
+/* INPUT */
+.input-row {
+  display: flex;
+  gap: 10px;
+}
+
+.input-row input {
+  flex: 1;
+  padding: 10px;
+  border-radius: 20px;
+  border: 1px solid #cbd5f5;
+  outline: none;
+}
+
+.input-row button {
+  background: #1e3a8a;
+  color: white;
+  border: none;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  cursor: pointer;
+  font-size: 18px;
+}
+
+/* METRICS PANEL */
+.metrics-panel {
+  width: 350px;
+  background: #ffffff;
+  border-left: 2px solid #e2e8f0;
+  padding: 15px;
+  overflow-y: auto;
+}
+
+/* SECTION CARDS (Auto-correct, Answer, Docs, Metrics) */
+.section-card {
+  background: #ffffff;
+  border-left: 4px solid #1e3a8a;
+  padding: 10px;
+  margin-top: 10px;
+  border-radius: 8px;
+}
+
+.section-card h4 {
+  margin: 0 0 6px 0;
+  color: #1e3a8a;
+  font-size: 14px;
+}
+
+/* BULLET LIST (ANSWER) */
+.section-card ul {
+  padding-left: 18px;
+  margin: 0;
+}
+
+.section-card li {
+  margin-bottom: 5px;
+  font-size: 14px;
+}
+
+/* DOCUMENT TEXT */
+.section-card strong {
+  color: #0f172a;
+}
+
+/* PIPELINE ANIMATION */
+.pipeline {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  margin-bottom: 6px;
+  font-size: 12px;
+}
+
+.pipeline span {
+  background: #dbeafe;
+  padding: 4px 8px;
+  border-radius: 6px;
+}
+
+/* THINKING TEXT */
+.thinking {
+  font-size: 12px;
+  color: #64748b;
+  animation: blink 1.2s infinite;
+}
+
+/* BLINK ANIMATION */
+@keyframes blink {
+  0% { opacity: 0.3; }
+  50% { opacity: 1; }
+  100% { opacity: 0.3; }
+}
+
+/* SCROLLBAR */
+.chat-box::-webkit-scrollbar {
+  width: 6px;
+}
+
+.chat-box::-webkit-scrollbar-thumb {
+  background: #cbd5f5;
+  border-radius: 10px;
+}
+
+/* COPY BUTTON CONTAINER */
+.copy-container {
+  display: flex;
+  justify-content: flex-end;
+  position: relative;
+}
+
+/* ICON BUTTON */
+.copy-btn {
+  background: transparent;
+  border: none;
+  cursor: pointer;
+  font-size: 16px;
+  padding: 4px;
+}
+
+.copy-btn:hover {
+  transform: scale(1.1);
+}
+
+/* DROPDOWN MENU */
+.copy-dropdown {
+  position: absolute;
+  top: 25px;
+  right: 0;
+  background: white;
+  border: 1px solid #cbd5f5;
+  border-radius: 6px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+  width: 160px;
+  z-index: 10;
+}
+
+.copy-dropdown div {
+  padding: 8px;
+  cursor: pointer;
+  font-size: 13px;
+}
+
+.copy-dropdown div:hover {
+  background: #e2e8f0;
+}
+
+.bottom-copy {
+  margin-top: 8px;
+  display: flex;
+  justify-content: flex-end;
+}
+
+/* STEP CARDS */
+.step-card {
+  background: #f1f5f9;
+  padding: 8px;
+  border-radius: 6px;
+  margin-bottom: 6px;
+}
+
+/* DOCUMENT CARDS */
+.doc-card {
+  background: #f8fafc;
+  padding: 10px;
+  margin-bottom: 6px;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+.doc-title {
+  font-weight: 600;
+}
+
+.doc-content {
+  margin-top: 6px;
+  font-size: 13px;
+}
+
+/* CONFIDENCE */
+.confidence-box {
+  margin-bottom: 10px;
+}
+
+.confidence-bar {
+  height: 10px;
+  background: #e5e7eb;
+  border-radius: 10px;
+}
+
+.confidence-fill {
+  height: 100%;
+  border-radius: 10px;
+}
+
+/* PIPELINE ANIMATION */
+.pipeline-live span.active {
+  background: #1e3a8a;
+  color: white;
+  padding: 4px 6px;
+  border-radius: 4px;
+}
+
+/* METRICS TEXT */
+.confidence-text {
+  margin-bottom: 8px;
+  font-size: 14px;
+}
+
+.metrics-list {
+  margin-top: 8px;
+  font-size: 13px;
+  display: flex;
+  flex-direction: column;
+  gap: 3px;
+}
+
+/* RESPONSE TIME */
+.response-time {
+  margin-top: 6px;
+  font-size: 12px;
+  color: #64748b;
+}
+
+/* CLEAN BULLET ANSWER */
+.answer-list {
+  padding-left: 18px;
+  margin: 0;
+}
+
+.answer-list li {
+  margin-bottom: 8px;
+  line-height: 1.5;
+}
+
+/* OPTIONAL: subtle marker style */
+.answer-list li::marker {
+  color: #1e3a8a;
+}
+
+.answer-list li {
+  background: #f8fafc;
+  padding: 6px 8px;
+  border-radius: 6px;
+}
+
+.pipeline-container {
+  margin-bottom: 10px;
+}
+
+.pipeline {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 6px;
+  font-size: 14px;
+}
+
+.agent {
+  background: #dbeafe;
+  padding: 6px 10px;
+  border-radius: 8px;
+  transition: all 0.3s ease;
+  color: #1e3a8a;
+  font-weight: 500;
+}
+
+.agent.active {
+  background: #1e3a8a;
+  color: white;
+  transform: scale(1.05);
+}
+
+.arrow {
+  font-weight: 600;
+  margin: 0 4px;
+}
+
+.thinking {
+  font-size: 12px;
+  color: #64748b;
+  margin-top: 4px;
+  animation: blink 1.2s infinite;
+}
+
+@keyframes blink {
+  0% { opacity: 0.3; }
+  50% { opacity: 1; }
+  100% { opacity: 0.3; }
+}

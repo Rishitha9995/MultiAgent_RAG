@@ -1,8 +1,0 @@
-Provide an example of a system of data collection in industry.
-An example of a system of data collection in industry is the use of Industrial IoT (Internet of Things) devices and sensors in manufacturing. This system involves the deployment of multiple sensors throughout a manufacturing facility to collect real-time data about the production process, equipment performance and environmental conditions.
-
-These sensors capture data such as temperature, humidity, vibration, and energy consumption, and transmit it to a centralized data management system. This data can then be analyzed and used to optimize production processes, improve equipment efficiency, prevent downtime, and reduce maintenance costs.
-
-For example, in a factory that produces car engines, data on the temperature and vibration of the production machines can be collected to predict when maintenance is required, or when a machine may be about to fail. The real-time data collected also allows for quick identification and resolution of issues that can cause production delays, such as a sudden drop in the performance of a machine, or a change in environmental conditions that could affect product quality.
-
-Overall, the use of IoT devices and sensors in industry results in an efficient, streamlined and cost-effective system of data collection that can drive improvements in production processes and ultimately improve the bottom line for companies.

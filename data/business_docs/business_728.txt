@@ -1,6 +1,0 @@
-Given a set of text in bulleted form, generate a story from them.
-John had always been known for his motivation and drive to succeed. From a young age, John had a dream of working for Google. He knew that in order to achieve this dream, he would have to work hard and dedicate his time and resources to learn the necessary skills. John set out to learn and practice everything he needed to know, never faltering in his determination. As he worked to hone his abilities, he created a portfolio to showcase his work.
-
-After years of dedicated effort, John's dream became a reality. Google finally took notice of his talents and invited him for an interview. John was ecstatic as he prepared for the big day. He went through the interview process with confidence, knowing that he had put in the hard work and effort to get to this point. 
-
-At the end of the interview, John was offered a developer role at the company he had always dreamed of working for. He was over the moon with joy as he accepted the offer. With passion, determination and dedication, John had made his dream come true. Now he was ready to begin the journey of a lifetime, as a developer at Google.

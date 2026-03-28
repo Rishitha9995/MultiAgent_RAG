@@ -1,5 +1,0 @@
-Generate a summary of the following paragraph:
-
-"Grocery shopping used to be an all day event. Before the emergence of large supermarkets and shopping malls, customers had to travel around small shops to get what they needed. Customers could not easily find what they were looking for, there no unified price list, and the storekeepers had no incentive to offer cheaper prices.
-"
-The paragraph describes how grocery shopping was a time-consuming and cumbersome task before the advent of large supermarkets and shopping malls. Customers had difficulty finding what they needed, there were no standard prices, and store owners had little motivation to offer competitive prices.

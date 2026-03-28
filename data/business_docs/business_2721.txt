@@ -1,6 +1,0 @@
-Generate a list of five most used keywords in a given article.
-1. Technology
-2. Business
-3. Advantages
-4. Improvement
-5. Efficiency

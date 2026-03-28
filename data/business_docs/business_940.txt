@@ -1,9 +1,0 @@
-Generate a list of eight career skills.
-1. Effective communication
-2. Time management
-3. Technical competency
-4. Leadership abilities
-5. Adaptability and flexibility
-6. Creative problem solving
-7. Teamwork and collaboration
-8. Interpersonal skills.

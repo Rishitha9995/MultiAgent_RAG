@@ -1,6 +1,0 @@
-Give three examples of big data applications.
-1. **Predictive Maintenance:** Many industrial and manufacturing companies use big data analytics to anticipate failure in their machines, tools, and systems. They collect real-time data from sensors on machines worldwide, and then use predictive models to identify patterns of failure, provide early warning of issues, and create maintenance schedules that prevent downtime and reduce costs.
-
-2. **Personalized Healthcare:** Big data is increasingly used in healthcare to tailor treatment programs to individual patients. By analyzing data from millions of patient health records, medical sensors, and wearable devices, healthcare providers can predict outcomes, plan treatments, and provide personalized care. This application has the potential to improve patient outcomes, reduce healthcare costs, and enhance patient experiences.
-
-3. **Fraud Detection**: Big data technologies are used in banking and finance to detect and prevent fraud. With the help of big data analytics, it is possible to analyze data from a vast number of transactions and other activities in real-time, which helps to identify suspicious activities or transactions, and then take necessary actions to stop it. This also helps in enhancing system security and customer trust.

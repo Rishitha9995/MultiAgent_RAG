@@ -1,2 +1,0 @@
-Generate a marketing slogan for a car company.
-"Drive towards your dreams with our cars"

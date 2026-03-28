@@ -1,6 +1,0 @@
-Explain what is the Pareto Principle
-The Pareto Principle is a well-known economic concept which is also known as the 80/20 rule, the law of the vital few, or the principle of factor sparsity. It suggests that in many different areas of life, roughly 80% of the outcomes can be attributed to 20% of the causes.
-
-The principle was developed by Vilfredo Pareto, an Italian economist, who in the late 19th century observed that about 80% of the land in Italy was owned by 20% of the population. He later discovered that this principle applied to many other areas, including business, where, for instance, 80% of sales often come from just 20% of customers.
-
-In essence, the Pareto Principle is a way of recognizing that the majority of results often stem from a small subset of causes. It is a useful tool for prioritizing and focusing efforts, as it can help identify the most important factors that contribute to success. The principle has found applications in a wide range of fields, from economics and business to health care and personal productivity, and continues to be a popular and widely accepted approach to decision-making and problem-solving.

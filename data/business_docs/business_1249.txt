@@ -1,2 +1,0 @@
-Generate a fake customer review of a software
-"I recently purchased XYZ software for my business and I couldn't be happier! The installation was quick and easy, and the interface is user-friendly and intuitive. I've already noticed an increase in productivity and efficiency, and the customer support team has been incredibly helpful and responsive. This has been a game-changer for my business and I highly recommend it to anyone looking for a reliable and effective software solution."

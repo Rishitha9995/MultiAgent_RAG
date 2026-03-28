@@ -1,2 +1,0 @@
-Categorize the following text as being related to technology, finance, sports, or politics.
-This text is related to sports.

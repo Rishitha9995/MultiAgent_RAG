@@ -1,8 +1,0 @@
-Explain how a double taxation agreement works.
-A double taxation agreement is a treaty made between two countries which aims to avoid tax being paid twice on the same income or capital amount, where an individual or company resides in one country, but their source of income or capital is located in another country. They typically cover taxes on incomes such as salaries, dividends, interest, royalties, and capital gains.
-
-Under a double taxation agreement the amount of tax paid in one country can be offset against the tax liability in another. This is done through a system of tax credits which means that the tax paid on an income in one country can be claimed as a tax credit in the country where the company or person resides. For example, if a UK resident receives income from a rental property in France and pays tax on it in France, they can claim a tax credit for that amount against their UK tax liability. 
-
-The agreements also contain provisions that set rules on which country has the right to tax specific types of income. For example, some agreements state that income from employment is only taxable in the country where the work is performed, while others state that it is only taxable in the country of residence. 
-
-It is important to note that the terms of each double taxation agreement are unique, and so individuals and companies must consult the specifics of the agreement between the two relevant countries to determine their tax obligations. Double taxation agreements are designed to promote cross-border trade and investment by reducing the tax burden, thus increasing the incentives for companies and individuals to operate in countries with such agreements.

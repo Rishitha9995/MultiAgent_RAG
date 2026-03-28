@@ -1,2 +1,0 @@
-Predict what the Dow Jones Industrial Average will be when the market closes today.
-As an AI language model, I do not have the capability to predict stock market performance or access real-time financial data. The Dow Jones Industrial Average is influenced by many factors such as economic data, global events, and company news. It would be best to consult with a financial analyst or check financial news websites for the most up-to-date information.

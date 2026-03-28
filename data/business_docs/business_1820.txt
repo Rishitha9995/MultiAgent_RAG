@@ -1,9 +1,0 @@
-Generate ideas for a new online service for creative professionals.
-1. A virtual studio platform where artists, freelancers, and other creatives can collaborate on projects in real-time, with integrated communication tools, file-sharing, and project management features.
-2. An online mentorship and coaching program, to help creatives of all levels grow their skills and receive personalized feedback and guidance from experienced professional mentors.
-3. A portfolio management and networking service, which allows creatives to easily build and showcase their portfolio, network with industry professionals, and find job opportunities.
-4. An online workshop series offering interactive courses, tutorials, and webinars covering topics related to creativity, professional development, and business skills for creatives.
-5. A cloud-based digital asset management solution, designed to help creatives store, access, and organize their digital files such as photographs, videos, and design work.
-6. An AI-powered tool that generates custom inspiration, prompts, and challenges to help creatives overcome creative blocks and generate new ideas.
-7. A creative marketplace, where professionals can showcase and sell their work directly to consumers and other businesses. This platform could also feature tools and resources for licensing, pricing, and other business aspects.
-8. A subscription-based resource library, filled with high-quality assets, templates, and resources that creatives can use to accelerate their projects and save time.

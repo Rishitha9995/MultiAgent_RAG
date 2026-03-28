@@ -1,6 +1,0 @@
-From the following names, create a list of acronyms.
-Here is a list of acronyms for the given input:
-
-1. MS - Microsoft
-2. APPL - Apple
-3. IBM - International Business Machines

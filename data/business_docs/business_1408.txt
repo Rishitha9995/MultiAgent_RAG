@@ -1,6 +1,0 @@
-Generate a list of five questions a candidate should ask their interviewer
-1. Can you tell me more about the company culture and work environment?
-2. What would be the primary responsibilities and expectations for this role?
-3. Can you walk me through the career growth opportunities available for this position?
-4. How does the company support ongoing learning and professional development for its employees?
-5. How does the company measure and evaluate employee performance?

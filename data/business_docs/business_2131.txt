@@ -1,6 +1,0 @@
-Name five types of financial markets in the United States.
-1. Stock Market: It is a marketplace where shares of publicly held companies are issued and traded either through exchanges or over-the-counter markets.
-2. Bond Market: It is a financial market where participants can issue new debt or buy and sell debt securities, usually in the form of bonds.
-3. Commodity Market: It is a market that trades in primary economic sector rather than manufactured products, such as crude oil, gold and agricultural products.
-4. Foreign Exchange Market: It is a global market for the trading of currencies. This market determines foreign exchange rates for every currency.
-5. Derivatives Market: It is a financial market for derivatives, which are financial instruments that derive their value from an underlying asset. Common derivatives include futures contracts, options and swaps.

@@ -1,6 +1,0 @@
-Explain what a stock split is.
-A stock split is a corporate action in which a company increases the number of its outstanding shares by issuing more shares to current shareholders. This is typically done in a set ratio, for example, a 2-for-1 stock split would mean that for every share a shareholder currently owns, they will receive an additional share, effectively doubling their holdings. 
-
-The main purpose of a stock split is to make the stock more accessible to a wider range of investors by reducing its per-share price. When a stock's price becomes too high, some investors may find it too expensive to buy, which can limit the stock's liquidity. By reducing the price through a stock split, the company makes its shares more affordable to the general public, which can increase demand and liquidity.
-
-It is important to note that while a stock split increases the number of shares outstanding, it does not change the overall value of the company or the value of an investor's holdings. In the 2-for-1 stock split example mentioned earlier, the stock price would be halved, meaning that even though the investor now has twice as many shares, the total value of their investment remains the same.

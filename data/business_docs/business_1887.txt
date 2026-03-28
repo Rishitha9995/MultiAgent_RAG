@@ -1,3 +1,0 @@
-Given the following statement, come up with a marketing tagline that is 7 words or fewer.
-Output: We offer the best prices for quality shoes
-"Step up in style, without breaking bank."

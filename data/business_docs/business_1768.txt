@@ -1,2 +1,0 @@
-Classify the article into one of the categories: science, sports, politics, finance, or business
-Science.

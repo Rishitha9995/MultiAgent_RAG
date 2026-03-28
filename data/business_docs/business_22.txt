@@ -1,2 +1,0 @@
-Compose an informative sentence explaining the given term.
-Green bonds are debt instruments issued in capital markets to raise funds for environmentally friendly projects such as renewable energy or energy efficiency, with the goal of mitigating the impact of climate change.

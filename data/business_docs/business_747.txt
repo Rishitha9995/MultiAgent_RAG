@@ -1,8 +1,0 @@
-Provide two examples of supervised and two examples of unsupervised machine learning.
-Supervised machine learning:
-1. Classification: An example of supervised learning where an algorithm learns from a dataset containing labeled data, to classify new observations into various classes. One common example is spam email classification where the algorithm is trained to distinguish between spam and non-spam emails.
-2. Regression: Another example of supervised learning where the algorithm learns to predict a continuous numerical value based on a set of features. An example of regression analysis is predicting house prices based on features such as the number of rooms, size, location, etc.
-
-Unsupervised machine learning:
-1. Clustering: This is an example of unsupervised learning, where the algorithm is used to group similar data points together into clusters based on their features. A common example is customer segmentation in market analysis where customers are grouped into various segments based on their behavior and demographics.
-2. Dimensionality Reduction: Another example of unsupervised learning where the algorithm is used to reduce the number of features or dimensions in a dataset while preserving its important characteristics. An example is Principal Component Analysis (PCA) where the algorithm transforms a large set of variables into a smaller set of variables, called principal components, which explain most of the variance in the dataset.

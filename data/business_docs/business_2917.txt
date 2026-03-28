@@ -1,2 +1,0 @@
-Name one artificial intelligence technology used in industry.
-One artificial intelligence technology used in industry is Machine Learning. It allows systems to improve their performance and make decisions based on data, without being explicitly programmed. Machine learning is used in various industries such as finance, healthcare, and transportation, for tasks like fraud detection, medical diagnosis, and route optimization.

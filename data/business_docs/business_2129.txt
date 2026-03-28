@@ -1,6 +1,0 @@
-Identify three weaknesses of the following system.
-1. Lack of Verification of Skills and Experience: Resumes only present a summary of an applicant's work history, education, and skills, without any validation or authentication. As a result, there is a risk of applicants misrepresenting or exaggerating their abilities and experiences, which could lead to ineffective hiring decisions.
-
-2. Inability to Assess Fit and Personality: A resume does not provide any insight into an applicant's personality, work style, values, or how well they would fit in with the company culture. These factors are important for determining whether an applicant will be a good match for the position and the organization as a whole.
-
-3. Limited Information for Decision Making: Solely relying on resumes for employment decisions limits the amount of information available to make an informed decision. Other methods, such as interviews, reference checks, or skill assessments, can provide a more comprehensive view of an applicant's abilities and suitability for the job.

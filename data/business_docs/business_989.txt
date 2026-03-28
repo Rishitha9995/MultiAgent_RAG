@@ -1,4 +1,0 @@
-Classify these words as either common nouns or proper nouns.
-Scotland - Proper Noun
-Apple - Proper Noun (when referring to the technology company) and Common Noun (when referring to the fruit)
-August - Proper Noun (when referring to the month) and Common Noun (when used as a name )

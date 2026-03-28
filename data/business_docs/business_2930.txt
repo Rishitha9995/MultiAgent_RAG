@@ -1,4 +1,0 @@
-The four partners in a business decide to split the profits of their company in the ratio 2:3:3:5. If the profit one year is $26,000 what is the largest number of dollars received by any of the four partners?
-The profits of the business are divided among the four partners in the ratio 2:3:3:5. This means that out of a total of 13 parts, the first partner gets 2 parts, the second and third partners each get 3 parts, and the fourth partner gets 5 parts.
-
-If the total profit is $26,000, each part is worth $2,000. Therefore, the fourth partner receives the largest share of the profits, which is 5 parts x $2,000 per part = $10,000.

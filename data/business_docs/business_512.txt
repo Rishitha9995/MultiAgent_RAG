@@ -1,6 +1,0 @@
-Name 3 careers that involve using statistics
-1. Statistician: A statistician utilizes mathematical techniques to collect, analyze, and interpret quantitative data, making inferences about population and trends based on that data.
-
-2. Data Analyst: A data analyst is responsible for collecting, processing, and performing statistical analyses on large datasets. They use statistical methods to identify important patterns, trends and relationships in data to inform business decision-making.
-
-3. Market Research Analyst: A market research analyst gathers and analyzes data about markets, consumers, and competitors, using statistical methods to make sense of it all. They use statistical tools and techniques to understand consumer behavior and preferences, to forecast market trends, and to evaluate the effectiveness of marketing strategies.

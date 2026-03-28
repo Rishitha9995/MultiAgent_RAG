@@ -1,8 +1,0 @@
-Identify 4 benefits of cloud computing
-1) Scalability: Cloud computing allows businesses to quickly scale up or down their computing resources as per their needs without having the burden of maintaining physical infrastructure. This level of flexibility helps in managing changing workloads efficiently.
-
-2) Cost-effective: Cloud computing eliminates the need for businesses to invest in and maintain expensive hardware, software, and infrastructure. The pay-as-you-go model allows companies to only pay for the resources they use and reduce overall costs.
-
-3) Accessibility: Cloud computing offers the ability to access data and applications from anywhere with an internet connection, making it easier for employees to work from remote locations or collaborate across different geographies.
-
-4) Disaster recovery: With data and applications being stored in the cloud, businesses can quickly recover their data in case of any disasters, such as hardware failure or natural calamities. With cloud-based backups and recovery solutions, businesses can ensure data protection and minimize downtime.

@@ -1,2 +1,0 @@
-Classify this sentence whether it is an usage example or not.
-Yes, it is an example of usage. The sentence provides an illustration of how tax reforms can impact the financial decision-making of citizens and businesses in South Korea.

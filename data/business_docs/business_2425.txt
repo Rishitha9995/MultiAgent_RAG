@@ -1,8 +1,0 @@
-Describe the concept of Hierarchical Database.
-A hierarchical database is a type of database model where the data is organized in a tree-like structure, where each record has one parent record and one or more children records. The structure can be visualized as an upside-down tree, with a single root or parent node, and branches that represent the levels of the hierarchy or relationships between the records. 
-
-In this type of database, the relationships between records are represented using pointers or links, where a parent record points to its child records and vice versa. The data is retrieved through a process called navigation, where the user starts at the root of the tree and moves down the tree following the links until the desired information is found.
-
-Hierarchical databases were popular in the early days of database management systems, and while they are less common today, they are still used in some specific applications, such as storing and retrieving data from file systems, telecommunications networks, and content management systems.
-
-One advantage of the hierarchical database is its simplicity and speed when it comes to accessing data, since the relationships between records are already explicitly defined. However, it can be difficult to design and implement, especially when dealing with complex relationships and when changes need to be made to the structure of the database. Additionally, it can be challenging to represent many-to-many relationships using this model.

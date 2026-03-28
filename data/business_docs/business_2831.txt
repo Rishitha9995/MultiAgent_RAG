@@ -1,8 +1,0 @@
-Explain why the US economy experienced a recession in 2008
-The US economy experienced a recession in 2008 due to a combination of factors, including the subprime mortgage crisis, a sharp decline in housing prices, and rising default rates among homeowners. These events set off a chain reaction resulting in a global financial crisis.
-
-The subprime mortgage crisis refers to the practice of banks issuing loans to borrowers with poor credit who were unable to afford the loans. Many of these subprime loans had adjustable interest rates that could suddenly spike, making it difficult for borrowers to make their payments. As a result, default rates among homeowners rose, causing a sharp decline in housing prices.
-
-Due to the interconnected nature of the global economy, the problems in the U.S. housing market spread to financial markets all over the world. Banks that had invested heavily in mortgage-backed securities and other financial instruments linked to the housing market found themselves facing massive losses. Many financial institutions failed or needed government bailouts to survive, leading to a severe contraction in credit markets.
-
-As credit markets froze and consumer confidence plummeted, demand for goods and services fell, leading to job losses, declines in economic output, and a sharp increase in the unemployment rate. This all contributed to the 2008 recession, one of the worst economic downturns in U.S. history.

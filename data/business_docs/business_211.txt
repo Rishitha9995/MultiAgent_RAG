@@ -1,2 +1,0 @@
-Summarize the role of data scientists in a few sentences.
-Data scientists are responsible for collecting, cleaning, analyzing and interpreting large and complex datasets. They use their analytical, statistical, and programming skills to develop and implement advanced predictive models and algorithms to uncover insights and trends. Their role involves synthesizing and presenting actionable information to business leaders to inform decisions, optimize operations, and drive innovation.

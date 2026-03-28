@@ -1,8 +1,0 @@
-Describe the law of demand.
-The law of demand is a fundamental principle in economics that describes the inverse relationship between the price of a good or service and the quantity demanded by consumers. According to this law, when the price of a good or service increases, the demand for it decreases, and vice versa. This means that people tend to buy more of a product when its price is lower, and less when its price is higher.
-
-This relationship can be represented graphically on a demand curve, where the vertical axis represents the price and the horizontal axis represents the quantity demanded. The demand curve slopes downward, indicating that as the price decreases, the quantity demanded increases.
-
-It is important to note that the law of demand assumes that all other factors affecting demand, such as income, preferences, and the price of related goods, remain constant. If any of these factors change, the demand curve will shift, indicating a change in the overall demand for the product.
-
-Overall, the law of demand is a key concept in understanding how markets work and how prices are determined.

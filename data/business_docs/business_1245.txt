@@ -1,6 +1,0 @@
-What are three qualities that a good product manager should possess?
-1. Strategic thinking: A good product manager should possess the ability to envision and formulate long-term goals for the product, anticipating market trends and competition. They should have the ability to prioritize key features and updates to ensure the product remains competitive and meets the needs of its users.
-
-2. Communication skills: Product management involves working with various teams and stakeholders, from developers to designers, sales teams to customers. A good product manager should be able to articulate their vision and goals clearly and effectively, to ensure everyone is aligned and working towards the same objectives.
-
-3. Customer focus: A good product manager should be deeply familiar with their target customers, understanding their needs and preferences. They should be able to empathize with the customer and base their decisions on how to create the best possible experience for them. This can involve gathering customer feedback, analyzing data, and staying up to date with market and industry trends.

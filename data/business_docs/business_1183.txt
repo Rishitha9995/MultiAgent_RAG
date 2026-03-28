@@ -1,9 +1,0 @@
-Automate an email response confirming a user's registration
-Dear John Smith,
-
-Thank you for registering with us! We're excited to have you as a member of our community. This email is to confirm that you have successfully registered using the email address john@example.com. 
-
-If you have any questions or need assistance, please don't hesitate to get in touch with our team.
-
-Best regards, 
-[Company Name]

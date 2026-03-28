@@ -1,8 +1,0 @@
-Describe the following financial concept
-Equity refers to the ownership interest of shareholders in a company or property. It represents the residual interest in the assets of an entity after deducting liabilities. In other words, equity is the value of an asset after all debts and other obligations have been paid. 
-
-In a business context, equity is often referred to as shareholder's equity or stockholder's equity, which represents the amount of money that would be returned to a company’s shareholders if all of the assets were liquidated, and all of its debts were paid off. This can also be thought of as a measure of a company's net worth.
-
-Equity can also be calculated as the difference between the market value of a property or investment and the amount of any outstanding loans or mortgages against it. This is often referred to a homeowner's equity, which represents the portion of the property's value that the owner has actually paid off and truly owns.
-
-Equity plays a crucial role in finance, as it is used by investors to evaluate a company's financial health, by lenders to determine the amount of credit they are willing to extend, and by homeowners to determine how much they can borrow against their property.

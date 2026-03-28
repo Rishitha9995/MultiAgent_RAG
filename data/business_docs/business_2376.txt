@@ -1,2 +1,0 @@
-Categorize the following news article as either "Finance" or "Sports":
-Sports

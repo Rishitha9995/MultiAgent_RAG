@@ -1,4 +1,0 @@
-Given the following data, generate a direct marketing message
-Dear Female Movie Goers,
-
-Are you in the mood for a cinematic adventure? We have a special offer just for you! With our exclusive deals for female movie goers, you can immerse yourself in the latest blockbuster hits or indulge in a classic, all while saving money. Don't miss out on this amazing opportunity to treat yourself to an unforgettable movie experience. Get your tickets today and let the magic of the movies sweep you away!

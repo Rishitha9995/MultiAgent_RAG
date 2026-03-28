@@ -1,4 +1,0 @@
-Given a context and a task, change the perspective to the second person.
-Context: You have been asked by your company to calculate the average sales of a single product in the last quarter.
-
-Task: Now it's up to you to calculate the average sales of that single product in the last quarter.

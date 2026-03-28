@@ -1,8 +1,0 @@
-Create a data table that lists five artificial intelligence companies and their founding years.
-| Company                    | Founding Year |
-| -------------------------- | ------------- |
-| OpenAI                     | 2015          |
-| DeepMind (acquired by Google) | 2010          |
-| Vicarious                  | 2010          |
-| Cognitivescale             | 2013          |
-| Fetch Robotics             | 2014          |

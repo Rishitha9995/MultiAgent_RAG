@@ -1,6 +1,0 @@
-Explain the concept of marginal revenue.
-Marginal revenue (MR) is the additional revenue that a firm generates when it produces and sells one more unit of its product or service. In other words, it is the change in total revenue that comes about as a result of increasing output by one unit.
-
-The concept of marginal revenue is important to businesses because it helps them understand the impact of increasing production on their bottom line. If a firm can accurately calculate its marginal revenue, it can use that information to determine the most profitable level of production.
-
-Marginal revenue is closely related to the concept of price elasticity of demand. If demand for a product is elastic, meaning that consumers are sensitive to changes in price, a small increase in production may result in a large increase in revenue, since the increased quantity can be sold at a slightly lower price per unit. However, if demand is inelastic, meaning that consumers are relatively insensitive to changes in price, increasing production may not result in a significant increase in revenue, since the price per unit must be lowered by a larger amount to sell the additional units.

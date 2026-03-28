@@ -1,8 +1,0 @@
-Identify three techniques for developing web applications.
-There are several techniques for developing web applications, but the following are some of the popular methods:
-
-1. Front-end development using client-side scripting languages: This technique involves building the user interface of web applications using client-side scripting languages like HTML, CSS, and JavaScript. These languages run on the user's browser and are used to create dynamic and interactive web pages. Front-end developers have a lot of frameworks and libraries to choose from including Angular, React, and Vue.
-
-2. Backend development using server-side languages: Backend development involves creating the server-side of web applications using server-side languages like PHP, Ruby, Python, and Node.js. Backend developers build the application's logic, database interactions, user authentication and other tasks that cannot be handled on the client-side. Frameworks like Ruby on Rails, Django, and Express are popular in this area.
-
-3. Full Stack Development: A full-stack developer is a developer who can work on both the frontend and backend of web applications. A full-stack developer has knowledge of client-side languages, server-side languages, database management, and server management. This technique involves using the entire web development stack to build web applications. Full Stack Developers have a wide range of tools and frameworks to choose from including the popular MEAN and MERN stacks.

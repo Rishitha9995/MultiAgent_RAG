@@ -1,8 +1,0 @@
-Describe the difference between an LLC and a limited partnership
-An LLC, or Limited Liability Company, and a limited partnership both offer its members limited liability protection, which means the members or partners are not personally liable for business debts or lawsuits. However, there are some key differences between the two.
-
-One significant difference is the structure of ownership and management. In an LLC, all members have the flexibility to participate in the management of the business. On the other hand, in a limited partnership, there are two types of partners- general partners and limited partners. General partners run the business and are personally liable for the business’s debts and lawsuits, while limited partners do not participate in management and are only liable for the amount of money they invested in the business.
-
-Another notable difference is the taxation of profits. LLCs can choose to be taxed as a sole proprietorship, partnership, S corporation, or C corporation. A limited partnership, however, is always taxed as a partnership. This means that the profits and losses are passed through to the partners, who report it on their personal income tax returns.
-
-In summary, while an LLC and limited partnership both offer limited liability protection, they vary in their management structure, personal liability, and taxation of profits.

@@ -1,6 +1,0 @@
-What is the difference between a variable rate and a fixed rate loan?
-A variable rate loan, also known as floating or adjustable rate loan, refers to a loan where the interest rate charged on the borrowed amount fluctuates over the life of the loan. This interest rate charges on the outstanding loan balance is typically based on a benchmark like the prime rate or federal funds rate, plus or minus a margin.
-
-On the other hand, a fixed rate loan refers to a loan where the interest rate charged on the borrowed amount remains the same throughout the entire term of the loan. This means that the monthly payments for principal and interest do not change, making it easier for a borrower to budget.
-
-The key difference between both is that while the interest rate on a variable rate loan can go up or down as market interest rates change, the interest rate for a fixed rate loan does not change.

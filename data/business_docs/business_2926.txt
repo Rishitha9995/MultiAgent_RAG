@@ -1,8 +1,0 @@
-Explain what a Monte Carlo simulation is.
-A Monte Carlo simulation is a computational technique used to model the likelihood of different outcomes in a process involving uncertainty, risks, and probabilities. The simulation uses random sampling to represent the possible outcomes and calculates the results over many iterations, providing an approximate prediction of the chance of different outcomes. 
-
-The technique is named after Monte Carlo, a famous casino town in Monaco, due to its similarity to the act of repeatedly playing a game of chance to see how likely certain results are.
-
-Monte Carlo simulations are most often used in finance, business planning, engineering, risk management, and other fields that involve complex systems with a high degree of uncertainty. The simulation provides an estimate of the most likely outcomes and their likelihood, allowing decision-makers to make better-informed choices and plan for the future.
-
-In summary, Monte Carlo simulation is a powerful tool to model and predict the likelihood of different outcomes, taking into account the inherent uncertainties and risks in the process, and using repeated random sampling to generate data for analysis.

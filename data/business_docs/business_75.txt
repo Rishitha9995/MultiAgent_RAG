@@ -1,4 +1,0 @@
-Name two advantages of using a distributed database.
-1. Scalability: Distributed databases are highly scalable, as data is spread across multiple servers and locations, allowing for easy handling of increasing amounts of data and improved performance. This can be particularly useful for growing businesses that anticipate an expansion in the amount of data they generate or acquire.
-
-2. Increased availability and fault tolerance: In a distributed database, data is replicated on multiple servers, which means that in case of any server or network failure, the data is still accessible from other locations. This increases the availability of the data and makes the system more fault-tolerant, ensuring that the data is always accessible to users, regardless of any technical issues that may occur.

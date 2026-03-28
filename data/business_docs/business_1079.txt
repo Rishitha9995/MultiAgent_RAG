@@ -1,2 +1,0 @@
-Generate a story in three sentences around the given input.
-Once upon a time, in a land far, far away, there was a magical forest where the trees whispered secrets and the animals spoke in riddles. Discovering this enchanted land brought great joy and amazement to a young princess who wandered into the forest one sunny afternoon. Though she spent only a few hours in the company of the ancient trees and curious creatures, she left forever changed – filled with a sense of awe and wonder that would remain with her for the rest of her life.

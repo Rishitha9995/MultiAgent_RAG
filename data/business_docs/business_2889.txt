@@ -1,2 +1,0 @@
-Predict the market price of an electric car given the following features
-As an AI, I don't have the data to accurately predict the market price of an electric car with the given features without access to current market data and recent sales figures that are specific to the region or country of interest. Market prices can vary greatly depending on location, local demand, and incentives. For an accurate estimate, it would be recommended to consult a car dealership or a pricing guide with up-to-date information on electric cars in your area.

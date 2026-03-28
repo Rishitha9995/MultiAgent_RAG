@@ -1,8 +1,0 @@
-Name three main customers of a delivery service.
-The three main customers of a delivery service are likely to be:
- 
-1. Online Retail companies: Many e-commerce businesses use delivery services to ship their products to customers, especially if they don’t have an in-house delivery system. 
-
-2. Individuals: Regular consumers who don't have the means of transportation, time or means to shop in-person for groceries other stores can place an order with delivery services, which will deliver the items right to their doorstep.
-
-3. Small businesses: Local shops, restaurants, and other small businesses may use delivery services to send out their products, supplies or documents to their customers or other businesses within a specific area.

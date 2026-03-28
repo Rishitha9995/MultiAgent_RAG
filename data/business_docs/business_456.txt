@@ -1,6 +1,0 @@
-What is the blockchain
-Blockchain is a decentralized, distributed digital ledger technology that records transactions in a way that is transparent, secure, and tamper-proof. At its core, a blockchain is a chain of blocks that contains information about transactions. Each block in the chain is made up of a list of transactions, a timestamp, and a cryptographic hash of the previous block. The blocks are linked together in a chain, with each new block being added to the end of the chain.
-
-The decentralized nature of the blockchain means that it does not rely on any single entity or authority to validate and verify transactions. Instead, transactions are validated and verified by a network of users or nodes that work together to maintain the integrity of the ledger.
-
-Blockchain technology is best known as the underlying technology behind cryptocurrencies like Bitcoin, but it has many other potential applications, from supply chain management to voting systems. Its key features are decentralization, immutability, and transparency, making it a powerful tool for securely and transparently tracking and recording a wide range of data and transactions.

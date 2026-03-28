@@ -1,6 +1,0 @@
-List three applications of natural language processing.
-1. Sentiment Analysis: This application of NLP is used to determine the sentiment of a piece of text or speech, whether positive, negative or neutral. This is often used by businesses to gather insights on customer feedback and public opinions on social media and review platforms.
-
-2. Speech Recognition: This NLP application allows computer systems to interpret human speech and convert it into text or commands. Voice assistants like Siri, Google Assistant, and Amazon's Alexa all make use of speech recognition to carry out user requests.
-
-3. Machine Translation: By leveraging NLP techniques, machine translation software can automatically translate text or speech from one natural language to another. This is used in instant translation services, international communication, and language education.

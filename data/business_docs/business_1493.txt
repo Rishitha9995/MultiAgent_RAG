@@ -1,8 +1,0 @@
-Explain the differences between a Static Web page and a Dynamic Web page.
-A static web page displays the same information for all users and is not dependent on any user input or interaction, whereas a dynamic web page will change its content based on user input, interaction or other factors, such as the time of day or location of the user. 
-
-Static web pages are coded in HTML and are sent to the user's web browser exactly as they are stored on the server, with the content of the page remaining the same unless it is manually updated by the developer. They are easy to create, quick to load and are generally used for websites with static content, such as company or contact information.
-
-On the other hand, dynamic web pages rely on server-side scripting languages, such as PHP or ASP.NET, to generate the HTML that is sent to the user's web browser. The content of a dynamic page can change frequently, as it is generated on-the-fly based on user inputs, server-side logic or database queries. These types of pages are commonly used for web applications, e-commerce websites or any website that requires user interaction or personalized content.
-
-In summary, the main difference between static and dynamic web pages is the way their content is generated and presented to the user, with static pages remaining the same for all users, while dynamic pages can change based on various factors, including user input and interaction.

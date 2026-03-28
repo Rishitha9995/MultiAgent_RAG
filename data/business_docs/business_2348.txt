@@ -1,6 +1,0 @@
-Generate a list of at least 5 questions to ask a potential employer.
-1. Can you provide more information about the role and the responsibilities involved?
-2. What is the company's culture and how does it support employee growth and development?
-3. Can you share some details about the team I would be working with?
-4. What are the opportunities for growth and advancement within the company?
-5. How do you measure success and performance in this position?

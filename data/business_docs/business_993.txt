@@ -1,8 +1,0 @@
-Give four examples of natural language processing tasks
-1. Sentiment Analysis: This task involves analyzing text data in order to determine the emotion, tone, or opinion conveyed. For example, it can be used to determine whether product reviews are positive, negative, or neutral.
-
-2. Speech Recognition: This task involves converting spoken words into written text, which is commonly used for voice-activated assistants, speech-to-text dictation software, and in automated phone systems.
-
-3. Text Classification: This task involves assigning categories, labels or tags to text data.  Some common applications of text classification include email spam filtering and news article categorization, where news articles are automatically classified into various topics such as finance, sports or politics, etc.
-
-4. Named Entity Recognition: This task involves identifying and extracting certain specific types of information from unstructured text, such as names of people, organizations, locations, dates, and other types of entities that can commonly occur within text. It is commonly used in various applications such as chatbots, social media monitoring, and automated data extraction.

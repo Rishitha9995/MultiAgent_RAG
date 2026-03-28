@@ -1,6 +1,0 @@
-Explain what primary key is in a relational database.
-A primary key is an essential element of a relational database, as it serves as a unique identifier for each record or row within a table. It consists of a single column or a combination of columns that contain values with unique characteristics, ensuring that duplicate entries or records do not exist within the table.
-
-Having a primary key allows for efficient data retrieval, as it enables database management systems to quickly search for and locate specific data sets or records within large and complex data tables. It also helps maintain data integrity and consistency, as the primary key acts as a reference point for establishing relationships between multiple tables within a database.
-
-Overall, the primary key plays a crucial role in organizing and managing data within a relational database, ensuring that data is stored, accessed and manipulated in a structured and efficient manner.

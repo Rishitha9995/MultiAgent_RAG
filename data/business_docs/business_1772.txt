@@ -1,3 +1,0 @@
-Generate two questions related to a product launch.
-1. What unique features does the new online shopping experience offer compared to other platforms?
-2. How will the launch of the new online shopping experience be marketed to attract and engage customers?

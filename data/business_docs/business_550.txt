@@ -1,2 +1,0 @@
-Compose a tweet explaining why Python is a popular programming language.
-"Python is a popular programming language because of its simplicity, versatility, huge community support, and plethora of libraries and frameworks. From web development to machine learning, Python's applications are boundless. That's why it's loved by beginners, experts, and businesses alike! #PythonProgramming"

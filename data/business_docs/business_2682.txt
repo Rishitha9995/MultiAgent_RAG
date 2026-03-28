@@ -1,4 +1,0 @@
-Match the given words to their respective descriptions?
-Structured Query Language (SQL) is a standard programming language used for managing and manipulating relational databases. 
-
-Database Management System (DBMS) is a software system that enables users to define, create, maintain and control access to a database, and it may use SQL as its query language.

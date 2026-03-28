@@ -1,4 +1,0 @@
-Find the salary of a given job in a given city.
-I would love to help you with that!
-
-According to data from Glassdoor, as of August 2021, the average salary for a Software Engineer in Seattle, WA is around $113,749 per year. However, this is just an average estimation and the actual salary will vary depending on factors such as the company you work for, your level of experience, and specific skills you possess.

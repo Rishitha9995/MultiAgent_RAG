@@ -1,2 +1,0 @@
-Classify this article according to its content. Output one of the following options: medical, entertainment, business, sports, fashion.
-This article falls into the category of business.

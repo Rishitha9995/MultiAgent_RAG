@@ -1,8 +1,0 @@
-Explain what is an algorithmic trading.
-Algorithmic trading is a method of executing orders using automated pre-programmed trading instructions, accounting for variables such as time, price, and volume. These algorithms are designed and implemented by computer programs in the financial markets to trade in a fast and efficient manner, taking advantage of small discrepancies in the market.
-
-In its simplest form, an algorithmic trading strategy can be a set of rules for buying and selling assets, which takes into account market data, such as stock prices, trading volume, and other financial indicators. More complex algorithms may incorporate other data, such as news events or economic indicators, to make trading decisions.
-
-Algorithmic trading is used by investment banks, hedge funds, and other institutional investors to manage large volumes of trades and to take advantage of market opportunities that may only exist for a few seconds or less. It's also used by individual traders who employ automated trading systems to execute their trading strategies.
-
-Overall, algorithmic trading can help traders make more informed decisions, execute trades more accurately and quickly, and minimize the impact of emotions on their trading decisions.

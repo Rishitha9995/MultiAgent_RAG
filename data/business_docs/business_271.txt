@@ -1,9 +1,0 @@
-Rank the levels of hierarchy in a company.
-1. C-Level Executives (such as CEO, CFO, COO)
-2. Senior Management (such as Vice Presidents, Directors)
-3. Mid-Level Management (such as Managers, Department Heads, Branch Managers)
-4. Front-Line Management or Supervisors (such as Team Leaders, Coaches)
-5. Professional Staff (such as Lawyers, Engineers, Doctors)
-6. Administrative and Support Staff (such as Secretaries, Administrative Assistants, Technicians)
-7. Operatives and Manual Workers (such as Production Workers, Machine Operators, Assembly Line Workers)
-8. Interns, Entry-Level, and Temporary Staff.

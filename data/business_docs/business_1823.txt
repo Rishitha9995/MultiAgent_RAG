@@ -1,2 +1,0 @@
-Given a company logo, classify the company type.
-Based on the company logo "Ford", it can be classified as an automotive company that produces and sells cars and vehicles. Ford Motor Company is an American multinational automaker known for designing, manufacturing, and distributing automobiles worldwide.

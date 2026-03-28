@@ -1,8 +1,0 @@
-Explain why a blockchain application is suitable for this use case.
-A blockchain application would be suitable for tracking the movement of medical supplies for a number of reasons. 
-
-First, blockchain technology offers a high level of transparency and security. This is important in the medical industry, where it is essential to track the movement of supplies accurately and make sure they get to where they are needed. With blockchain, all transactions are recorded on a distributed ledger that is accessible to anyone, and records can't be altered once they have been entered. This makes it difficult for any type of fraud or mismanagement to take place.
-
-Second, blockchain can provide an immutable timestamped record of the entire supply chain journey. Every movement of the medical supplies from the distribution center to the store can be tracked in real-time, providing all parties with a detailed audit trail. By having an accurate record of the supply chain journey, it is easier to maintain quality control standards, manage inventory, and detect any potential problems.
-
-In summary, the use of a blockchain application for tracking the movement of medical supplies can provide transparency, security, and a detailed audit trail that can help prevent fraud, improve quality control, and manage inventory.

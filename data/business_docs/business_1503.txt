@@ -1,4 +1,0 @@
-Give two examples of data privacy rights
-1. Right to be forgotten: This privacy right allows individuals to request that personal data about them held by businesses and organizations be erased or deleted. This means that the individual has the right to remove their personal information from a company’s records if there is no legitimate reason for the company to retain it.
-
-2. Right to access: This privacy right allows individuals to request and receive a copy of the personal data that a company holds about them. The individual can ask for information about how their data is being processed and used, and the company is required to supply a copy of the data, usually in a commonly used format, within a specified timeframe.

@@ -1,6 +1,0 @@
-Name three benefits of using a given technology
-1. Cost effective: Cloud computing eliminates the need for expensive hardware and in-house infrastructures, thereby reducing the capital expenditure for businesses. It employs a pay-as-you-go model that allows companies to only pay for the resources they use, which can generate significant savings.
-
-2. Scalability: Cloud computing offers unlimited scalability, making it easy for businesses to increase or decrease their computing resources as per their needs. This provides a high level of flexibility and agility to organizations and helps them to adapt quickly to changing market needs.
-
-3. Accessibility and Collaboration: As long as there is an internet connection, cloud computing enables users to access their data and applications from anywhere in the world. This provides an opportunity for remote working and enhances collaboration between team members by allowing them to share and work on files and documents simultaneously.

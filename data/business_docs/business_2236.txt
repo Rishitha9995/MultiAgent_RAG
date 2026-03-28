@@ -1,4 +1,0 @@
-Organize the given sentences in a logical order.
-1. A group of people started a small business.
-2. Then they progressed to a full-fledged company.
-3. Finally, they released their first product.

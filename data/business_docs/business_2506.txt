@@ -1,2 +1,0 @@
-Replace all references to the company with "The Company".
-The Company is a leading technology company with global presence.

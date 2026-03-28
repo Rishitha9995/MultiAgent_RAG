@@ -1,8 +1,0 @@
-Compile a list of seven tools for creating a website.
-1. WordPress: WordPress is a highly popular content management system used for building and managing websites.
-2. Wix: Wix is a user-friendly website builder that offers an intuitive drag-and-drop editor for creating custom websites.
-3. Squarespace: Squarespace is a website builder with a focus on design, offering an array of professional-looking templates and customization options.
-4. Weebly: Weebly is another user-friendly website builder that makes it easy to create a professional-looking website in no time.
-5. Joomla: Joomla is a content management system similar to WordPress that offers a range of features for creating and managing websites.
-6. Shopify: Shopify is an e-commerce platform designed specifically for building online stores and managing inventory, payments, and shipping. 
-7. Adobe Dreamweaver: Adobe Dreamweaver is a professional web development tool that allows for advanced website creation and management.

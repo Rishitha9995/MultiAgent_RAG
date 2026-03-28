@@ -1,2 +1,0 @@
-Find the salary for a senior software engineer in the city of Seattle.
-Based on data from sites such as Glassdoor and Indeed, the average salary for a Senior Software Engineer in Seattle, Washington is approximately $142,830 per year. Keep in mind that this is an estimate and may vary depending on factors such as experience, skills, and the company in question.

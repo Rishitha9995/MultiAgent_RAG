@@ -1,2 +1,0 @@
-You are provided with a definition of a word. Generate an example sentence that illustrates the meaning of the word.
-The company was in dire financial straits and on the brink of bankruptcy.

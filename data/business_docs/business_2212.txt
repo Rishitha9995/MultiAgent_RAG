@@ -1,8 +1,0 @@
-Describe the value of a self-service system for customer support.
-A self-service system for customer support can provide many benefits for both the customer and the business providing the support. 
-
-For the customer, self-service systems offer quick and convenient access to information and support resources. This means that customers can often find the answers they need without having to wait on hold for a customer support representative. Self-service systems can be accessed when it is convenient for the customer, and there is no need to worry about the availability of a human support specialist. This enables the customer to address their support issue according to their own schedule.
-
-For a business, a self-service system can reduce the support workload for its customer support representatives, freeing them up to focus on more complex customer issues. A self-service system can also provide a consistent and accurate source of information for customers, ensuring they have access to the most up-to-date information. This reduces the likelihood of misinformation and can improve overall customer satisfaction.
-
-In summary, a self-service system can offer quick and convenient support to customers, while reducing workload and improving accuracy for the business providing the support.

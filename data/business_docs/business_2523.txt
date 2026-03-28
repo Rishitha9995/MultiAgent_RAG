@@ -1,2 +1,0 @@
-Read the article and extract all nouns. Output every noun, separated by comma.
-world, changes, transformation, stage, technology, businesses, opportunities, organizations, adoption, technologies, access, data, ways, tasks, solutions.

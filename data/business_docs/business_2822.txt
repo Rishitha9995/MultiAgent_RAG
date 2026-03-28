@@ -1,2 +1,0 @@
-Summarize the following text. Output the summary.
-The text discusses the devastation caused globally by Covid-19, including economic, health and personal consequences. Governments and individuals are trying to manage the spread of the virus and its effects on businesses and supply chains.

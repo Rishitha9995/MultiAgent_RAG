@@ -1,7 +1,0 @@
-For the following open-ended task, create a context-specific input.
-Dear valued customer,
-
-Thank you for reaching out to us and bringing your concern to our attention. We apologize for any inconvenience or frustration you may have experienced. We take all complaints seriously and we are committed to making things right. Could you please provide more details about the issue you are facing so that we can investigate and find a resolution for you? Your satisfaction is our top priority and we appreciate your willingness to communicate with us.
-
-Kind regards,
-[Your Company's Name] Customer Service Team

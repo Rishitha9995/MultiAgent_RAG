@@ -1,2 +1,0 @@
-Compose a marketing slogan for the given product.
-"Effortlessly bake perfection with our Cake Mix!"

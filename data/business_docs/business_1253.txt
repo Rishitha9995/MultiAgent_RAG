@@ -1,2 +1,0 @@
-Given a paragraph, summarize it.
-The global pandemic made 2020 a challenging year for many people, resulting in changes to daily life, including adapting to a new normal in business, schools, and social interactions.

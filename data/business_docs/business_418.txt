@@ -1,2 +1,0 @@
-Classify this news article according to its category.
-News Category: Business/Economy.

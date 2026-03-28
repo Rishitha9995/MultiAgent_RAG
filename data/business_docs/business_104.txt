@@ -1,2 +1,0 @@
-Provide an example of a metric that could be used to measure the success of a new marketing campaign.
-One example of a metric that could be used to measure the success of a new marketing campaign is the "Conversion Rate." This metric tracks the percentage of individuals who complete a desired action, such as making a purchase or signing up for a newsletter, after interacting with the campaign. A higher conversion rate would indicate that the marketing campaign is successfully persuading consumers to take a specific action, and therefore can be considered successful.

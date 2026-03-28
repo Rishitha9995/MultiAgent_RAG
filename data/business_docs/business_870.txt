@@ -1,2 +1,0 @@
-Given a fact, provide an opinion through a statement.
-In my opinion, the lower cost of prefab buildings makes them a more accessible and practical option for people and businesses looking to invest in property without breaking the bank.

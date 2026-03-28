@@ -1,8 +1,0 @@
-Classify the following product as either a necessity or luxury item: cell phone.
-A cell phone can be classified as both a necessity and a luxury item, depending on the context and the user. 
-
-For many people, a cell phone is a necessity because it is a primary means of communication, especially in urgent situations, and is required for work, managing finances, and keeping in touch. It allows access to information, and resources crucial to everyday life.
-
-On the other hand, high-end smartphones with advanced features and capabilities beyond the basic functions of communication and browsing can be considered luxury items. These devices are expensive and not necessarily essential to fulfill basic needs. 
-
-Overall, a basic cell phone can be considered a necessity, while high-end smartphones could be classified as luxury items.

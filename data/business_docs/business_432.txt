@@ -1,4 +1,0 @@
-Tell me two advantages of using AI assistants.
-1. Efficiency and Time Management: One of the major benefits of using an AI assistant is how they can help you save time and increase productivity. AI assistants are capable of automating repetitive tasks, scheduling appointments, managing emails, and more. Through these actions, they can streamline your workload and help you better manage your time.
-
-2. 24/7 Availability: Another advantage of AI assistants is that they are always available to help. Unlike human assistants, AI assistants can work 24/7 without requiring breaks or time off. This means that they can provide constant support, answering queries and performing tasks whenever needed, even outside of regular business hours.

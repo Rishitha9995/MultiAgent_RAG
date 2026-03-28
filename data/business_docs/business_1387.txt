@@ -1,6 +1,0 @@
-Provide a sensible response to a customer's service inquiry.
-Dear Customer,
-We apologize for the mistake in your order and any inconvenience it may have caused. Please contact our customer service team with your order number, as well as a description of the missing item. Our team will work to resolve the issue by either sending you the missing item or providing you with a refund or replacement option. We appreciate your business and will do everything we can to make this right. 
-
-Best regards,
-AI Assistant.

@@ -1,2 +1,0 @@
-Edit a given text by deleting the unnecessary words.
-She went to the market to buy oranges, apples and bananas.

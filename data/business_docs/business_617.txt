@@ -1,4 +1,0 @@
-Generate three potential slogans for an auctioneering company.
-1. "Bid with Confidence, Win with Satisfaction"
-2. "Fast Paced Action, High Stakes Satisfaction"
-3. "Where the Highest Bidder is Always the Winner"

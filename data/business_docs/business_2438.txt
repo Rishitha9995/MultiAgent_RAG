@@ -1,6 +1,0 @@
-Name three organizations that are doing research related to artificial intelligence.
-1. Massachusetts Institute of Technology (MIT) Computer Science and Artificial Intelligence Laboratory (CSAIL): The laboratory's main goal is to understand the nature of intelligence and how to embed it into machines. CSAIL is engaged in creating AI computational models of human cognitive abilities, improving machine-learning algorithms, natural language processing, and developing robots that sense, plan, and act in the world around them.
-
-2. OpenAI: OpenAI is a research company that develops artificial intelligence technologies with the goal of advancing the field in general and for the benefit of all humans. Their research focuses on developing and improving AI algorithms, training models, and studying the potential applications and implications of AI.
-
-3. Google DeepMind: DeepMind is Google's artificial intelligence research laboratory, working on advancing the state of the art in machine intelligence through research in areas such as deep learning, reinforcement learning, and the fundamentals of intelligence. DeepMind is also developing intelligent systems that can learn and adapt to new situations, assisting in healthcare and energy management, and conducting breakthrough research in computer science and neuroscience.

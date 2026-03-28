@@ -1,4 +1,0 @@
-Give two examples of how a business could use machine learning.
-1. Predictive Maintenance: A business could use machine learning to predict equipment failures before they happen. By analyzing sensor data from machines, machine learning algorithms can identify patterns that indicate a potential failure. The business can then schedule maintenance or take other preventative measures to reduce downtime, reduce costs, and improve efficiency.
-
-2. Customer Segmentation: A business could use machine learning to analyze customer data and behavior, identifying patterns and grouping customers into different segments based on shared characteristics. These segments could then be used for targeted marketing or personalized offers, improve customer retention, and increase sales.

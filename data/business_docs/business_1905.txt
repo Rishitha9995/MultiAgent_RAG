@@ -1,8 +1,0 @@
-Name four common types of software
-1. Operating Systems: Operating systems are the foundational software that manage a computer's hardware, resources and provide common services essential for all the other software applications on the computer. Examples include Windows, macOS, and Linux.
-
-2. Productivity Software: Productivity software is primarily designed for office and business use. These include word processors (Microsoft Word), spreadsheets (Microsoft Excel), presentation software (Microsoft PowerPoint), and many others.
-
-3. Multimedia Software: Multimedia software includes applications that are used for creating and editing video, audio, graphics and other forms of media. Examples of multimedia software include Adobe Photoshop, Adobe Premiere Pro, and Final Cut Pro X.
-
-4. Internet and Web Browsers: An internet or web browser is software used to access the internet, to retrieve, present, and transverse information resources. Common examples include Google Chrome, Microsoft Edge, Mozilla Firefox, and Safari.

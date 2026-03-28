@@ -1,6 +1,0 @@
-Name three characteristics of a good website design.
-1. User-Friendliness: A good website design should prioritize the user experience through intuitive navigation, clear layout, and easily accessible information. This includes fast load times, mobile responsiveness, and an overall ease of use for visitors.
-
-2. Aesthetically Pleasing: The visual design of a website should be attractive and consistent with the branding of the company or organization. Attention should be paid to color schemes, typography, use of whitespace, and images, all of which should come together to form an appealing and professional look.
-
-3. Clear Content: The content of a website should be well-written, informative, and engaging. It should be easy to read and understand, with concise language and a clear message. The content should match the purpose of the website, whether it's to provide information, sell products, or offer a service.

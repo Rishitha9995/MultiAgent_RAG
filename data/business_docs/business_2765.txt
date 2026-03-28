@@ -1,2 +1,0 @@
-Generate a summary of the text. Output the summary.
-Apple is an American technology company that designs, develops and sells electronics, software, and online services, and is headquartered in Cupertino, California.

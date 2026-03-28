@@ -1,6 +1,0 @@
-Explain the "80/20 rule"
-The "80/20 rule" is also known as the Pareto principle, named after Italian economist Vilfredo Pareto. This principle states that, for many events, roughly 80% of the effects come from 20% of the causes.
-
-In the context of business, the 80/20 rule suggests that 80% of a company's profits are likely to come from just 20% of its customers or from 20% of its products. It is also used to suggest that 80% of results may be achieved from 20% of the efforts.
-
-The principle can be applied to a wide range of situations to help prioritize resources and time when trying to achieve desired results. It is important to note, however, that the ratio is not always exact, and can vary depending on the specific situation. The underlying concept is that a small number of inputs can lead to the majority of the outputs or results.
